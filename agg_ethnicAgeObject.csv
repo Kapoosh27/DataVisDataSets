@@ -1,0 +1,2311 @@
+Officer-defined ethnicity,Date,Object of search,Gender,Age range,count
+Asian,2020-01-01,Anything to threaten or harm anyone,Female,10-17,1
+Asian,2020-01-01,Anything to threaten or harm anyone,Female,18-24,2
+Asian,2020-01-01,Anything to threaten or harm anyone,Female,25-34,4
+Asian,2020-01-01,Anything to threaten or harm anyone,Female,over 34,1
+Asian,2020-01-01,Anything to threaten or harm anyone,Male,10-17,31
+Asian,2020-01-01,Anything to threaten or harm anyone,Male,18-24,49
+Asian,2020-01-01,Anything to threaten or harm anyone,Male,25-34,24
+Asian,2020-01-01,Anything to threaten or harm anyone,Male,over 34,13
+Asian,2020-01-01,Articles for use in criminal damage,Male,10-17,6
+Asian,2020-01-01,Articles for use in criminal damage,Male,18-24,6
+Asian,2020-01-01,Articles for use in criminal damage,Male,25-34,1
+Asian,2020-01-01,Articles for use in criminal damage,Male,over 34,2
+Asian,2020-01-01,Controlled drugs,Female,10-17,9
+Asian,2020-01-01,Controlled drugs,Female,18-24,53
+Asian,2020-01-01,Controlled drugs,Female,25-34,25
+Asian,2020-01-01,Controlled drugs,Female,over 34,3
+Asian,2020-01-01,Controlled drugs,Male,10-17,295
+Asian,2020-01-01,Controlled drugs,Male,18-24,1401
+Asian,2020-01-01,Controlled drugs,Male,25-34,730
+Asian,2020-01-01,Controlled drugs,Male,over 34,285
+Asian,2020-01-01,Controlled drugs,Other,18-24,1
+Asian,2020-01-01,Evidence of offences under the Act,Male,10-17,27
+Asian,2020-01-01,Evidence of offences under the Act,Male,18-24,29
+Asian,2020-01-01,Evidence of offences under the Act,Male,25-34,18
+Asian,2020-01-01,Evidence of offences under the Act,Male,over 34,38
+Asian,2020-01-01,Firearms,Female,over 34,1
+Asian,2020-01-01,Firearms,Male,10-17,2
+Asian,2020-01-01,Firearms,Male,18-24,9
+Asian,2020-01-01,Firearms,Male,25-34,6
+Asian,2020-01-01,Firearms,Male,over 34,1
+Asian,2020-01-01,Fireworks,Male,10-17,2
+Asian,2020-01-01,Fireworks,Male,25-34,1
+Asian,2020-01-01,Offensive weapons,Female,10-17,15
+Asian,2020-01-01,Offensive weapons,Female,18-24,7
+Asian,2020-01-01,Offensive weapons,Male,10-17,162
+Asian,2020-01-01,Offensive weapons,Male,18-24,240
+Asian,2020-01-01,Offensive weapons,Male,25-34,94
+Asian,2020-01-01,Offensive weapons,Male,over 34,42
+Asian,2020-01-01,Stolen goods,Female,10-17,3
+Asian,2020-01-01,Stolen goods,Female,25-34,3
+Asian,2020-01-01,Stolen goods,Female,over 34,6
+Asian,2020-01-01,Stolen goods,Male,10-17,59
+Asian,2020-01-01,Stolen goods,Male,18-24,83
+Asian,2020-01-01,Stolen goods,Male,25-34,39
+Asian,2020-01-01,Stolen goods,Male,over 34,56
+Asian,2020-02-01,Anything to threaten or harm anyone,Male,10-17,18
+Asian,2020-02-01,Anything to threaten or harm anyone,Male,18-24,27
+Asian,2020-02-01,Anything to threaten or harm anyone,Male,25-34,14
+Asian,2020-02-01,Anything to threaten or harm anyone,Male,over 34,7
+Asian,2020-02-01,Anything to threaten or harm anyone,Other,10-17,1
+Asian,2020-02-01,Articles for use in criminal damage,Male,10-17,4
+Asian,2020-02-01,Articles for use in criminal damage,Male,18-24,2
+Asian,2020-02-01,Articles for use in criminal damage,Male,over 34,1
+Asian,2020-02-01,Controlled drugs,Female,10-17,11
+Asian,2020-02-01,Controlled drugs,Female,18-24,44
+Asian,2020-02-01,Controlled drugs,Female,25-34,24
+Asian,2020-02-01,Controlled drugs,Female,over 34,9
+Asian,2020-02-01,Controlled drugs,Male,10-17,271
+Asian,2020-02-01,Controlled drugs,Male,18-24,1159
+Asian,2020-02-01,Controlled drugs,Male,25-34,596
+Asian,2020-02-01,Controlled drugs,Male,over 34,213
+Asian,2020-02-01,Controlled drugs,Other,18-24,1
+Asian,2020-02-01,Evidence of offences under the Act,Female,10-17,1
+Asian,2020-02-01,Evidence of offences under the Act,Male,10-17,31
+Asian,2020-02-01,Evidence of offences under the Act,Male,18-24,23
+Asian,2020-02-01,Evidence of offences under the Act,Male,25-34,19
+Asian,2020-02-01,Evidence of offences under the Act,Male,over 34,21
+Asian,2020-02-01,Firearms,Female,25-34,1
+Asian,2020-02-01,Firearms,Female,over 34,1
+Asian,2020-02-01,Firearms,Male,10-17,2
+Asian,2020-02-01,Firearms,Male,18-24,7
+Asian,2020-02-01,Firearms,Male,25-34,5
+Asian,2020-02-01,Fireworks,Male,10-17,2
+Asian,2020-02-01,Offensive weapons,Female,10-17,4
+Asian,2020-02-01,Offensive weapons,Female,18-24,5
+Asian,2020-02-01,Offensive weapons,Female,25-34,1
+Asian,2020-02-01,Offensive weapons,Female,over 34,1
+Asian,2020-02-01,Offensive weapons,Male,10-17,136
+Asian,2020-02-01,Offensive weapons,Male,18-24,170
+Asian,2020-02-01,Offensive weapons,Male,25-34,65
+Asian,2020-02-01,Offensive weapons,Male,over 34,26
+Asian,2020-02-01,Offensive weapons,Male,under 10,1
+Asian,2020-02-01,Stolen goods,Female,10-17,2
+Asian,2020-02-01,Stolen goods,Female,18-24,1
+Asian,2020-02-01,Stolen goods,Female,25-34,5
+Asian,2020-02-01,Stolen goods,Female,over 34,5
+Asian,2020-02-01,Stolen goods,Male,10-17,54
+Asian,2020-02-01,Stolen goods,Male,18-24,71
+Asian,2020-02-01,Stolen goods,Male,25-34,47
+Asian,2020-02-01,Stolen goods,Male,over 34,38
+Asian,2020-03-01,Anything to threaten or harm anyone,Female,10-17,2
+Asian,2020-03-01,Anything to threaten or harm anyone,Female,25-34,1
+Asian,2020-03-01,Anything to threaten or harm anyone,Male,10-17,11
+Asian,2020-03-01,Anything to threaten or harm anyone,Male,18-24,47
+Asian,2020-03-01,Anything to threaten or harm anyone,Male,25-34,20
+Asian,2020-03-01,Anything to threaten or harm anyone,Male,over 34,8
+Asian,2020-03-01,Articles for use in criminal damage,Male,over 34,1
+Asian,2020-03-01,Controlled drugs,Female,10-17,6
+Asian,2020-03-01,Controlled drugs,Female,18-24,48
+Asian,2020-03-01,Controlled drugs,Female,25-34,14
+Asian,2020-03-01,Controlled drugs,Female,over 34,5
+Asian,2020-03-01,Controlled drugs,Male,10-17,256
+Asian,2020-03-01,Controlled drugs,Male,18-24,1202
+Asian,2020-03-01,Controlled drugs,Male,25-34,613
+Asian,2020-03-01,Controlled drugs,Male,over 34,257
+Asian,2020-03-01,Controlled drugs,Male,under 10,1
+Asian,2020-03-01,Controlled drugs,Other,18-24,2
+Asian,2020-03-01,Controlled drugs,Other,25-34,1
+Asian,2020-03-01,Evidence of offences under the Act,Female,10-17,2
+Asian,2020-03-01,Evidence of offences under the Act,Female,over 34,2
+Asian,2020-03-01,Evidence of offences under the Act,Male,10-17,13
+Asian,2020-03-01,Evidence of offences under the Act,Male,18-24,30
+Asian,2020-03-01,Evidence of offences under the Act,Male,25-34,20
+Asian,2020-03-01,Evidence of offences under the Act,Male,over 34,20
+Asian,2020-03-01,Evidence of offences under the Act,Other,10-17,1
+Asian,2020-03-01,Firearms,Male,18-24,6
+Asian,2020-03-01,Firearms,Male,25-34,2
+Asian,2020-03-01,Firearms,Male,over 34,1
+Asian,2020-03-01,Fireworks,Male,18-24,3
+Asian,2020-03-01,Offensive weapons,Female,10-17,3
+Asian,2020-03-01,Offensive weapons,Female,18-24,4
+Asian,2020-03-01,Offensive weapons,Female,25-34,2
+Asian,2020-03-01,Offensive weapons,Female,over 34,2
+Asian,2020-03-01,Offensive weapons,Male,10-17,127
+Asian,2020-03-01,Offensive weapons,Male,18-24,182
+Asian,2020-03-01,Offensive weapons,Male,25-34,72
+Asian,2020-03-01,Offensive weapons,Male,over 34,34
+Asian,2020-03-01,Stolen goods,Female,18-24,1
+Asian,2020-03-01,Stolen goods,Female,25-34,2
+Asian,2020-03-01,Stolen goods,Female,over 34,1
+Asian,2020-03-01,Stolen goods,Male,10-17,58
+Asian,2020-03-01,Stolen goods,Male,18-24,80
+Asian,2020-03-01,Stolen goods,Male,25-34,58
+Asian,2020-03-01,Stolen goods,Male,over 34,39
+Asian,2020-04-01,Anything to threaten or harm anyone,Male,10-17,5
+Asian,2020-04-01,Anything to threaten or harm anyone,Male,18-24,16
+Asian,2020-04-01,Anything to threaten or harm anyone,Male,25-34,4
+Asian,2020-04-01,Anything to threaten or harm anyone,Male,over 34,2
+Asian,2020-04-01,Articles for use in criminal damage,Female,10-17,1
+Asian,2020-04-01,Articles for use in criminal damage,Male,18-24,1
+Asian,2020-04-01,Articles for use in criminal damage,Male,25-34,2
+Asian,2020-04-01,Controlled drugs,Female,10-17,7
+Asian,2020-04-01,Controlled drugs,Female,18-24,48
+Asian,2020-04-01,Controlled drugs,Female,25-34,36
+Asian,2020-04-01,Controlled drugs,Female,over 34,10
+Asian,2020-04-01,Controlled drugs,Male,10-17,253
+Asian,2020-04-01,Controlled drugs,Male,18-24,1695
+Asian,2020-04-01,Controlled drugs,Male,25-34,989
+Asian,2020-04-01,Controlled drugs,Male,over 34,397
+Asian,2020-04-01,Controlled drugs,Male,under 10,2
+Asian,2020-04-01,Controlled drugs,Other,25-34,1
+Asian,2020-04-01,Evidence of offences under the Act,Female,25-34,1
+Asian,2020-04-01,Evidence of offences under the Act,Male,10-17,15
+Asian,2020-04-01,Evidence of offences under the Act,Male,18-24,45
+Asian,2020-04-01,Evidence of offences under the Act,Male,25-34,30
+Asian,2020-04-01,Evidence of offences under the Act,Male,over 34,40
+Asian,2020-04-01,Firearms,Male,10-17,1
+Asian,2020-04-01,Firearms,Male,18-24,7
+Asian,2020-04-01,Firearms,Male,25-34,5
+Asian,2020-04-01,Firearms,Male,over 34,1
+Asian,2020-04-01,Fireworks,Male,10-17,1
+Asian,2020-04-01,Fireworks,Male,18-24,1
+Asian,2020-04-01,Offensive weapons,Female,18-24,7
+Asian,2020-04-01,Offensive weapons,Female,25-34,1
+Asian,2020-04-01,Offensive weapons,Female,over 34,2
+Asian,2020-04-01,Offensive weapons,Male,10-17,70
+Asian,2020-04-01,Offensive weapons,Male,18-24,210
+Asian,2020-04-01,Offensive weapons,Male,25-34,123
+Asian,2020-04-01,Offensive weapons,Male,over 34,41
+Asian,2020-04-01,Offensive weapons,Male,under 10,1
+Asian,2020-04-01,Stolen goods,Female,10-17,1
+Asian,2020-04-01,Stolen goods,Female,18-24,4
+Asian,2020-04-01,Stolen goods,Female,25-34,2
+Asian,2020-04-01,Stolen goods,Female,over 34,5
+Asian,2020-04-01,Stolen goods,Male,10-17,40
+Asian,2020-04-01,Stolen goods,Male,18-24,72
+Asian,2020-04-01,Stolen goods,Male,25-34,58
+Asian,2020-04-01,Stolen goods,Male,over 34,50
+Asian,2020-05-01,Anything to threaten or harm anyone,Female,18-24,2
+Asian,2020-05-01,Anything to threaten or harm anyone,Male,10-17,20
+Asian,2020-05-01,Anything to threaten or harm anyone,Male,18-24,105
+Asian,2020-05-01,Anything to threaten or harm anyone,Male,25-34,60
+Asian,2020-05-01,Anything to threaten or harm anyone,Male,over 34,16
+Asian,2020-05-01,Articles for use in criminal damage,Female,18-24,1
+Asian,2020-05-01,Articles for use in criminal damage,Male,10-17,3
+Asian,2020-05-01,Articles for use in criminal damage,Male,18-24,3
+Asian,2020-05-01,Articles for use in criminal damage,Male,25-34,2
+Asian,2020-05-01,Articles for use in criminal damage,Male,over 34,2
+Asian,2020-05-01,Controlled drugs,Female,10-17,13
+Asian,2020-05-01,Controlled drugs,Female,18-24,95
+Asian,2020-05-01,Controlled drugs,Female,25-34,60
+Asian,2020-05-01,Controlled drugs,Female,over 34,18
+Asian,2020-05-01,Controlled drugs,Male,10-17,384
+Asian,2020-05-01,Controlled drugs,Male,18-24,2262
+Asian,2020-05-01,Controlled drugs,Male,25-34,1267
+Asian,2020-05-01,Controlled drugs,Male,over 34,518
+Asian,2020-05-01,Controlled drugs,Male,under 10,1
+Asian,2020-05-01,Controlled drugs,Other,18-24,3
+Asian,2020-05-01,Controlled drugs,Other,25-34,3
+Asian,2020-05-01,Evidence of offences under the Act,Female,10-17,3
+Asian,2020-05-01,Evidence of offences under the Act,Female,18-24,1
+Asian,2020-05-01,Evidence of offences under the Act,Female,25-34,1
+Asian,2020-05-01,Evidence of offences under the Act,Male,10-17,24
+Asian,2020-05-01,Evidence of offences under the Act,Male,18-24,42
+Asian,2020-05-01,Evidence of offences under the Act,Male,25-34,49
+Asian,2020-05-01,Evidence of offences under the Act,Male,over 34,37
+Asian,2020-05-01,Firearms,Female,over 34,3
+Asian,2020-05-01,Firearms,Male,18-24,6
+Asian,2020-05-01,Firearms,Male,25-34,2
+Asian,2020-05-01,Firearms,Male,over 34,2
+Asian,2020-05-01,Fireworks,Male,10-17,1
+Asian,2020-05-01,Fireworks,Male,25-34,2
+Asian,2020-05-01,Fireworks,Male,over 34,1
+Asian,2020-05-01,Offensive weapons,Female,18-24,8
+Asian,2020-05-01,Offensive weapons,Female,25-34,5
+Asian,2020-05-01,Offensive weapons,Female,over 34,2
+Asian,2020-05-01,Offensive weapons,Male,10-17,141
+Asian,2020-05-01,Offensive weapons,Male,18-24,377
+Asian,2020-05-01,Offensive weapons,Male,25-34,169
+Asian,2020-05-01,Offensive weapons,Male,over 34,77
+Asian,2020-05-01,Stolen goods,Female,10-17,1
+Asian,2020-05-01,Stolen goods,Female,18-24,5
+Asian,2020-05-01,Stolen goods,Female,25-34,2
+Asian,2020-05-01,Stolen goods,Female,over 34,1
+Asian,2020-05-01,Stolen goods,Male,10-17,37
+Asian,2020-05-01,Stolen goods,Male,18-24,100
+Asian,2020-05-01,Stolen goods,Male,25-34,80
+Asian,2020-05-01,Stolen goods,Male,over 34,64
+Asian,2020-06-01,Anything to threaten or harm anyone,Female,10-17,1
+Asian,2020-06-01,Anything to threaten or harm anyone,Female,18-24,1
+Asian,2020-06-01,Anything to threaten or harm anyone,Female,25-34,1
+Asian,2020-06-01,Anything to threaten or harm anyone,Male,10-17,10
+Asian,2020-06-01,Anything to threaten or harm anyone,Male,18-24,41
+Asian,2020-06-01,Anything to threaten or harm anyone,Male,25-34,34
+Asian,2020-06-01,Anything to threaten or harm anyone,Male,over 34,7
+Asian,2020-06-01,Articles for use in criminal damage,Female,18-24,1
+Asian,2020-06-01,Articles for use in criminal damage,Male,10-17,2
+Asian,2020-06-01,Articles for use in criminal damage,Male,18-24,1
+Asian,2020-06-01,Articles for use in criminal damage,Male,over 34,3
+Asian,2020-06-01,Controlled drugs,Female,10-17,9
+Asian,2020-06-01,Controlled drugs,Female,18-24,60
+Asian,2020-06-01,Controlled drugs,Female,25-34,17
+Asian,2020-06-01,Controlled drugs,Female,over 34,9
+Asian,2020-06-01,Controlled drugs,Male,10-17,372
+Asian,2020-06-01,Controlled drugs,Male,18-24,1691
+Asian,2020-06-01,Controlled drugs,Male,25-34,872
+Asian,2020-06-01,Controlled drugs,Male,over 34,395
+Asian,2020-06-01,Controlled drugs,Male,under 10,2
+Asian,2020-06-01,Evidence of offences under the Act,Female,18-24,2
+Asian,2020-06-01,Evidence of offences under the Act,Male,10-17,25
+Asian,2020-06-01,Evidence of offences under the Act,Male,18-24,35
+Asian,2020-06-01,Evidence of offences under the Act,Male,25-34,24
+Asian,2020-06-01,Evidence of offences under the Act,Male,over 34,27
+Asian,2020-06-01,Firearms,Female,18-24,1
+Asian,2020-06-01,Firearms,Female,over 34,1
+Asian,2020-06-01,Firearms,Male,10-17,5
+Asian,2020-06-01,Firearms,Male,18-24,12
+Asian,2020-06-01,Firearms,Male,25-34,4
+Asian,2020-06-01,Firearms,Male,over 34,6
+Asian,2020-06-01,Fireworks,Male,18-24,1
+Asian,2020-06-01,Offensive weapons,Female,18-24,2
+Asian,2020-06-01,Offensive weapons,Female,25-34,5
+Asian,2020-06-01,Offensive weapons,Female,over 34,3
+Asian,2020-06-01,Offensive weapons,Male,10-17,113
+Asian,2020-06-01,Offensive weapons,Male,18-24,261
+Asian,2020-06-01,Offensive weapons,Male,25-34,125
+Asian,2020-06-01,Offensive weapons,Male,over 34,46
+Asian,2020-06-01,Stolen goods,Female,10-17,1
+Asian,2020-06-01,Stolen goods,Female,18-24,4
+Asian,2020-06-01,Stolen goods,Female,25-34,4
+Asian,2020-06-01,Stolen goods,Female,over 34,5
+Asian,2020-06-01,Stolen goods,Male,10-17,38
+Asian,2020-06-01,Stolen goods,Male,18-24,71
+Asian,2020-06-01,Stolen goods,Male,25-34,65
+Asian,2020-06-01,Stolen goods,Male,over 34,51
+Asian,2020-07-01,Anything to threaten or harm anyone,Male,10-17,8
+Asian,2020-07-01,Anything to threaten or harm anyone,Male,18-24,40
+Asian,2020-07-01,Anything to threaten or harm anyone,Male,25-34,13
+Asian,2020-07-01,Anything to threaten or harm anyone,Male,over 34,8
+Asian,2020-07-01,Articles for use in criminal damage,Male,10-17,2
+Asian,2020-07-01,Articles for use in criminal damage,Male,25-34,1
+Asian,2020-07-01,Articles for use in criminal damage,Male,over 34,1
+Asian,2020-07-01,Controlled drugs,Female,10-17,5
+Asian,2020-07-01,Controlled drugs,Female,18-24,52
+Asian,2020-07-01,Controlled drugs,Female,25-34,29
+Asian,2020-07-01,Controlled drugs,Female,over 34,13
+Asian,2020-07-01,Controlled drugs,Male,10-17,273
+Asian,2020-07-01,Controlled drugs,Male,18-24,1325
+Asian,2020-07-01,Controlled drugs,Male,25-34,807
+Asian,2020-07-01,Controlled drugs,Male,over 34,395
+Asian,2020-07-01,Controlled drugs,Male,under 10,1
+Asian,2020-07-01,Evidence of offences under the Act,Female,10-17,1
+Asian,2020-07-01,Evidence of offences under the Act,Female,over 34,1
+Asian,2020-07-01,Evidence of offences under the Act,Male,10-17,9
+Asian,2020-07-01,Evidence of offences under the Act,Male,18-24,26
+Asian,2020-07-01,Evidence of offences under the Act,Male,25-34,25
+Asian,2020-07-01,Evidence of offences under the Act,Male,over 34,17
+Asian,2020-07-01,Firearms,Male,10-17,1
+Asian,2020-07-01,Firearms,Male,18-24,5
+Asian,2020-07-01,Firearms,Male,25-34,3
+Asian,2020-07-01,Firearms,Male,over 34,4
+Asian,2020-07-01,Fireworks,Male,10-17,1
+Asian,2020-07-01,Offensive weapons,Female,18-24,5
+Asian,2020-07-01,Offensive weapons,Female,25-34,3
+Asian,2020-07-01,Offensive weapons,Female,over 34,1
+Asian,2020-07-01,Offensive weapons,Male,10-17,104
+Asian,2020-07-01,Offensive weapons,Male,18-24,169
+Asian,2020-07-01,Offensive weapons,Male,25-34,67
+Asian,2020-07-01,Offensive weapons,Male,over 34,34
+Asian,2020-07-01,Offensive weapons,Other,25-34,1
+Asian,2020-07-01,Stolen goods,Female,10-17,1
+Asian,2020-07-01,Stolen goods,Female,18-24,2
+Asian,2020-07-01,Stolen goods,Female,25-34,2
+Asian,2020-07-01,Stolen goods,Female,over 34,3
+Asian,2020-07-01,Stolen goods,Male,10-17,35
+Asian,2020-07-01,Stolen goods,Male,18-24,67
+Asian,2020-07-01,Stolen goods,Male,25-34,60
+Asian,2020-07-01,Stolen goods,Male,over 34,48
+Asian,2020-08-01,Anything to threaten or harm anyone,Female,10-17,1
+Asian,2020-08-01,Anything to threaten or harm anyone,Female,18-24,1
+Asian,2020-08-01,Anything to threaten or harm anyone,Male,10-17,3
+Asian,2020-08-01,Anything to threaten or harm anyone,Male,18-24,13
+Asian,2020-08-01,Anything to threaten or harm anyone,Male,25-34,10
+Asian,2020-08-01,Anything to threaten or harm anyone,Male,over 34,3
+Asian,2020-08-01,Articles for use in criminal damage,Female,18-24,1
+Asian,2020-08-01,Articles for use in criminal damage,Male,10-17,1
+Asian,2020-08-01,Articles for use in criminal damage,Male,18-24,1
+Asian,2020-08-01,Articles for use in criminal damage,Male,25-34,1
+Asian,2020-08-01,Articles for use in criminal damage,Male,over 34,1
+Asian,2020-08-01,Controlled drugs,Female,10-17,2
+Asian,2020-08-01,Controlled drugs,Female,18-24,46
+Asian,2020-08-01,Controlled drugs,Female,25-34,18
+Asian,2020-08-01,Controlled drugs,Female,over 34,10
+Asian,2020-08-01,Controlled drugs,Male,10-17,181
+Asian,2020-08-01,Controlled drugs,Male,18-24,962
+Asian,2020-08-01,Controlled drugs,Male,25-34,557
+Asian,2020-08-01,Controlled drugs,Male,over 34,256
+Asian,2020-08-01,Controlled drugs,Male,under 10,1
+Asian,2020-08-01,Controlled drugs,Other,25-34,1
+Asian,2020-08-01,Controlled drugs,Other,over 34,1
+Asian,2020-08-01,Evidence of offences under the Act,Female,10-17,2
+Asian,2020-08-01,Evidence of offences under the Act,Female,25-34,1
+Asian,2020-08-01,Evidence of offences under the Act,Female,over 34,4
+Asian,2020-08-01,Evidence of offences under the Act,Male,10-17,13
+Asian,2020-08-01,Evidence of offences under the Act,Male,18-24,26
+Asian,2020-08-01,Evidence of offences under the Act,Male,25-34,23
+Asian,2020-08-01,Evidence of offences under the Act,Male,over 34,18
+Asian,2020-08-01,Firearms,Female,10-17,1
+Asian,2020-08-01,Firearms,Male,10-17,1
+Asian,2020-08-01,Firearms,Male,18-24,5
+Asian,2020-08-01,Firearms,Male,25-34,7
+Asian,2020-08-01,Firearms,Male,over 34,1
+Asian,2020-08-01,Fireworks,Male,10-17,1
+Asian,2020-08-01,Fireworks,Male,18-24,1
+Asian,2020-08-01,Fireworks,Male,25-34,1
+Asian,2020-08-01,Offensive weapons,Female,10-17,1
+Asian,2020-08-01,Offensive weapons,Female,18-24,1
+Asian,2020-08-01,Offensive weapons,Female,25-34,4
+Asian,2020-08-01,Offensive weapons,Male,10-17,77
+Asian,2020-08-01,Offensive weapons,Male,18-24,137
+Asian,2020-08-01,Offensive weapons,Male,25-34,70
+Asian,2020-08-01,Offensive weapons,Male,over 34,38
+Asian,2020-08-01,Stolen goods,Female,18-24,3
+Asian,2020-08-01,Stolen goods,Female,25-34,6
+Asian,2020-08-01,Stolen goods,Female,over 34,4
+Asian,2020-08-01,Stolen goods,Male,10-17,42
+Asian,2020-08-01,Stolen goods,Male,18-24,42
+Asian,2020-08-01,Stolen goods,Male,25-34,45
+Asian,2020-08-01,Stolen goods,Male,over 34,43
+Asian,2020-09-01,Anything to threaten or harm anyone,Female,over 34,1
+Asian,2020-09-01,Anything to threaten or harm anyone,Male,10-17,9
+Asian,2020-09-01,Anything to threaten or harm anyone,Male,18-24,21
+Asian,2020-09-01,Anything to threaten or harm anyone,Male,25-34,6
+Asian,2020-09-01,Anything to threaten or harm anyone,Male,over 34,3
+Asian,2020-09-01,Articles for use in criminal damage,Male,18-24,1
+Asian,2020-09-01,Articles for use in criminal damage,Male,25-34,1
+Asian,2020-09-01,Articles for use in criminal damage,Male,over 34,1
+Asian,2020-09-01,Controlled drugs,Female,10-17,4
+Asian,2020-09-01,Controlled drugs,Female,18-24,45
+Asian,2020-09-01,Controlled drugs,Female,25-34,21
+Asian,2020-09-01,Controlled drugs,Female,over 34,10
+Asian,2020-09-01,Controlled drugs,Male,10-17,156
+Asian,2020-09-01,Controlled drugs,Male,18-24,960
+Asian,2020-09-01,Controlled drugs,Male,25-34,573
+Asian,2020-09-01,Controlled drugs,Male,over 34,269
+Asian,2020-09-01,Controlled drugs,Other,18-24,1
+Asian,2020-09-01,Evidence of offences under the Act,Female,10-17,1
+Asian,2020-09-01,Evidence of offences under the Act,Male,10-17,10
+Asian,2020-09-01,Evidence of offences under the Act,Male,18-24,20
+Asian,2020-09-01,Evidence of offences under the Act,Male,25-34,14
+Asian,2020-09-01,Evidence of offences under the Act,Male,over 34,25
+Asian,2020-09-01,Firearms,Female,18-24,1
+Asian,2020-09-01,Firearms,Male,10-17,3
+Asian,2020-09-01,Firearms,Male,18-24,6
+Asian,2020-09-01,Firearms,Male,25-34,8
+Asian,2020-09-01,Firearms,Male,over 34,3
+Asian,2020-09-01,Fireworks,Male,18-24,1
+Asian,2020-09-01,Offensive weapons,Female,10-17,1
+Asian,2020-09-01,Offensive weapons,Female,18-24,1
+Asian,2020-09-01,Offensive weapons,Female,25-34,2
+Asian,2020-09-01,Offensive weapons,Female,over 34,1
+Asian,2020-09-01,Offensive weapons,Male,10-17,98
+Asian,2020-09-01,Offensive weapons,Male,18-24,175
+Asian,2020-09-01,Offensive weapons,Male,25-34,83
+Asian,2020-09-01,Offensive weapons,Male,over 34,33
+Asian,2020-09-01,Stolen goods,Female,over 34,1
+Asian,2020-09-01,Stolen goods,Male,10-17,30
+Asian,2020-09-01,Stolen goods,Male,18-24,69
+Asian,2020-09-01,Stolen goods,Male,25-34,44
+Asian,2020-09-01,Stolen goods,Male,over 34,44
+Asian,2020-09-01,Stolen goods,Other,18-24,1
+Asian,2020-10-01,Anything to threaten or harm anyone,Male,10-17,6
+Asian,2020-10-01,Anything to threaten or harm anyone,Male,18-24,25
+Asian,2020-10-01,Anything to threaten or harm anyone,Male,25-34,11
+Asian,2020-10-01,Articles for use in criminal damage,Male,10-17,3
+Asian,2020-10-01,Articles for use in criminal damage,Male,18-24,3
+Asian,2020-10-01,Articles for use in criminal damage,Male,25-34,1
+Asian,2020-10-01,Controlled drugs,Female,10-17,8
+Asian,2020-10-01,Controlled drugs,Female,18-24,58
+Asian,2020-10-01,Controlled drugs,Female,25-34,26
+Asian,2020-10-01,Controlled drugs,Female,over 34,14
+Asian,2020-10-01,Controlled drugs,Male,10-17,209
+Asian,2020-10-01,Controlled drugs,Male,18-24,1304
+Asian,2020-10-01,Controlled drugs,Male,25-34,793
+Asian,2020-10-01,Controlled drugs,Male,over 34,341
+Asian,2020-10-01,Controlled drugs,Male,under 10,1
+Asian,2020-10-01,Evidence of offences under the Act,Female,18-24,1
+Asian,2020-10-01,Evidence of offences under the Act,Female,over 34,2
+Asian,2020-10-01,Evidence of offences under the Act,Male,10-17,24
+Asian,2020-10-01,Evidence of offences under the Act,Male,18-24,29
+Asian,2020-10-01,Evidence of offences under the Act,Male,25-34,22
+Asian,2020-10-01,Evidence of offences under the Act,Male,over 34,28
+Asian,2020-10-01,Firearms,Female,18-24,2
+Asian,2020-10-01,Firearms,Female,25-34,2
+Asian,2020-10-01,Firearms,Male,10-17,4
+Asian,2020-10-01,Firearms,Male,18-24,6
+Asian,2020-10-01,Firearms,Male,25-34,4
+Asian,2020-10-01,Fireworks,Female,18-24,2
+Asian,2020-10-01,Fireworks,Male,10-17,37
+Asian,2020-10-01,Fireworks,Male,18-24,8
+Asian,2020-10-01,Fireworks,Male,25-34,1
+Asian,2020-10-01,Offensive weapons,Female,10-17,3
+Asian,2020-10-01,Offensive weapons,Female,18-24,2
+Asian,2020-10-01,Offensive weapons,Female,25-34,5
+Asian,2020-10-01,Offensive weapons,Male,10-17,103
+Asian,2020-10-01,Offensive weapons,Male,18-24,158
+Asian,2020-10-01,Offensive weapons,Male,25-34,73
+Asian,2020-10-01,Offensive weapons,Male,over 34,47
+Asian,2020-10-01,Offensive weapons,Other,25-34,1
+Asian,2020-10-01,Stolen goods,Female,10-17,1
+Asian,2020-10-01,Stolen goods,Female,18-24,2
+Asian,2020-10-01,Stolen goods,Female,25-34,2
+Asian,2020-10-01,Stolen goods,Female,over 34,3
+Asian,2020-10-01,Stolen goods,Male,10-17,52
+Asian,2020-10-01,Stolen goods,Male,18-24,58
+Asian,2020-10-01,Stolen goods,Male,25-34,48
+Asian,2020-10-01,Stolen goods,Male,over 34,51
+Asian,2020-10-01,Stolen goods,Other,over 34,1
+Asian,2020-11-01,Anything to threaten or harm anyone,Female,18-24,1
+Asian,2020-11-01,Anything to threaten or harm anyone,Male,10-17,7
+Asian,2020-11-01,Anything to threaten or harm anyone,Male,18-24,40
+Asian,2020-11-01,Anything to threaten or harm anyone,Male,25-34,11
+Asian,2020-11-01,Anything to threaten or harm anyone,Male,over 34,5
+Asian,2020-11-01,Articles for use in criminal damage,Female,25-34,2
+Asian,2020-11-01,Articles for use in criminal damage,Male,10-17,1
+Asian,2020-11-01,Articles for use in criminal damage,Male,18-24,2
+Asian,2020-11-01,Articles for use in criminal damage,Male,25-34,2
+Asian,2020-11-01,Articles for use in criminal damage,Male,over 34,6
+Asian,2020-11-01,Controlled drugs,Female,10-17,12
+Asian,2020-11-01,Controlled drugs,Female,18-24,78
+Asian,2020-11-01,Controlled drugs,Female,25-34,46
+Asian,2020-11-01,Controlled drugs,Female,over 34,13
+Asian,2020-11-01,Controlled drugs,Male,10-17,235
+Asian,2020-11-01,Controlled drugs,Male,18-24,1349
+Asian,2020-11-01,Controlled drugs,Male,25-34,826
+Asian,2020-11-01,Controlled drugs,Male,over 34,385
+Asian,2020-11-01,Controlled drugs,Male,under 10,2
+Asian,2020-11-01,Controlled drugs,Other,18-24,1
+Asian,2020-11-01,Evidence of offences under the Act,Female,over 34,3
+Asian,2020-11-01,Evidence of offences under the Act,Male,10-17,17
+Asian,2020-11-01,Evidence of offences under the Act,Male,18-24,32
+Asian,2020-11-01,Evidence of offences under the Act,Male,25-34,22
+Asian,2020-11-01,Evidence of offences under the Act,Male,over 34,23
+Asian,2020-11-01,Firearms,Male,18-24,4
+Asian,2020-11-01,Firearms,Male,25-34,2
+Asian,2020-11-01,Firearms,Male,over 34,2
+Asian,2020-11-01,Fireworks,Female,10-17,1
+Asian,2020-11-01,Fireworks,Male,10-17,15
+Asian,2020-11-01,Fireworks,Male,18-24,15
+Asian,2020-11-01,Fireworks,Male,25-34,8
+Asian,2020-11-01,Fireworks,Male,over 34,1
+Asian,2020-11-01,Fireworks,Male,under 10,1
+Asian,2020-11-01,Offensive weapons,Female,18-24,4
+Asian,2020-11-01,Offensive weapons,Female,25-34,1
+Asian,2020-11-01,Offensive weapons,Female,over 34,1
+Asian,2020-11-01,Offensive weapons,Male,10-17,105
+Asian,2020-11-01,Offensive weapons,Male,18-24,175
+Asian,2020-11-01,Offensive weapons,Male,25-34,102
+Asian,2020-11-01,Offensive weapons,Male,over 34,37
+Asian,2020-11-01,Stolen goods,Female,18-24,3
+Asian,2020-11-01,Stolen goods,Female,25-34,3
+Asian,2020-11-01,Stolen goods,Female,over 34,5
+Asian,2020-11-01,Stolen goods,Male,10-17,34
+Asian,2020-11-01,Stolen goods,Male,18-24,64
+Asian,2020-11-01,Stolen goods,Male,25-34,48
+Asian,2020-11-01,Stolen goods,Male,over 34,60
+Asian,2020-12-01,Anything to threaten or harm anyone,Female,25-34,1
+Asian,2020-12-01,Anything to threaten or harm anyone,Male,10-17,7
+Asian,2020-12-01,Anything to threaten or harm anyone,Male,18-24,14
+Asian,2020-12-01,Anything to threaten or harm anyone,Male,25-34,8
+Asian,2020-12-01,Anything to threaten or harm anyone,Male,over 34,3
+Asian,2020-12-01,Articles for use in criminal damage,Male,10-17,1
+Asian,2020-12-01,Articles for use in criminal damage,Male,18-24,4
+Asian,2020-12-01,Articles for use in criminal damage,Male,over 34,1
+Asian,2020-12-01,Controlled drugs,Female,10-17,5
+Asian,2020-12-01,Controlled drugs,Female,18-24,61
+Asian,2020-12-01,Controlled drugs,Female,25-34,26
+Asian,2020-12-01,Controlled drugs,Female,over 34,12
+Asian,2020-12-01,Controlled drugs,Male,10-17,200
+Asian,2020-12-01,Controlled drugs,Male,18-24,1147
+Asian,2020-12-01,Controlled drugs,Male,25-34,633
+Asian,2020-12-01,Controlled drugs,Male,over 34,304
+Asian,2020-12-01,Evidence of offences under the Act,Female,18-24,1
+Asian,2020-12-01,Evidence of offences under the Act,Male,10-17,14
+Asian,2020-12-01,Evidence of offences under the Act,Male,18-24,22
+Asian,2020-12-01,Evidence of offences under the Act,Male,25-34,23
+Asian,2020-12-01,Evidence of offences under the Act,Male,over 34,22
+Asian,2020-12-01,Firearms,Male,10-17,1
+Asian,2020-12-01,Firearms,Male,18-24,5
+Asian,2020-12-01,Firearms,Male,25-34,13
+Asian,2020-12-01,Firearms,Male,over 34,2
+Asian,2020-12-01,Fireworks,Male,10-17,1
+Asian,2020-12-01,Fireworks,Male,18-24,4
+Asian,2020-12-01,Fireworks,Male,25-34,2
+Asian,2020-12-01,Offensive weapons,Female,10-17,5
+Asian,2020-12-01,Offensive weapons,Female,18-24,1
+Asian,2020-12-01,Offensive weapons,Male,10-17,78
+Asian,2020-12-01,Offensive weapons,Male,18-24,124
+Asian,2020-12-01,Offensive weapons,Male,25-34,81
+Asian,2020-12-01,Offensive weapons,Male,over 34,40
+Asian,2020-12-01,Offensive weapons,Male,under 10,1
+Asian,2020-12-01,Stolen goods,Female,10-17,3
+Asian,2020-12-01,Stolen goods,Female,18-24,1
+Asian,2020-12-01,Stolen goods,Female,25-34,2
+Asian,2020-12-01,Stolen goods,Female,over 34,2
+Asian,2020-12-01,Stolen goods,Male,10-17,34
+Asian,2020-12-01,Stolen goods,Male,18-24,60
+Asian,2020-12-01,Stolen goods,Male,25-34,51
+Asian,2020-12-01,Stolen goods,Male,over 34,63
+Black,2020-01-01,Anything to threaten or harm anyone,Female,10-17,5
+Black,2020-01-01,Anything to threaten or harm anyone,Female,18-24,5
+Black,2020-01-01,Anything to threaten or harm anyone,Female,25-34,3
+Black,2020-01-01,Anything to threaten or harm anyone,Female,over 34,1
+Black,2020-01-01,Anything to threaten or harm anyone,Male,10-17,113
+Black,2020-01-01,Anything to threaten or harm anyone,Male,18-24,150
+Black,2020-01-01,Anything to threaten or harm anyone,Male,25-34,84
+Black,2020-01-01,Anything to threaten or harm anyone,Male,over 34,27
+Black,2020-01-01,Articles for use in criminal damage,Female,10-17,1
+Black,2020-01-01,Articles for use in criminal damage,Male,10-17,1
+Black,2020-01-01,Articles for use in criminal damage,Male,18-24,4
+Black,2020-01-01,Articles for use in criminal damage,Male,25-34,2
+Black,2020-01-01,Articles for use in criminal damage,Male,over 34,2
+Black,2020-01-01,Controlled drugs,Female,10-17,36
+Black,2020-01-01,Controlled drugs,Female,18-24,98
+Black,2020-01-01,Controlled drugs,Female,25-34,67
+Black,2020-01-01,Controlled drugs,Female,over 34,64
+Black,2020-01-01,Controlled drugs,Male,10-17,712
+Black,2020-01-01,Controlled drugs,Male,18-24,2073
+Black,2020-01-01,Controlled drugs,Male,25-34,1144
+Black,2020-01-01,Controlled drugs,Male,over 34,746
+Black,2020-01-01,Controlled drugs,Other,over 34,1
+Black,2020-01-01,Evidence of offences under the Act,Female,10-17,1
+Black,2020-01-01,Evidence of offences under the Act,Female,25-34,2
+Black,2020-01-01,Evidence of offences under the Act,Female,over 34,2
+Black,2020-01-01,Evidence of offences under the Act,Male,10-17,92
+Black,2020-01-01,Evidence of offences under the Act,Male,18-24,69
+Black,2020-01-01,Evidence of offences under the Act,Male,25-34,48
+Black,2020-01-01,Evidence of offences under the Act,Male,over 34,69
+Black,2020-01-01,Firearms,Female,18-24,2
+Black,2020-01-01,Firearms,Male,10-17,6
+Black,2020-01-01,Firearms,Male,18-24,20
+Black,2020-01-01,Firearms,Male,25-34,16
+Black,2020-01-01,Firearms,Male,over 34,3
+Black,2020-01-01,Fireworks,Male,10-17,4
+Black,2020-01-01,Fireworks,Male,18-24,1
+Black,2020-01-01,Offensive weapons,Female,10-17,30
+Black,2020-01-01,Offensive weapons,Female,18-24,34
+Black,2020-01-01,Offensive weapons,Female,25-34,5
+Black,2020-01-01,Offensive weapons,Female,over 34,10
+Black,2020-01-01,Offensive weapons,Male,10-17,821
+Black,2020-01-01,Offensive weapons,Male,18-24,822
+Black,2020-01-01,Offensive weapons,Male,25-34,296
+Black,2020-01-01,Offensive weapons,Male,over 34,135
+Black,2020-01-01,Offensive weapons,Male,under 10,1
+Black,2020-01-01,Offensive weapons,Other,10-17,1
+Black,2020-01-01,Stolen goods,Female,10-17,16
+Black,2020-01-01,Stolen goods,Female,18-24,6
+Black,2020-01-01,Stolen goods,Female,25-34,9
+Black,2020-01-01,Stolen goods,Female,over 34,18
+Black,2020-01-01,Stolen goods,Male,10-17,353
+Black,2020-01-01,Stolen goods,Male,18-24,239
+Black,2020-01-01,Stolen goods,Male,25-34,126
+Black,2020-01-01,Stolen goods,Male,over 34,135
+Black,2020-01-01,Stolen goods,Male,under 10,1
+Black,2020-01-01,Stolen goods,Other,18-24,1
+Black,2020-02-01,Anything to threaten or harm anyone,Female,10-17,2
+Black,2020-02-01,Anything to threaten or harm anyone,Male,10-17,40
+Black,2020-02-01,Anything to threaten or harm anyone,Male,18-24,63
+Black,2020-02-01,Anything to threaten or harm anyone,Male,25-34,41
+Black,2020-02-01,Anything to threaten or harm anyone,Male,over 34,8
+Black,2020-02-01,Articles for use in criminal damage,Female,18-24,2
+Black,2020-02-01,Articles for use in criminal damage,Male,10-17,9
+Black,2020-02-01,Articles for use in criminal damage,Male,18-24,5
+Black,2020-02-01,Articles for use in criminal damage,Male,25-34,3
+Black,2020-02-01,Articles for use in criminal damage,Male,over 34,1
+Black,2020-02-01,Controlled drugs,Female,10-17,34
+Black,2020-02-01,Controlled drugs,Female,18-24,99
+Black,2020-02-01,Controlled drugs,Female,25-34,54
+Black,2020-02-01,Controlled drugs,Female,over 34,53
+Black,2020-02-01,Controlled drugs,Male,10-17,549
+Black,2020-02-01,Controlled drugs,Male,18-24,1602
+Black,2020-02-01,Controlled drugs,Male,25-34,988
+Black,2020-02-01,Controlled drugs,Male,over 34,545
+Black,2020-02-01,Controlled drugs,Male,under 10,1
+Black,2020-02-01,Controlled drugs,Other,10-17,2
+Black,2020-02-01,Controlled drugs,Other,over 34,2
+Black,2020-02-01,Evidence of offences under the Act,Female,10-17,4
+Black,2020-02-01,Evidence of offences under the Act,Female,18-24,2
+Black,2020-02-01,Evidence of offences under the Act,Female,25-34,1
+Black,2020-02-01,Evidence of offences under the Act,Female,over 34,1
+Black,2020-02-01,Evidence of offences under the Act,Male,10-17,82
+Black,2020-02-01,Evidence of offences under the Act,Male,18-24,47
+Black,2020-02-01,Evidence of offences under the Act,Male,25-34,27
+Black,2020-02-01,Evidence of offences under the Act,Male,over 34,53
+Black,2020-02-01,Firearms,Female,18-24,2
+Black,2020-02-01,Firearms,Female,25-34,2
+Black,2020-02-01,Firearms,Male,10-17,7
+Black,2020-02-01,Firearms,Male,18-24,14
+Black,2020-02-01,Firearms,Male,25-34,13
+Black,2020-02-01,Firearms,Male,over 34,6
+Black,2020-02-01,Fireworks,Male,10-17,1
+Black,2020-02-01,Fireworks,Male,18-24,1
+Black,2020-02-01,Offensive weapons,Female,10-17,12
+Black,2020-02-01,Offensive weapons,Female,18-24,9
+Black,2020-02-01,Offensive weapons,Female,25-34,5
+Black,2020-02-01,Offensive weapons,Female,over 34,5
+Black,2020-02-01,Offensive weapons,Male,10-17,700
+Black,2020-02-01,Offensive weapons,Male,18-24,706
+Black,2020-02-01,Offensive weapons,Male,25-34,232
+Black,2020-02-01,Offensive weapons,Male,over 34,98
+Black,2020-02-01,Offensive weapons,Male,under 10,1
+Black,2020-02-01,Offensive weapons,Other,18-24,1
+Black,2020-02-01,Stolen goods,Female,10-17,16
+Black,2020-02-01,Stolen goods,Female,18-24,11
+Black,2020-02-01,Stolen goods,Female,25-34,7
+Black,2020-02-01,Stolen goods,Female,over 34,14
+Black,2020-02-01,Stolen goods,Male,10-17,336
+Black,2020-02-01,Stolen goods,Male,18-24,204
+Black,2020-02-01,Stolen goods,Male,25-34,108
+Black,2020-02-01,Stolen goods,Male,over 34,140
+Black,2020-02-01,Stolen goods,Other,18-24,1
+Black,2020-03-01,Anything to threaten or harm anyone,Female,18-24,2
+Black,2020-03-01,Anything to threaten or harm anyone,Female,25-34,2
+Black,2020-03-01,Anything to threaten or harm anyone,Female,over 34,1
+Black,2020-03-01,Anything to threaten or harm anyone,Male,10-17,87
+Black,2020-03-01,Anything to threaten or harm anyone,Male,18-24,94
+Black,2020-03-01,Anything to threaten or harm anyone,Male,25-34,43
+Black,2020-03-01,Anything to threaten or harm anyone,Male,over 34,14
+Black,2020-03-01,Articles for use in criminal damage,Female,10-17,1
+Black,2020-03-01,Articles for use in criminal damage,Male,10-17,1
+Black,2020-03-01,Articles for use in criminal damage,Male,18-24,3
+Black,2020-03-01,Articles for use in criminal damage,Male,25-34,1
+Black,2020-03-01,Articles for use in criminal damage,Male,over 34,3
+Black,2020-03-01,Controlled drugs,Female,10-17,37
+Black,2020-03-01,Controlled drugs,Female,18-24,93
+Black,2020-03-01,Controlled drugs,Female,25-34,57
+Black,2020-03-01,Controlled drugs,Female,over 34,37
+Black,2020-03-01,Controlled drugs,Male,10-17,652
+Black,2020-03-01,Controlled drugs,Male,18-24,1726
+Black,2020-03-01,Controlled drugs,Male,25-34,1033
+Black,2020-03-01,Controlled drugs,Male,over 34,548
+Black,2020-03-01,Controlled drugs,Male,under 10,1
+Black,2020-03-01,Controlled drugs,Other,10-17,1
+Black,2020-03-01,Evidence of offences under the Act,Female,10-17,3
+Black,2020-03-01,Evidence of offences under the Act,Female,18-24,1
+Black,2020-03-01,Evidence of offences under the Act,Female,25-34,3
+Black,2020-03-01,Evidence of offences under the Act,Female,over 34,2
+Black,2020-03-01,Evidence of offences under the Act,Male,10-17,92
+Black,2020-03-01,Evidence of offences under the Act,Male,18-24,54
+Black,2020-03-01,Evidence of offences under the Act,Male,25-34,31
+Black,2020-03-01,Evidence of offences under the Act,Male,over 34,66
+Black,2020-03-01,Evidence of offences under the Act,Male,under 10,1
+Black,2020-03-01,Firearms,Female,10-17,1
+Black,2020-03-01,Firearms,Male,10-17,4
+Black,2020-03-01,Firearms,Male,18-24,21
+Black,2020-03-01,Firearms,Male,25-34,11
+Black,2020-03-01,Firearms,Male,over 34,7
+Black,2020-03-01,Fireworks,Male,10-17,4
+Black,2020-03-01,Fireworks,Male,18-24,1
+Black,2020-03-01,Fireworks,Male,25-34,1
+Black,2020-03-01,Offensive weapons,Female,10-17,25
+Black,2020-03-01,Offensive weapons,Female,18-24,9
+Black,2020-03-01,Offensive weapons,Female,25-34,6
+Black,2020-03-01,Offensive weapons,Female,over 34,8
+Black,2020-03-01,Offensive weapons,Male,10-17,752
+Black,2020-03-01,Offensive weapons,Male,18-24,583
+Black,2020-03-01,Offensive weapons,Male,25-34,252
+Black,2020-03-01,Offensive weapons,Male,over 34,124
+Black,2020-03-01,Stolen goods,Female,10-17,14
+Black,2020-03-01,Stolen goods,Female,18-24,9
+Black,2020-03-01,Stolen goods,Female,25-34,14
+Black,2020-03-01,Stolen goods,Female,over 34,7
+Black,2020-03-01,Stolen goods,Male,10-17,254
+Black,2020-03-01,Stolen goods,Male,18-24,197
+Black,2020-03-01,Stolen goods,Male,25-34,107
+Black,2020-03-01,Stolen goods,Male,over 34,99
+Black,2020-04-01,Anything to threaten or harm anyone,Female,10-17,3
+Black,2020-04-01,Anything to threaten or harm anyone,Female,18-24,1
+Black,2020-04-01,Anything to threaten or harm anyone,Female,over 34,1
+Black,2020-04-01,Anything to threaten or harm anyone,Male,10-17,11
+Black,2020-04-01,Anything to threaten or harm anyone,Male,18-24,48
+Black,2020-04-01,Anything to threaten or harm anyone,Male,25-34,22
+Black,2020-04-01,Anything to threaten or harm anyone,Male,over 34,5
+Black,2020-04-01,Articles for use in criminal damage,Male,10-17,9
+Black,2020-04-01,Articles for use in criminal damage,Male,18-24,12
+Black,2020-04-01,Articles for use in criminal damage,Male,25-34,1
+Black,2020-04-01,Articles for use in criminal damage,Male,over 34,3
+Black,2020-04-01,Controlled drugs,Female,10-17,30
+Black,2020-04-01,Controlled drugs,Female,18-24,174
+Black,2020-04-01,Controlled drugs,Female,25-34,93
+Black,2020-04-01,Controlled drugs,Female,over 34,65
+Black,2020-04-01,Controlled drugs,Male,10-17,698
+Black,2020-04-01,Controlled drugs,Male,18-24,2987
+Black,2020-04-01,Controlled drugs,Male,25-34,1759
+Black,2020-04-01,Controlled drugs,Male,over 34,928
+Black,2020-04-01,Controlled drugs,Other,18-24,3
+Black,2020-04-01,Controlled drugs,Other,25-34,1
+Black,2020-04-01,Controlled drugs,Other,over 34,1
+Black,2020-04-01,Evidence of offences under the Act,Female,10-17,1
+Black,2020-04-01,Evidence of offences under the Act,Female,18-24,3
+Black,2020-04-01,Evidence of offences under the Act,Female,25-34,2
+Black,2020-04-01,Evidence of offences under the Act,Female,over 34,7
+Black,2020-04-01,Evidence of offences under the Act,Male,10-17,61
+Black,2020-04-01,Evidence of offences under the Act,Male,18-24,104
+Black,2020-04-01,Evidence of offences under the Act,Male,25-34,81
+Black,2020-04-01,Evidence of offences under the Act,Male,over 34,97
+Black,2020-04-01,Evidence of offences under the Act,Other,over 34,1
+Black,2020-04-01,Firearms,Female,18-24,2
+Black,2020-04-01,Firearms,Female,over 34,1
+Black,2020-04-01,Firearms,Male,10-17,3
+Black,2020-04-01,Firearms,Male,18-24,12
+Black,2020-04-01,Firearms,Male,25-34,8
+Black,2020-04-01,Firearms,Male,over 34,3
+Black,2020-04-01,Fireworks,Male,18-24,1
+Black,2020-04-01,Fireworks,Male,25-34,1
+Black,2020-04-01,Offensive weapons,Female,10-17,15
+Black,2020-04-01,Offensive weapons,Female,18-24,21
+Black,2020-04-01,Offensive weapons,Female,25-34,5
+Black,2020-04-01,Offensive weapons,Female,over 34,13
+Black,2020-04-01,Offensive weapons,Male,10-17,452
+Black,2020-04-01,Offensive weapons,Male,18-24,774
+Black,2020-04-01,Offensive weapons,Male,25-34,365
+Black,2020-04-01,Offensive weapons,Male,over 34,133
+Black,2020-04-01,Offensive weapons,Other,over 34,1
+Black,2020-04-01,Stolen goods,Female,10-17,6
+Black,2020-04-01,Stolen goods,Female,18-24,9
+Black,2020-04-01,Stolen goods,Female,25-34,16
+Black,2020-04-01,Stolen goods,Female,over 34,13
+Black,2020-04-01,Stolen goods,Male,10-17,167
+Black,2020-04-01,Stolen goods,Male,18-24,202
+Black,2020-04-01,Stolen goods,Male,25-34,161
+Black,2020-04-01,Stolen goods,Male,over 34,156
+Black,2020-05-01,Anything to threaten or harm anyone,Female,18-24,12
+Black,2020-05-01,Anything to threaten or harm anyone,Female,25-34,2
+Black,2020-05-01,Anything to threaten or harm anyone,Female,over 34,1
+Black,2020-05-01,Anything to threaten or harm anyone,Male,10-17,94
+Black,2020-05-01,Anything to threaten or harm anyone,Male,18-24,232
+Black,2020-05-01,Anything to threaten or harm anyone,Male,25-34,112
+Black,2020-05-01,Anything to threaten or harm anyone,Male,over 34,46
+Black,2020-05-01,Articles for use in criminal damage,Male,10-17,6
+Black,2020-05-01,Articles for use in criminal damage,Male,18-24,3
+Black,2020-05-01,Articles for use in criminal damage,Male,25-34,3
+Black,2020-05-01,Articles for use in criminal damage,Male,over 34,7
+Black,2020-05-01,Controlled drugs,Female,10-17,58
+Black,2020-05-01,Controlled drugs,Female,18-24,203
+Black,2020-05-01,Controlled drugs,Female,25-34,134
+Black,2020-05-01,Controlled drugs,Female,over 34,90
+Black,2020-05-01,Controlled drugs,Male,10-17,1076
+Black,2020-05-01,Controlled drugs,Male,18-24,3760
+Black,2020-05-01,Controlled drugs,Male,25-34,2273
+Black,2020-05-01,Controlled drugs,Male,over 34,1189
+Black,2020-05-01,Controlled drugs,Other,18-24,2
+Black,2020-05-01,Controlled drugs,Other,25-34,1
+Black,2020-05-01,Evidence of offences under the Act,Female,10-17,2
+Black,2020-05-01,Evidence of offences under the Act,Female,18-24,3
+Black,2020-05-01,Evidence of offences under the Act,Female,25-34,4
+Black,2020-05-01,Evidence of offences under the Act,Female,over 34,6
+Black,2020-05-01,Evidence of offences under the Act,Male,10-17,83
+Black,2020-05-01,Evidence of offences under the Act,Male,18-24,97
+Black,2020-05-01,Evidence of offences under the Act,Male,25-34,69
+Black,2020-05-01,Evidence of offences under the Act,Male,over 34,93
+Black,2020-05-01,Firearms,Female,over 34,2
+Black,2020-05-01,Firearms,Male,10-17,9
+Black,2020-05-01,Firearms,Male,18-24,23
+Black,2020-05-01,Firearms,Male,25-34,17
+Black,2020-05-01,Firearms,Male,over 34,7
+Black,2020-05-01,Fireworks,Male,10-17,1
+Black,2020-05-01,Fireworks,Male,18-24,2
+Black,2020-05-01,Fireworks,Male,25-34,1
+Black,2020-05-01,Offensive weapons,Female,10-17,17
+Black,2020-05-01,Offensive weapons,Female,18-24,23
+Black,2020-05-01,Offensive weapons,Female,25-34,11
+Black,2020-05-01,Offensive weapons,Female,over 34,6
+Black,2020-05-01,Offensive weapons,Male,10-17,915
+Black,2020-05-01,Offensive weapons,Male,18-24,1232
+Black,2020-05-01,Offensive weapons,Male,25-34,486
+Black,2020-05-01,Offensive weapons,Male,over 34,189
+Black,2020-05-01,Offensive weapons,Other,18-24,2
+Black,2020-05-01,Stolen goods,Female,10-17,9
+Black,2020-05-01,Stolen goods,Female,18-24,13
+Black,2020-05-01,Stolen goods,Female,25-34,7
+Black,2020-05-01,Stolen goods,Female,over 34,21
+Black,2020-05-01,Stolen goods,Male,10-17,222
+Black,2020-05-01,Stolen goods,Male,18-24,243
+Black,2020-05-01,Stolen goods,Male,25-34,151
+Black,2020-05-01,Stolen goods,Male,over 34,168
+Black,2020-06-01,Anything to threaten or harm anyone,Female,10-17,1
+Black,2020-06-01,Anything to threaten or harm anyone,Female,18-24,1
+Black,2020-06-01,Anything to threaten or harm anyone,Female,25-34,1
+Black,2020-06-01,Anything to threaten or harm anyone,Male,10-17,44
+Black,2020-06-01,Anything to threaten or harm anyone,Male,18-24,68
+Black,2020-06-01,Anything to threaten or harm anyone,Male,25-34,45
+Black,2020-06-01,Anything to threaten or harm anyone,Male,over 34,10
+Black,2020-06-01,Articles for use in criminal damage,Female,10-17,1
+Black,2020-06-01,Articles for use in criminal damage,Male,10-17,6
+Black,2020-06-01,Articles for use in criminal damage,Male,18-24,5
+Black,2020-06-01,Articles for use in criminal damage,Male,25-34,5
+Black,2020-06-01,Articles for use in criminal damage,Male,over 34,5
+Black,2020-06-01,Controlled drugs,Female,10-17,36
+Black,2020-06-01,Controlled drugs,Female,18-24,131
+Black,2020-06-01,Controlled drugs,Female,25-34,68
+Black,2020-06-01,Controlled drugs,Female,over 34,59
+Black,2020-06-01,Controlled drugs,Male,10-17,677
+Black,2020-06-01,Controlled drugs,Male,18-24,2246
+Black,2020-06-01,Controlled drugs,Male,25-34,1240
+Black,2020-06-01,Controlled drugs,Male,over 34,755
+Black,2020-06-01,Controlled drugs,Male,under 10,2
+Black,2020-06-01,Controlled drugs,Other,over 34,1
+Black,2020-06-01,Evidence of offences under the Act,Female,18-24,2
+Black,2020-06-01,Evidence of offences under the Act,Female,25-34,3
+Black,2020-06-01,Evidence of offences under the Act,Female,over 34,4
+Black,2020-06-01,Evidence of offences under the Act,Male,10-17,68
+Black,2020-06-01,Evidence of offences under the Act,Male,18-24,35
+Black,2020-06-01,Evidence of offences under the Act,Male,25-34,31
+Black,2020-06-01,Evidence of offences under the Act,Male,over 34,74
+Black,2020-06-01,Firearms,Female,10-17,1
+Black,2020-06-01,Firearms,Female,18-24,2
+Black,2020-06-01,Firearms,Female,25-34,1
+Black,2020-06-01,Firearms,Male,10-17,7
+Black,2020-06-01,Firearms,Male,18-24,24
+Black,2020-06-01,Firearms,Male,25-34,8
+Black,2020-06-01,Firearms,Male,over 34,8
+Black,2020-06-01,Fireworks,Male,18-24,1
+Black,2020-06-01,Fireworks,Male,25-34,1
+Black,2020-06-01,Offensive weapons,Female,10-17,11
+Black,2020-06-01,Offensive weapons,Female,18-24,14
+Black,2020-06-01,Offensive weapons,Female,25-34,10
+Black,2020-06-01,Offensive weapons,Female,over 34,12
+Black,2020-06-01,Offensive weapons,Male,10-17,530
+Black,2020-06-01,Offensive weapons,Male,18-24,643
+Black,2020-06-01,Offensive weapons,Male,25-34,284
+Black,2020-06-01,Offensive weapons,Male,over 34,94
+Black,2020-06-01,Offensive weapons,Male,under 10,1
+Black,2020-06-01,Offensive weapons,Other,18-24,1
+Black,2020-06-01,Stolen goods,Female,10-17,16
+Black,2020-06-01,Stolen goods,Female,18-24,11
+Black,2020-06-01,Stolen goods,Female,25-34,4
+Black,2020-06-01,Stolen goods,Female,over 34,11
+Black,2020-06-01,Stolen goods,Male,10-17,168
+Black,2020-06-01,Stolen goods,Male,18-24,142
+Black,2020-06-01,Stolen goods,Male,25-34,108
+Black,2020-06-01,Stolen goods,Male,over 34,127
+Black,2020-07-01,Anything to threaten or harm anyone,Female,25-34,1
+Black,2020-07-01,Anything to threaten or harm anyone,Female,over 34,1
+Black,2020-07-01,Anything to threaten or harm anyone,Male,10-17,26
+Black,2020-07-01,Anything to threaten or harm anyone,Male,18-24,50
+Black,2020-07-01,Anything to threaten or harm anyone,Male,25-34,22
+Black,2020-07-01,Anything to threaten or harm anyone,Male,over 34,10
+Black,2020-07-01,Articles for use in criminal damage,Female,10-17,2
+Black,2020-07-01,Articles for use in criminal damage,Male,10-17,5
+Black,2020-07-01,Articles for use in criminal damage,Male,18-24,4
+Black,2020-07-01,Articles for use in criminal damage,Male,25-34,3
+Black,2020-07-01,Articles for use in criminal damage,Male,over 34,3
+Black,2020-07-01,Controlled drugs,Female,10-17,29
+Black,2020-07-01,Controlled drugs,Female,18-24,103
+Black,2020-07-01,Controlled drugs,Female,25-34,72
+Black,2020-07-01,Controlled drugs,Female,over 34,81
+Black,2020-07-01,Controlled drugs,Male,10-17,496
+Black,2020-07-01,Controlled drugs,Male,18-24,1887
+Black,2020-07-01,Controlled drugs,Male,25-34,1106
+Black,2020-07-01,Controlled drugs,Male,over 34,679
+Black,2020-07-01,Controlled drugs,Male,under 10,1
+Black,2020-07-01,Controlled drugs,Other,18-24,1
+Black,2020-07-01,Controlled drugs,Other,25-34,1
+Black,2020-07-01,Controlled drugs,Other,over 34,1
+Black,2020-07-01,Evidence of offences under the Act,Female,10-17,2
+Black,2020-07-01,Evidence of offences under the Act,Female,25-34,2
+Black,2020-07-01,Evidence of offences under the Act,Female,over 34,2
+Black,2020-07-01,Evidence of offences under the Act,Male,10-17,38
+Black,2020-07-01,Evidence of offences under the Act,Male,18-24,58
+Black,2020-07-01,Evidence of offences under the Act,Male,25-34,29
+Black,2020-07-01,Evidence of offences under the Act,Male,over 34,49
+Black,2020-07-01,Firearms,Female,over 34,1
+Black,2020-07-01,Firearms,Male,10-17,11
+Black,2020-07-01,Firearms,Male,18-24,17
+Black,2020-07-01,Firearms,Male,25-34,9
+Black,2020-07-01,Firearms,Male,over 34,5
+Black,2020-07-01,Fireworks,Male,10-17,2
+Black,2020-07-01,Fireworks,Male,over 34,1
+Black,2020-07-01,Offensive weapons,Female,10-17,11
+Black,2020-07-01,Offensive weapons,Female,18-24,19
+Black,2020-07-01,Offensive weapons,Female,25-34,12
+Black,2020-07-01,Offensive weapons,Female,over 34,6
+Black,2020-07-01,Offensive weapons,Male,10-17,508
+Black,2020-07-01,Offensive weapons,Male,18-24,634
+Black,2020-07-01,Offensive weapons,Male,25-34,228
+Black,2020-07-01,Offensive weapons,Male,over 34,126
+Black,2020-07-01,Offensive weapons,Male,under 10,1
+Black,2020-07-01,Offensive weapons,Other,10-17,2
+Black,2020-07-01,Stolen goods,Female,10-17,8
+Black,2020-07-01,Stolen goods,Female,18-24,8
+Black,2020-07-01,Stolen goods,Female,25-34,7
+Black,2020-07-01,Stolen goods,Female,over 34,11
+Black,2020-07-01,Stolen goods,Male,10-17,183
+Black,2020-07-01,Stolen goods,Male,18-24,152
+Black,2020-07-01,Stolen goods,Male,25-34,101
+Black,2020-07-01,Stolen goods,Male,over 34,116
+Black,2020-08-01,Anything to threaten or harm anyone,Female,18-24,2
+Black,2020-08-01,Anything to threaten or harm anyone,Male,10-17,18
+Black,2020-08-01,Anything to threaten or harm anyone,Male,18-24,28
+Black,2020-08-01,Anything to threaten or harm anyone,Male,25-34,20
+Black,2020-08-01,Anything to threaten or harm anyone,Male,over 34,3
+Black,2020-08-01,Anything to threaten or harm anyone,Other,18-24,1
+Black,2020-08-01,Articles for use in criminal damage,Female,10-17,1
+Black,2020-08-01,Articles for use in criminal damage,Male,10-17,4
+Black,2020-08-01,Articles for use in criminal damage,Male,18-24,4
+Black,2020-08-01,Articles for use in criminal damage,Male,over 34,6
+Black,2020-08-01,Controlled drugs,Female,10-17,21
+Black,2020-08-01,Controlled drugs,Female,18-24,70
+Black,2020-08-01,Controlled drugs,Female,25-34,66
+Black,2020-08-01,Controlled drugs,Female,over 34,53
+Black,2020-08-01,Controlled drugs,Male,10-17,397
+Black,2020-08-01,Controlled drugs,Male,18-24,1430
+Black,2020-08-01,Controlled drugs,Male,25-34,846
+Black,2020-08-01,Controlled drugs,Male,over 34,554
+Black,2020-08-01,Evidence of offences under the Act,Female,10-17,1
+Black,2020-08-01,Evidence of offences under the Act,Female,18-24,1
+Black,2020-08-01,Evidence of offences under the Act,Female,25-34,2
+Black,2020-08-01,Evidence of offences under the Act,Female,over 34,2
+Black,2020-08-01,Evidence of offences under the Act,Male,10-17,52
+Black,2020-08-01,Evidence of offences under the Act,Male,18-24,49
+Black,2020-08-01,Evidence of offences under the Act,Male,25-34,26
+Black,2020-08-01,Evidence of offences under the Act,Male,over 34,49
+Black,2020-08-01,Firearms,Female,10-17,1
+Black,2020-08-01,Firearms,Female,18-24,3
+Black,2020-08-01,Firearms,Female,25-34,5
+Black,2020-08-01,Firearms,Female,over 34,1
+Black,2020-08-01,Firearms,Male,10-17,11
+Black,2020-08-01,Firearms,Male,18-24,13
+Black,2020-08-01,Firearms,Male,25-34,12
+Black,2020-08-01,Firearms,Male,over 34,12
+Black,2020-08-01,Firearms,Other,18-24,1
+Black,2020-08-01,Fireworks,Male,18-24,1
+Black,2020-08-01,Fireworks,Male,over 34,1
+Black,2020-08-01,Offensive weapons,Female,10-17,8
+Black,2020-08-01,Offensive weapons,Female,18-24,12
+Black,2020-08-01,Offensive weapons,Female,25-34,14
+Black,2020-08-01,Offensive weapons,Female,over 34,10
+Black,2020-08-01,Offensive weapons,Male,10-17,433
+Black,2020-08-01,Offensive weapons,Male,18-24,475
+Black,2020-08-01,Offensive weapons,Male,25-34,195
+Black,2020-08-01,Offensive weapons,Male,over 34,103
+Black,2020-08-01,Stolen goods,Female,10-17,8
+Black,2020-08-01,Stolen goods,Female,18-24,7
+Black,2020-08-01,Stolen goods,Female,25-34,8
+Black,2020-08-01,Stolen goods,Female,over 34,12
+Black,2020-08-01,Stolen goods,Male,10-17,195
+Black,2020-08-01,Stolen goods,Male,18-24,133
+Black,2020-08-01,Stolen goods,Male,25-34,79
+Black,2020-08-01,Stolen goods,Male,over 34,88
+Black,2020-09-01,Anything to threaten or harm anyone,Male,10-17,16
+Black,2020-09-01,Anything to threaten or harm anyone,Male,18-24,23
+Black,2020-09-01,Anything to threaten or harm anyone,Male,25-34,6
+Black,2020-09-01,Anything to threaten or harm anyone,Male,over 34,6
+Black,2020-09-01,Anything to threaten or harm anyone,Male,under 10,1
+Black,2020-09-01,Articles for use in criminal damage,Male,10-17,6
+Black,2020-09-01,Articles for use in criminal damage,Male,18-24,1
+Black,2020-09-01,Articles for use in criminal damage,Male,over 34,2
+Black,2020-09-01,Controlled drugs,Female,10-17,21
+Black,2020-09-01,Controlled drugs,Female,18-24,77
+Black,2020-09-01,Controlled drugs,Female,25-34,51
+Black,2020-09-01,Controlled drugs,Female,over 34,54
+Black,2020-09-01,Controlled drugs,Male,10-17,351
+Black,2020-09-01,Controlled drugs,Male,18-24,1350
+Black,2020-09-01,Controlled drugs,Male,25-34,758
+Black,2020-09-01,Controlled drugs,Male,over 34,559
+Black,2020-09-01,Controlled drugs,Male,under 10,2
+Black,2020-09-01,Evidence of offences under the Act,Female,25-34,1
+Black,2020-09-01,Evidence of offences under the Act,Male,10-17,36
+Black,2020-09-01,Evidence of offences under the Act,Male,18-24,40
+Black,2020-09-01,Evidence of offences under the Act,Male,25-34,32
+Black,2020-09-01,Evidence of offences under the Act,Male,over 34,46
+Black,2020-09-01,Evidence of offences under the Act,Male,under 10,1
+Black,2020-09-01,Evidence of offences under the Act,Other,25-34,1
+Black,2020-09-01,Firearms,Male,10-17,2
+Black,2020-09-01,Firearms,Male,18-24,12
+Black,2020-09-01,Firearms,Male,25-34,5
+Black,2020-09-01,Firearms,Male,over 34,4
+Black,2020-09-01,Fireworks,Male,18-24,1
+Black,2020-09-01,Offensive weapons,Female,10-17,8
+Black,2020-09-01,Offensive weapons,Female,18-24,9
+Black,2020-09-01,Offensive weapons,Female,25-34,7
+Black,2020-09-01,Offensive weapons,Female,over 34,7
+Black,2020-09-01,Offensive weapons,Male,10-17,442
+Black,2020-09-01,Offensive weapons,Male,18-24,511
+Black,2020-09-01,Offensive weapons,Male,25-34,202
+Black,2020-09-01,Offensive weapons,Male,over 34,106
+Black,2020-09-01,Offensive weapons,Other,10-17,1
+Black,2020-09-01,Stolen goods,Female,10-17,3
+Black,2020-09-01,Stolen goods,Female,18-24,10
+Black,2020-09-01,Stolen goods,Female,25-34,11
+Black,2020-09-01,Stolen goods,Female,over 34,11
+Black,2020-09-01,Stolen goods,Male,10-17,197
+Black,2020-09-01,Stolen goods,Male,18-24,144
+Black,2020-09-01,Stolen goods,Male,25-34,82
+Black,2020-09-01,Stolen goods,Male,over 34,108
+Black,2020-10-01,Anything to threaten or harm anyone,Female,25-34,1
+Black,2020-10-01,Anything to threaten or harm anyone,Male,10-17,13
+Black,2020-10-01,Anything to threaten or harm anyone,Male,18-24,23
+Black,2020-10-01,Anything to threaten or harm anyone,Male,25-34,11
+Black,2020-10-01,Anything to threaten or harm anyone,Male,over 34,8
+Black,2020-10-01,Articles for use in criminal damage,Female,10-17,2
+Black,2020-10-01,Articles for use in criminal damage,Male,10-17,8
+Black,2020-10-01,Articles for use in criminal damage,Male,18-24,4
+Black,2020-10-01,Articles for use in criminal damage,Male,25-34,4
+Black,2020-10-01,Articles for use in criminal damage,Male,over 34,4
+Black,2020-10-01,Controlled drugs,Female,10-17,42
+Black,2020-10-01,Controlled drugs,Female,18-24,105
+Black,2020-10-01,Controlled drugs,Female,25-34,53
+Black,2020-10-01,Controlled drugs,Female,over 34,58
+Black,2020-10-01,Controlled drugs,Male,10-17,509
+Black,2020-10-01,Controlled drugs,Male,18-24,1568
+Black,2020-10-01,Controlled drugs,Male,25-34,960
+Black,2020-10-01,Controlled drugs,Male,over 34,629
+Black,2020-10-01,Controlled drugs,Male,under 10,1
+Black,2020-10-01,Evidence of offences under the Act,Female,18-24,3
+Black,2020-10-01,Evidence of offences under the Act,Female,25-34,1
+Black,2020-10-01,Evidence of offences under the Act,Female,over 34,3
+Black,2020-10-01,Evidence of offences under the Act,Male,10-17,67
+Black,2020-10-01,Evidence of offences under the Act,Male,18-24,52
+Black,2020-10-01,Evidence of offences under the Act,Male,25-34,37
+Black,2020-10-01,Evidence of offences under the Act,Male,over 34,46
+Black,2020-10-01,Firearms,Female,18-24,1
+Black,2020-10-01,Firearms,Male,10-17,14
+Black,2020-10-01,Firearms,Male,18-24,17
+Black,2020-10-01,Firearms,Male,25-34,8
+Black,2020-10-01,Firearms,Male,over 34,7
+Black,2020-10-01,Fireworks,Female,10-17,16
+Black,2020-10-01,Fireworks,Female,18-24,1
+Black,2020-10-01,Fireworks,Male,10-17,238
+Black,2020-10-01,Fireworks,Male,18-24,25
+Black,2020-10-01,Fireworks,Male,25-34,1
+Black,2020-10-01,Fireworks,Male,over 34,2
+Black,2020-10-01,Fireworks,Other,18-24,1
+Black,2020-10-01,Offensive weapons,Female,10-17,7
+Black,2020-10-01,Offensive weapons,Female,18-24,11
+Black,2020-10-01,Offensive weapons,Female,25-34,7
+Black,2020-10-01,Offensive weapons,Female,over 34,8
+Black,2020-10-01,Offensive weapons,Male,10-17,517
+Black,2020-10-01,Offensive weapons,Male,18-24,433
+Black,2020-10-01,Offensive weapons,Male,25-34,210
+Black,2020-10-01,Offensive weapons,Male,over 34,89
+Black,2020-10-01,Stolen goods,Female,10-17,7
+Black,2020-10-01,Stolen goods,Female,18-24,9
+Black,2020-10-01,Stolen goods,Female,25-34,7
+Black,2020-10-01,Stolen goods,Female,over 34,13
+Black,2020-10-01,Stolen goods,Male,10-17,241
+Black,2020-10-01,Stolen goods,Male,18-24,168
+Black,2020-10-01,Stolen goods,Male,25-34,87
+Black,2020-10-01,Stolen goods,Male,over 34,113
+Black,2020-11-01,Anything to threaten or harm anyone,Female,10-17,1
+Black,2020-11-01,Anything to threaten or harm anyone,Female,over 34,1
+Black,2020-11-01,Anything to threaten or harm anyone,Male,10-17,48
+Black,2020-11-01,Anything to threaten or harm anyone,Male,18-24,47
+Black,2020-11-01,Anything to threaten or harm anyone,Male,25-34,14
+Black,2020-11-01,Anything to threaten or harm anyone,Male,over 34,10
+Black,2020-11-01,Articles for use in criminal damage,Female,18-24,1
+Black,2020-11-01,Articles for use in criminal damage,Female,over 34,1
+Black,2020-11-01,Articles for use in criminal damage,Male,10-17,4
+Black,2020-11-01,Articles for use in criminal damage,Male,18-24,7
+Black,2020-11-01,Articles for use in criminal damage,Male,over 34,1
+Black,2020-11-01,Controlled drugs,Female,10-17,28
+Black,2020-11-01,Controlled drugs,Female,18-24,140
+Black,2020-11-01,Controlled drugs,Female,25-34,79
+Black,2020-11-01,Controlled drugs,Female,over 34,78
+Black,2020-11-01,Controlled drugs,Male,10-17,523
+Black,2020-11-01,Controlled drugs,Male,18-24,1772
+Black,2020-11-01,Controlled drugs,Male,25-34,1066
+Black,2020-11-01,Controlled drugs,Male,over 34,735
+Black,2020-11-01,Evidence of offences under the Act,Female,10-17,5
+Black,2020-11-01,Evidence of offences under the Act,Female,18-24,3
+Black,2020-11-01,Evidence of offences under the Act,Female,25-34,2
+Black,2020-11-01,Evidence of offences under the Act,Male,10-17,52
+Black,2020-11-01,Evidence of offences under the Act,Male,18-24,55
+Black,2020-11-01,Evidence of offences under the Act,Male,25-34,37
+Black,2020-11-01,Evidence of offences under the Act,Male,over 34,55
+Black,2020-11-01,Firearms,Female,10-17,1
+Black,2020-11-01,Firearms,Female,18-24,2
+Black,2020-11-01,Firearms,Male,10-17,4
+Black,2020-11-01,Firearms,Male,18-24,15
+Black,2020-11-01,Firearms,Male,25-34,10
+Black,2020-11-01,Firearms,Male,over 34,8
+Black,2020-11-01,Fireworks,Female,10-17,5
+Black,2020-11-01,Fireworks,Female,18-24,1
+Black,2020-11-01,Fireworks,Male,10-17,86
+Black,2020-11-01,Fireworks,Male,18-24,22
+Black,2020-11-01,Fireworks,Male,25-34,5
+Black,2020-11-01,Fireworks,Male,over 34,3
+Black,2020-11-01,Offensive weapons,Female,10-17,11
+Black,2020-11-01,Offensive weapons,Female,18-24,7
+Black,2020-11-01,Offensive weapons,Female,25-34,7
+Black,2020-11-01,Offensive weapons,Female,over 34,5
+Black,2020-11-01,Offensive weapons,Male,10-17,428
+Black,2020-11-01,Offensive weapons,Male,18-24,546
+Black,2020-11-01,Offensive weapons,Male,25-34,192
+Black,2020-11-01,Offensive weapons,Male,over 34,104
+Black,2020-11-01,Offensive weapons,Other,25-34,1
+Black,2020-11-01,Offensive weapons,Other,over 34,1
+Black,2020-11-01,Stolen goods,Female,10-17,5
+Black,2020-11-01,Stolen goods,Female,18-24,6
+Black,2020-11-01,Stolen goods,Female,25-34,11
+Black,2020-11-01,Stolen goods,Female,over 34,15
+Black,2020-11-01,Stolen goods,Male,10-17,196
+Black,2020-11-01,Stolen goods,Male,18-24,144
+Black,2020-11-01,Stolen goods,Male,25-34,89
+Black,2020-11-01,Stolen goods,Male,over 34,121
+Black,2020-12-01,Anything to threaten or harm anyone,Female,18-24,1
+Black,2020-12-01,Anything to threaten or harm anyone,Male,10-17,17
+Black,2020-12-01,Anything to threaten or harm anyone,Male,18-24,18
+Black,2020-12-01,Anything to threaten or harm anyone,Male,25-34,6
+Black,2020-12-01,Anything to threaten or harm anyone,Male,over 34,3
+Black,2020-12-01,Articles for use in criminal damage,Male,10-17,5
+Black,2020-12-01,Articles for use in criminal damage,Male,18-24,1
+Black,2020-12-01,Articles for use in criminal damage,Male,25-34,1
+Black,2020-12-01,Articles for use in criminal damage,Male,over 34,2
+Black,2020-12-01,Controlled drugs,Female,10-17,25
+Black,2020-12-01,Controlled drugs,Female,18-24,99
+Black,2020-12-01,Controlled drugs,Female,25-34,57
+Black,2020-12-01,Controlled drugs,Female,over 34,51
+Black,2020-12-01,Controlled drugs,Male,10-17,390
+Black,2020-12-01,Controlled drugs,Male,18-24,1332
+Black,2020-12-01,Controlled drugs,Male,25-34,832
+Black,2020-12-01,Controlled drugs,Male,over 34,586
+Black,2020-12-01,Controlled drugs,Male,under 10,1
+Black,2020-12-01,Evidence of offences under the Act,Female,10-17,1
+Black,2020-12-01,Evidence of offences under the Act,Female,18-24,2
+Black,2020-12-01,Evidence of offences under the Act,Female,25-34,1
+Black,2020-12-01,Evidence of offences under the Act,Female,over 34,3
+Black,2020-12-01,Evidence of offences under the Act,Male,10-17,41
+Black,2020-12-01,Evidence of offences under the Act,Male,18-24,46
+Black,2020-12-01,Evidence of offences under the Act,Male,25-34,28
+Black,2020-12-01,Evidence of offences under the Act,Male,over 34,57
+Black,2020-12-01,Firearms,Female,18-24,3
+Black,2020-12-01,Firearms,Female,25-34,2
+Black,2020-12-01,Firearms,Male,10-17,3
+Black,2020-12-01,Firearms,Male,18-24,6
+Black,2020-12-01,Firearms,Male,25-34,8
+Black,2020-12-01,Firearms,Male,over 34,5
+Black,2020-12-01,Fireworks,Female,10-17,1
+Black,2020-12-01,Fireworks,Male,10-17,2
+Black,2020-12-01,Fireworks,Male,18-24,1
+Black,2020-12-01,Fireworks,Male,over 34,1
+Black,2020-12-01,Offensive weapons,Female,10-17,7
+Black,2020-12-01,Offensive weapons,Female,18-24,6
+Black,2020-12-01,Offensive weapons,Female,25-34,9
+Black,2020-12-01,Offensive weapons,Female,over 34,7
+Black,2020-12-01,Offensive weapons,Male,10-17,375
+Black,2020-12-01,Offensive weapons,Male,18-24,349
+Black,2020-12-01,Offensive weapons,Male,25-34,144
+Black,2020-12-01,Offensive weapons,Male,over 34,103
+Black,2020-12-01,Stolen goods,Female,10-17,4
+Black,2020-12-01,Stolen goods,Female,18-24,9
+Black,2020-12-01,Stolen goods,Female,25-34,7
+Black,2020-12-01,Stolen goods,Female,over 34,22
+Black,2020-12-01,Stolen goods,Male,10-17,186
+Black,2020-12-01,Stolen goods,Male,18-24,133
+Black,2020-12-01,Stolen goods,Male,25-34,75
+Black,2020-12-01,Stolen goods,Male,over 34,94
+Other,2020-01-01,Anything to threaten or harm anyone,Female,25-34,1
+Other,2020-01-01,Anything to threaten or harm anyone,Male,10-17,11
+Other,2020-01-01,Anything to threaten or harm anyone,Male,18-24,27
+Other,2020-01-01,Anything to threaten or harm anyone,Male,25-34,7
+Other,2020-01-01,Anything to threaten or harm anyone,Male,over 34,1
+Other,2020-01-01,Articles for use in criminal damage,Male,10-17,1
+Other,2020-01-01,Controlled drugs,Female,10-17,2
+Other,2020-01-01,Controlled drugs,Female,18-24,13
+Other,2020-01-01,Controlled drugs,Female,25-34,3
+Other,2020-01-01,Controlled drugs,Female,over 34,2
+Other,2020-01-01,Controlled drugs,Male,10-17,107
+Other,2020-01-01,Controlled drugs,Male,18-24,334
+Other,2020-01-01,Controlled drugs,Male,25-34,149
+Other,2020-01-01,Controlled drugs,Male,over 34,55
+Other,2020-01-01,Evidence of offences under the Act,Male,10-17,8
+Other,2020-01-01,Evidence of offences under the Act,Male,18-24,9
+Other,2020-01-01,Evidence of offences under the Act,Male,25-34,14
+Other,2020-01-01,Evidence of offences under the Act,Male,over 34,7
+Other,2020-01-01,Firearms,Male,18-24,2
+Other,2020-01-01,Firearms,Male,25-34,3
+Other,2020-01-01,Fireworks,Male,10-17,1
+Other,2020-01-01,Offensive weapons,Male,10-17,62
+Other,2020-01-01,Offensive weapons,Male,18-24,90
+Other,2020-01-01,Offensive weapons,Male,25-34,35
+Other,2020-01-01,Offensive weapons,Male,over 34,10
+Other,2020-01-01,Stolen goods,Female,10-17,2
+Other,2020-01-01,Stolen goods,Female,18-24,2
+Other,2020-01-01,Stolen goods,Female,over 34,1
+Other,2020-01-01,Stolen goods,Male,10-17,29
+Other,2020-01-01,Stolen goods,Male,18-24,49
+Other,2020-01-01,Stolen goods,Male,25-34,26
+Other,2020-01-01,Stolen goods,Male,over 34,12
+Other,2020-02-01,Anything to threaten or harm anyone,Female,18-24,1
+Other,2020-02-01,Anything to threaten or harm anyone,Male,10-17,4
+Other,2020-02-01,Anything to threaten or harm anyone,Male,18-24,8
+Other,2020-02-01,Anything to threaten or harm anyone,Male,25-34,4
+Other,2020-02-01,Controlled drugs,Female,10-17,3
+Other,2020-02-01,Controlled drugs,Female,18-24,3
+Other,2020-02-01,Controlled drugs,Female,25-34,6
+Other,2020-02-01,Controlled drugs,Female,over 34,1
+Other,2020-02-01,Controlled drugs,Male,10-17,73
+Other,2020-02-01,Controlled drugs,Male,18-24,283
+Other,2020-02-01,Controlled drugs,Male,25-34,114
+Other,2020-02-01,Controlled drugs,Male,over 34,34
+Other,2020-02-01,Controlled drugs,Male,under 10,1
+Other,2020-02-01,Evidence of offences under the Act,Female,25-34,1
+Other,2020-02-01,Evidence of offences under the Act,Male,10-17,5
+Other,2020-02-01,Evidence of offences under the Act,Male,18-24,7
+Other,2020-02-01,Evidence of offences under the Act,Male,25-34,9
+Other,2020-02-01,Evidence of offences under the Act,Male,over 34,5
+Other,2020-02-01,Firearms,Male,over 34,1
+Other,2020-02-01,Fireworks,Male,25-34,1
+Other,2020-02-01,Offensive weapons,Female,10-17,3
+Other,2020-02-01,Offensive weapons,Male,10-17,41
+Other,2020-02-01,Offensive weapons,Male,18-24,57
+Other,2020-02-01,Offensive weapons,Male,25-34,17
+Other,2020-02-01,Offensive weapons,Male,over 34,8
+Other,2020-02-01,Stolen goods,Male,10-17,15
+Other,2020-02-01,Stolen goods,Male,18-24,28
+Other,2020-02-01,Stolen goods,Male,25-34,20
+Other,2020-02-01,Stolen goods,Male,over 34,15
+Other,2020-03-01,Anything to threaten or harm anyone,Female,18-24,2
+Other,2020-03-01,Anything to threaten or harm anyone,Male,10-17,6
+Other,2020-03-01,Anything to threaten or harm anyone,Male,18-24,15
+Other,2020-03-01,Anything to threaten or harm anyone,Male,25-34,2
+Other,2020-03-01,Anything to threaten or harm anyone,Male,over 34,3
+Other,2020-03-01,Articles for use in criminal damage,Male,10-17,2
+Other,2020-03-01,Articles for use in criminal damage,Male,25-34,2
+Other,2020-03-01,Controlled drugs,Female,10-17,1
+Other,2020-03-01,Controlled drugs,Female,18-24,10
+Other,2020-03-01,Controlled drugs,Female,25-34,8
+Other,2020-03-01,Controlled drugs,Female,over 34,3
+Other,2020-03-01,Controlled drugs,Male,10-17,78
+Other,2020-03-01,Controlled drugs,Male,18-24,259
+Other,2020-03-01,Controlled drugs,Male,25-34,131
+Other,2020-03-01,Controlled drugs,Male,over 34,47
+Other,2020-03-01,Evidence of offences under the Act,Female,25-34,1
+Other,2020-03-01,Evidence of offences under the Act,Male,10-17,5
+Other,2020-03-01,Evidence of offences under the Act,Male,18-24,10
+Other,2020-03-01,Evidence of offences under the Act,Male,25-34,6
+Other,2020-03-01,Evidence of offences under the Act,Male,over 34,7
+Other,2020-03-01,Evidence of offences under the Act,Male,under 10,1
+Other,2020-03-01,Firearms,Male,18-24,3
+Other,2020-03-01,Firearms,Male,25-34,1
+Other,2020-03-01,Offensive weapons,Female,10-17,1
+Other,2020-03-01,Offensive weapons,Male,10-17,41
+Other,2020-03-01,Offensive weapons,Male,18-24,64
+Other,2020-03-01,Offensive weapons,Male,25-34,22
+Other,2020-03-01,Offensive weapons,Male,over 34,15
+Other,2020-03-01,Stolen goods,Female,10-17,3
+Other,2020-03-01,Stolen goods,Female,over 34,1
+Other,2020-03-01,Stolen goods,Male,10-17,17
+Other,2020-03-01,Stolen goods,Male,18-24,35
+Other,2020-03-01,Stolen goods,Male,25-34,21
+Other,2020-03-01,Stolen goods,Male,over 34,12
+Other,2020-04-01,Anything to threaten or harm anyone,Male,10-17,2
+Other,2020-04-01,Anything to threaten or harm anyone,Male,18-24,3
+Other,2020-04-01,Anything to threaten or harm anyone,Male,25-34,4
+Other,2020-04-01,Anything to threaten or harm anyone,Male,over 34,1
+Other,2020-04-01,Articles for use in criminal damage,Male,25-34,1
+Other,2020-04-01,Controlled drugs,Female,18-24,17
+Other,2020-04-01,Controlled drugs,Female,25-34,7
+Other,2020-04-01,Controlled drugs,Female,over 34,4
+Other,2020-04-01,Controlled drugs,Male,10-17,80
+Other,2020-04-01,Controlled drugs,Male,18-24,418
+Other,2020-04-01,Controlled drugs,Male,25-34,217
+Other,2020-04-01,Controlled drugs,Male,over 34,74
+Other,2020-04-01,Controlled drugs,Male,under 10,2
+Other,2020-04-01,Evidence of offences under the Act,Male,10-17,5
+Other,2020-04-01,Evidence of offences under the Act,Male,18-24,17
+Other,2020-04-01,Evidence of offences under the Act,Male,25-34,12
+Other,2020-04-01,Evidence of offences under the Act,Male,over 34,11
+Other,2020-04-01,Firearms,Male,18-24,1
+Other,2020-04-01,Firearms,Male,25-34,1
+Other,2020-04-01,Firearms,Male,over 34,1
+Other,2020-04-01,Offensive weapons,Female,10-17,1
+Other,2020-04-01,Offensive weapons,Female,18-24,2
+Other,2020-04-01,Offensive weapons,Male,10-17,24
+Other,2020-04-01,Offensive weapons,Male,18-24,76
+Other,2020-04-01,Offensive weapons,Male,25-34,42
+Other,2020-04-01,Offensive weapons,Male,over 34,14
+Other,2020-04-01,Stolen goods,Female,10-17,2
+Other,2020-04-01,Stolen goods,Female,25-34,1
+Other,2020-04-01,Stolen goods,Female,over 34,1
+Other,2020-04-01,Stolen goods,Male,10-17,13
+Other,2020-04-01,Stolen goods,Male,18-24,47
+Other,2020-04-01,Stolen goods,Male,25-34,34
+Other,2020-04-01,Stolen goods,Male,over 34,18
+Other,2020-05-01,Anything to threaten or harm anyone,Female,18-24,1
+Other,2020-05-01,Anything to threaten or harm anyone,Male,10-17,12
+Other,2020-05-01,Anything to threaten or harm anyone,Male,18-24,36
+Other,2020-05-01,Anything to threaten or harm anyone,Male,25-34,20
+Other,2020-05-01,Anything to threaten or harm anyone,Male,over 34,5
+Other,2020-05-01,Articles for use in criminal damage,Male,18-24,1
+Other,2020-05-01,Articles for use in criminal damage,Male,25-34,2
+Other,2020-05-01,Controlled drugs,Female,10-17,4
+Other,2020-05-01,Controlled drugs,Female,18-24,31
+Other,2020-05-01,Controlled drugs,Female,25-34,10
+Other,2020-05-01,Controlled drugs,Female,over 34,9
+Other,2020-05-01,Controlled drugs,Male,10-17,111
+Other,2020-05-01,Controlled drugs,Male,18-24,538
+Other,2020-05-01,Controlled drugs,Male,25-34,284
+Other,2020-05-01,Controlled drugs,Male,over 34,114
+Other,2020-05-01,Controlled drugs,Other,10-17,1
+Other,2020-05-01,Controlled drugs,Other,18-24,1
+Other,2020-05-01,Controlled drugs,Other,25-34,1
+Other,2020-05-01,Evidence of offences under the Act,Female,18-24,1
+Other,2020-05-01,Evidence of offences under the Act,Female,over 34,1
+Other,2020-05-01,Evidence of offences under the Act,Male,10-17,10
+Other,2020-05-01,Evidence of offences under the Act,Male,18-24,20
+Other,2020-05-01,Evidence of offences under the Act,Male,25-34,17
+Other,2020-05-01,Evidence of offences under the Act,Male,over 34,14
+Other,2020-05-01,Firearms,Male,18-24,1
+Other,2020-05-01,Firearms,Male,25-34,2
+Other,2020-05-01,Fireworks,Male,25-34,1
+Other,2020-05-01,Offensive weapons,Female,18-24,4
+Other,2020-05-01,Offensive weapons,Female,25-34,2
+Other,2020-05-01,Offensive weapons,Female,over 34,1
+Other,2020-05-01,Offensive weapons,Male,10-17,65
+Other,2020-05-01,Offensive weapons,Male,18-24,143
+Other,2020-05-01,Offensive weapons,Male,25-34,40
+Other,2020-05-01,Offensive weapons,Male,over 34,24
+Other,2020-05-01,Stolen goods,Female,25-34,2
+Other,2020-05-01,Stolen goods,Male,10-17,26
+Other,2020-05-01,Stolen goods,Male,18-24,49
+Other,2020-05-01,Stolen goods,Male,25-34,41
+Other,2020-05-01,Stolen goods,Male,over 34,30
+Other,2020-06-01,Anything to threaten or harm anyone,Male,10-17,2
+Other,2020-06-01,Anything to threaten or harm anyone,Male,18-24,12
+Other,2020-06-01,Anything to threaten or harm anyone,Male,25-34,1
+Other,2020-06-01,Anything to threaten or harm anyone,Male,over 34,1
+Other,2020-06-01,Articles for use in criminal damage,Male,10-17,1
+Other,2020-06-01,Controlled drugs,Female,10-17,2
+Other,2020-06-01,Controlled drugs,Female,18-24,15
+Other,2020-06-01,Controlled drugs,Female,25-34,5
+Other,2020-06-01,Controlled drugs,Female,over 34,1
+Other,2020-06-01,Controlled drugs,Male,10-17,90
+Other,2020-06-01,Controlled drugs,Male,18-24,361
+Other,2020-06-01,Controlled drugs,Male,25-34,172
+Other,2020-06-01,Controlled drugs,Male,over 34,73
+Other,2020-06-01,Controlled drugs,Other,25-34,1
+Other,2020-06-01,Evidence of offences under the Act,Male,10-17,3
+Other,2020-06-01,Evidence of offences under the Act,Male,18-24,10
+Other,2020-06-01,Evidence of offences under the Act,Male,25-34,15
+Other,2020-06-01,Evidence of offences under the Act,Male,over 34,12
+Other,2020-06-01,Firearms,Female,25-34,1
+Other,2020-06-01,Firearms,Male,10-17,1
+Other,2020-06-01,Firearms,Male,18-24,4
+Other,2020-06-01,Firearms,Male,25-34,2
+Other,2020-06-01,Firearms,Male,over 34,1
+Other,2020-06-01,Offensive weapons,Female,25-34,2
+Other,2020-06-01,Offensive weapons,Male,10-17,44
+Other,2020-06-01,Offensive weapons,Male,18-24,74
+Other,2020-06-01,Offensive weapons,Male,25-34,32
+Other,2020-06-01,Offensive weapons,Male,over 34,12
+Other,2020-06-01,Stolen goods,Female,18-24,1
+Other,2020-06-01,Stolen goods,Female,25-34,2
+Other,2020-06-01,Stolen goods,Male,10-17,17
+Other,2020-06-01,Stolen goods,Male,18-24,24
+Other,2020-06-01,Stolen goods,Male,25-34,19
+Other,2020-06-01,Stolen goods,Male,over 34,10
+Other,2020-07-01,Anything to threaten or harm anyone,Male,10-17,5
+Other,2020-07-01,Anything to threaten or harm anyone,Male,18-24,4
+Other,2020-07-01,Anything to threaten or harm anyone,Male,25-34,3
+Other,2020-07-01,Anything to threaten or harm anyone,Male,over 34,2
+Other,2020-07-01,Articles for use in criminal damage,Male,10-17,1
+Other,2020-07-01,Controlled drugs,Female,18-24,6
+Other,2020-07-01,Controlled drugs,Female,25-34,9
+Other,2020-07-01,Controlled drugs,Female,over 34,2
+Other,2020-07-01,Controlled drugs,Male,10-17,60
+Other,2020-07-01,Controlled drugs,Male,18-24,285
+Other,2020-07-01,Controlled drugs,Male,25-34,157
+Other,2020-07-01,Controlled drugs,Male,over 34,59
+Other,2020-07-01,Controlled drugs,Male,under 10,1
+Other,2020-07-01,Controlled drugs,Other,18-24,1
+Other,2020-07-01,Evidence of offences under the Act,Male,10-17,7
+Other,2020-07-01,Evidence of offences under the Act,Male,18-24,9
+Other,2020-07-01,Evidence of offences under the Act,Male,25-34,10
+Other,2020-07-01,Evidence of offences under the Act,Male,over 34,5
+Other,2020-07-01,Firearms,Male,10-17,2
+Other,2020-07-01,Firearms,Male,18-24,2
+Other,2020-07-01,Firearms,Male,over 34,1
+Other,2020-07-01,Offensive weapons,Female,18-24,2
+Other,2020-07-01,Offensive weapons,Male,10-17,47
+Other,2020-07-01,Offensive weapons,Male,18-24,71
+Other,2020-07-01,Offensive weapons,Male,25-34,31
+Other,2020-07-01,Offensive weapons,Male,over 34,18
+Other,2020-07-01,Stolen goods,Female,10-17,1
+Other,2020-07-01,Stolen goods,Female,over 34,2
+Other,2020-07-01,Stolen goods,Male,10-17,21
+Other,2020-07-01,Stolen goods,Male,18-24,42
+Other,2020-07-01,Stolen goods,Male,25-34,35
+Other,2020-07-01,Stolen goods,Male,over 34,22
+Other,2020-08-01,Anything to threaten or harm anyone,Female,25-34,1
+Other,2020-08-01,Anything to threaten or harm anyone,Male,10-17,5
+Other,2020-08-01,Anything to threaten or harm anyone,Male,18-24,18
+Other,2020-08-01,Anything to threaten or harm anyone,Male,25-34,3
+Other,2020-08-01,Articles for use in criminal damage,Female,10-17,1
+Other,2020-08-01,Articles for use in criminal damage,Male,10-17,1
+Other,2020-08-01,Articles for use in criminal damage,Male,25-34,1
+Other,2020-08-01,Controlled drugs,Female,10-17,3
+Other,2020-08-01,Controlled drugs,Female,18-24,11
+Other,2020-08-01,Controlled drugs,Female,25-34,6
+Other,2020-08-01,Controlled drugs,Female,over 34,2
+Other,2020-08-01,Controlled drugs,Male,10-17,53
+Other,2020-08-01,Controlled drugs,Male,18-24,253
+Other,2020-08-01,Controlled drugs,Male,25-34,127
+Other,2020-08-01,Controlled drugs,Male,over 34,62
+Other,2020-08-01,Controlled drugs,Male,under 10,1
+Other,2020-08-01,Evidence of offences under the Act,Male,10-17,4
+Other,2020-08-01,Evidence of offences under the Act,Male,18-24,9
+Other,2020-08-01,Evidence of offences under the Act,Male,25-34,8
+Other,2020-08-01,Evidence of offences under the Act,Male,over 34,13
+Other,2020-08-01,Firearms,Male,18-24,1
+Other,2020-08-01,Fireworks,Female,18-24,1
+Other,2020-08-01,Offensive weapons,Female,18-24,1
+Other,2020-08-01,Offensive weapons,Female,25-34,1
+Other,2020-08-01,Offensive weapons,Male,10-17,32
+Other,2020-08-01,Offensive weapons,Male,18-24,80
+Other,2020-08-01,Offensive weapons,Male,25-34,20
+Other,2020-08-01,Offensive weapons,Male,over 34,16
+Other,2020-08-01,Stolen goods,Female,over 34,2
+Other,2020-08-01,Stolen goods,Male,10-17,14
+Other,2020-08-01,Stolen goods,Male,18-24,35
+Other,2020-08-01,Stolen goods,Male,25-34,38
+Other,2020-08-01,Stolen goods,Male,over 34,9
+Other,2020-09-01,Anything to threaten or harm anyone,Female,10-17,1
+Other,2020-09-01,Anything to threaten or harm anyone,Male,10-17,4
+Other,2020-09-01,Anything to threaten or harm anyone,Male,18-24,6
+Other,2020-09-01,Anything to threaten or harm anyone,Male,25-34,2
+Other,2020-09-01,Anything to threaten or harm anyone,Male,over 34,1
+Other,2020-09-01,Articles for use in criminal damage,Male,10-17,1
+Other,2020-09-01,Articles for use in criminal damage,Male,18-24,1
+Other,2020-09-01,Articles for use in criminal damage,Male,over 34,2
+Other,2020-09-01,Controlled drugs,Female,18-24,5
+Other,2020-09-01,Controlled drugs,Female,25-34,1
+Other,2020-09-01,Controlled drugs,Female,over 34,1
+Other,2020-09-01,Controlled drugs,Male,10-17,76
+Other,2020-09-01,Controlled drugs,Male,18-24,202
+Other,2020-09-01,Controlled drugs,Male,25-34,112
+Other,2020-09-01,Controlled drugs,Male,over 34,53
+Other,2020-09-01,Evidence of offences under the Act,Male,10-17,8
+Other,2020-09-01,Evidence of offences under the Act,Male,18-24,7
+Other,2020-09-01,Evidence of offences under the Act,Male,25-34,3
+Other,2020-09-01,Evidence of offences under the Act,Male,over 34,9
+Other,2020-09-01,Firearms,Female,10-17,1
+Other,2020-09-01,Firearms,Female,18-24,2
+Other,2020-09-01,Firearms,Female,over 34,1
+Other,2020-09-01,Firearms,Male,18-24,2
+Other,2020-09-01,Firearms,Male,25-34,1
+Other,2020-09-01,Fireworks,Male,10-17,1
+Other,2020-09-01,Offensive weapons,Male,10-17,32
+Other,2020-09-01,Offensive weapons,Male,18-24,51
+Other,2020-09-01,Offensive weapons,Male,25-34,32
+Other,2020-09-01,Offensive weapons,Male,over 34,10
+Other,2020-09-01,Stolen goods,Female,18-24,2
+Other,2020-09-01,Stolen goods,Female,25-34,1
+Other,2020-09-01,Stolen goods,Female,over 34,3
+Other,2020-09-01,Stolen goods,Male,10-17,20
+Other,2020-09-01,Stolen goods,Male,18-24,20
+Other,2020-09-01,Stolen goods,Male,25-34,23
+Other,2020-09-01,Stolen goods,Male,over 34,14
+Other,2020-10-01,Anything to threaten or harm anyone,Female,10-17,1
+Other,2020-10-01,Anything to threaten or harm anyone,Male,18-24,1
+Other,2020-10-01,Anything to threaten or harm anyone,Male,25-34,1
+Other,2020-10-01,Anything to threaten or harm anyone,Male,over 34,1
+Other,2020-10-01,Articles for use in criminal damage,Male,10-17,1
+Other,2020-10-01,Articles for use in criminal damage,Male,18-24,2
+Other,2020-10-01,Controlled drugs,Female,10-17,2
+Other,2020-10-01,Controlled drugs,Female,18-24,16
+Other,2020-10-01,Controlled drugs,Female,25-34,4
+Other,2020-10-01,Controlled drugs,Female,over 34,1
+Other,2020-10-01,Controlled drugs,Male,10-17,63
+Other,2020-10-01,Controlled drugs,Male,18-24,240
+Other,2020-10-01,Controlled drugs,Male,25-34,147
+Other,2020-10-01,Controlled drugs,Male,over 34,73
+Other,2020-10-01,Evidence of offences under the Act,Male,10-17,5
+Other,2020-10-01,Evidence of offences under the Act,Male,18-24,10
+Other,2020-10-01,Evidence of offences under the Act,Male,25-34,12
+Other,2020-10-01,Evidence of offences under the Act,Male,over 34,7
+Other,2020-10-01,Firearms,Male,18-24,3
+Other,2020-10-01,Firearms,Male,over 34,2
+Other,2020-10-01,Fireworks,Male,10-17,37
+Other,2020-10-01,Fireworks,Male,18-24,15
+Other,2020-10-01,Fireworks,Male,25-34,1
+Other,2020-10-01,Offensive weapons,Female,10-17,1
+Other,2020-10-01,Offensive weapons,Female,25-34,2
+Other,2020-10-01,Offensive weapons,Male,10-17,30
+Other,2020-10-01,Offensive weapons,Male,18-24,59
+Other,2020-10-01,Offensive weapons,Male,25-34,27
+Other,2020-10-01,Offensive weapons,Male,over 34,12
+Other,2020-10-01,Offensive weapons,Male,under 10,1
+Other,2020-10-01,Stolen goods,Female,10-17,4
+Other,2020-10-01,Stolen goods,Female,18-24,1
+Other,2020-10-01,Stolen goods,Female,25-34,1
+Other,2020-10-01,Stolen goods,Male,10-17,30
+Other,2020-10-01,Stolen goods,Male,18-24,39
+Other,2020-10-01,Stolen goods,Male,25-34,37
+Other,2020-10-01,Stolen goods,Male,over 34,18
+Other,2020-11-01,Anything to threaten or harm anyone,Male,10-17,9
+Other,2020-11-01,Anything to threaten or harm anyone,Male,18-24,15
+Other,2020-11-01,Anything to threaten or harm anyone,Male,25-34,4
+Other,2020-11-01,Articles for use in criminal damage,Male,10-17,1
+Other,2020-11-01,Articles for use in criminal damage,Male,18-24,1
+Other,2020-11-01,Articles for use in criminal damage,Male,over 34,1
+Other,2020-11-01,Controlled drugs,Female,10-17,2
+Other,2020-11-01,Controlled drugs,Female,18-24,11
+Other,2020-11-01,Controlled drugs,Female,25-34,3
+Other,2020-11-01,Controlled drugs,Female,over 34,1
+Other,2020-11-01,Controlled drugs,Male,10-17,98
+Other,2020-11-01,Controlled drugs,Male,18-24,326
+Other,2020-11-01,Controlled drugs,Male,25-34,184
+Other,2020-11-01,Controlled drugs,Male,over 34,80
+Other,2020-11-01,Evidence of offences under the Act,Male,10-17,10
+Other,2020-11-01,Evidence of offences under the Act,Male,18-24,13
+Other,2020-11-01,Evidence of offences under the Act,Male,25-34,9
+Other,2020-11-01,Evidence of offences under the Act,Male,over 34,7
+Other,2020-11-01,Firearms,Male,10-17,1
+Other,2020-11-01,Firearms,Male,18-24,1
+Other,2020-11-01,Firearms,Male,25-34,1
+Other,2020-11-01,Fireworks,Female,25-34,1
+Other,2020-11-01,Fireworks,Male,10-17,9
+Other,2020-11-01,Fireworks,Male,18-24,11
+Other,2020-11-01,Fireworks,Male,25-34,2
+Other,2020-11-01,Offensive weapons,Female,10-17,1
+Other,2020-11-01,Offensive weapons,Female,25-34,1
+Other,2020-11-01,Offensive weapons,Female,over 34,1
+Other,2020-11-01,Offensive weapons,Male,10-17,36
+Other,2020-11-01,Offensive weapons,Male,18-24,59
+Other,2020-11-01,Offensive weapons,Male,25-34,17
+Other,2020-11-01,Offensive weapons,Male,over 34,9
+Other,2020-11-01,Stolen goods,Female,18-24,1
+Other,2020-11-01,Stolen goods,Female,25-34,1
+Other,2020-11-01,Stolen goods,Female,over 34,1
+Other,2020-11-01,Stolen goods,Male,10-17,29
+Other,2020-11-01,Stolen goods,Male,18-24,32
+Other,2020-11-01,Stolen goods,Male,25-34,32
+Other,2020-11-01,Stolen goods,Male,over 34,29
+Other,2020-12-01,Anything to threaten or harm anyone,Male,10-17,1
+Other,2020-12-01,Anything to threaten or harm anyone,Male,18-24,1
+Other,2020-12-01,Articles for use in criminal damage,Male,18-24,1
+Other,2020-12-01,Controlled drugs,Female,10-17,1
+Other,2020-12-01,Controlled drugs,Female,18-24,8
+Other,2020-12-01,Controlled drugs,Female,over 34,1
+Other,2020-12-01,Controlled drugs,Male,10-17,78
+Other,2020-12-01,Controlled drugs,Male,18-24,241
+Other,2020-12-01,Controlled drugs,Male,25-34,149
+Other,2020-12-01,Controlled drugs,Male,over 34,65
+Other,2020-12-01,Controlled drugs,Other,18-24,1
+Other,2020-12-01,Evidence of offences under the Act,Female,18-24,1
+Other,2020-12-01,Evidence of offences under the Act,Female,over 34,1
+Other,2020-12-01,Evidence of offences under the Act,Male,10-17,4
+Other,2020-12-01,Evidence of offences under the Act,Male,18-24,7
+Other,2020-12-01,Evidence of offences under the Act,Male,25-34,5
+Other,2020-12-01,Evidence of offences under the Act,Male,over 34,7
+Other,2020-12-01,Firearms,Male,18-24,1
+Other,2020-12-01,Firearms,Male,25-34,1
+Other,2020-12-01,Firearms,Male,over 34,1
+Other,2020-12-01,Fireworks,Male,10-17,2
+Other,2020-12-01,Fireworks,Male,18-24,2
+Other,2020-12-01,Offensive weapons,Female,10-17,1
+Other,2020-12-01,Offensive weapons,Male,10-17,29
+Other,2020-12-01,Offensive weapons,Male,18-24,49
+Other,2020-12-01,Offensive weapons,Male,25-34,18
+Other,2020-12-01,Offensive weapons,Male,over 34,7
+Other,2020-12-01,Stolen goods,Female,25-34,2
+Other,2020-12-01,Stolen goods,Male,10-17,20
+Other,2020-12-01,Stolen goods,Male,18-24,28
+Other,2020-12-01,Stolen goods,Male,25-34,20
+Other,2020-12-01,Stolen goods,Male,over 34,14
+Other,2020-12-01,Stolen goods,Male,under 10,1
+White,2020-01-01,Anything to threaten or harm anyone,Female,10-17,10
+White,2020-01-01,Anything to threaten or harm anyone,Female,18-24,8
+White,2020-01-01,Anything to threaten or harm anyone,Female,25-34,5
+White,2020-01-01,Anything to threaten or harm anyone,Male,10-17,89
+White,2020-01-01,Anything to threaten or harm anyone,Male,18-24,123
+White,2020-01-01,Anything to threaten or harm anyone,Male,25-34,84
+White,2020-01-01,Anything to threaten or harm anyone,Male,over 34,36
+White,2020-01-01,Articles for use in criminal damage,Female,10-17,1
+White,2020-01-01,Articles for use in criminal damage,Female,over 34,1
+White,2020-01-01,Articles for use in criminal damage,Male,10-17,18
+White,2020-01-01,Articles for use in criminal damage,Male,18-24,3
+White,2020-01-01,Articles for use in criminal damage,Male,25-34,3
+White,2020-01-01,Articles for use in criminal damage,Male,over 34,7
+White,2020-01-01,Controlled drugs,Female,10-17,84
+White,2020-01-01,Controlled drugs,Female,18-24,209
+White,2020-01-01,Controlled drugs,Female,25-34,143
+White,2020-01-01,Controlled drugs,Female,over 34,153
+White,2020-01-01,Controlled drugs,Male,10-17,627
+White,2020-01-01,Controlled drugs,Male,18-24,1635
+White,2020-01-01,Controlled drugs,Male,25-34,1271
+White,2020-01-01,Controlled drugs,Male,over 34,932
+White,2020-01-01,Evidence of offences under the Act,Female,10-17,5
+White,2020-01-01,Evidence of offences under the Act,Female,18-24,7
+White,2020-01-01,Evidence of offences under the Act,Female,25-34,11
+White,2020-01-01,Evidence of offences under the Act,Female,over 34,9
+White,2020-01-01,Evidence of offences under the Act,Male,10-17,144
+White,2020-01-01,Evidence of offences under the Act,Male,18-24,123
+White,2020-01-01,Evidence of offences under the Act,Male,25-34,154
+White,2020-01-01,Evidence of offences under the Act,Male,over 34,164
+White,2020-01-01,Firearms,Female,10-17,1
+White,2020-01-01,Firearms,Male,10-17,5
+White,2020-01-01,Firearms,Male,18-24,3
+White,2020-01-01,Firearms,Male,25-34,6
+White,2020-01-01,Firearms,Male,over 34,6
+White,2020-01-01,Fireworks,Male,10-17,2
+White,2020-01-01,Fireworks,Male,25-34,2
+White,2020-01-01,Fireworks,Male,over 34,2
+White,2020-01-01,Offensive weapons,Female,10-17,27
+White,2020-01-01,Offensive weapons,Female,18-24,12
+White,2020-01-01,Offensive weapons,Female,25-34,18
+White,2020-01-01,Offensive weapons,Female,over 34,9
+White,2020-01-01,Offensive weapons,Male,10-17,413
+White,2020-01-01,Offensive weapons,Male,18-24,370
+White,2020-01-01,Offensive weapons,Male,25-34,204
+White,2020-01-01,Offensive weapons,Male,over 34,176
+White,2020-01-01,Stolen goods,Female,10-17,27
+White,2020-01-01,Stolen goods,Female,18-24,43
+White,2020-01-01,Stolen goods,Female,25-34,53
+White,2020-01-01,Stolen goods,Female,over 34,54
+White,2020-01-01,Stolen goods,Male,10-17,301
+White,2020-01-01,Stolen goods,Male,18-24,281
+White,2020-01-01,Stolen goods,Male,25-34,295
+White,2020-01-01,Stolen goods,Male,over 34,337
+White,2020-01-01,Stolen goods,Other,10-17,1
+White,2020-02-01,Anything to threaten or harm anyone,Female,10-17,5
+White,2020-02-01,Anything to threaten or harm anyone,Female,18-24,2
+White,2020-02-01,Anything to threaten or harm anyone,Female,over 34,1
+White,2020-02-01,Anything to threaten or harm anyone,Male,10-17,40
+White,2020-02-01,Anything to threaten or harm anyone,Male,18-24,56
+White,2020-02-01,Anything to threaten or harm anyone,Male,25-34,25
+White,2020-02-01,Anything to threaten or harm anyone,Male,over 34,8
+White,2020-02-01,Articles for use in criminal damage,Female,18-24,3
+White,2020-02-01,Articles for use in criminal damage,Female,over 34,1
+White,2020-02-01,Articles for use in criminal damage,Male,10-17,19
+White,2020-02-01,Articles for use in criminal damage,Male,18-24,12
+White,2020-02-01,Articles for use in criminal damage,Male,25-34,9
+White,2020-02-01,Articles for use in criminal damage,Male,over 34,8
+White,2020-02-01,Controlled drugs,Female,10-17,74
+White,2020-02-01,Controlled drugs,Female,18-24,172
+White,2020-02-01,Controlled drugs,Female,25-34,139
+White,2020-02-01,Controlled drugs,Female,over 34,122
+White,2020-02-01,Controlled drugs,Male,10-17,534
+White,2020-02-01,Controlled drugs,Male,18-24,1441
+White,2020-02-01,Controlled drugs,Male,25-34,1060
+White,2020-02-01,Controlled drugs,Male,over 34,769
+White,2020-02-01,Controlled drugs,Male,under 10,1
+White,2020-02-01,Controlled drugs,Other,25-34,1
+White,2020-02-01,Controlled drugs,Other,over 34,1
+White,2020-02-01,Evidence of offences under the Act,Female,10-17,3
+White,2020-02-01,Evidence of offences under the Act,Female,18-24,10
+White,2020-02-01,Evidence of offences under the Act,Female,25-34,7
+White,2020-02-01,Evidence of offences under the Act,Female,over 34,11
+White,2020-02-01,Evidence of offences under the Act,Male,10-17,116
+White,2020-02-01,Evidence of offences under the Act,Male,18-24,121
+White,2020-02-01,Evidence of offences under the Act,Male,25-34,130
+White,2020-02-01,Evidence of offences under the Act,Male,over 34,167
+White,2020-02-01,Firearms,Female,18-24,1
+White,2020-02-01,Firearms,Female,25-34,2
+White,2020-02-01,Firearms,Female,over 34,2
+White,2020-02-01,Firearms,Male,10-17,3
+White,2020-02-01,Firearms,Male,18-24,1
+White,2020-02-01,Firearms,Male,25-34,9
+White,2020-02-01,Firearms,Male,over 34,8
+White,2020-02-01,Fireworks,Male,10-17,2
+White,2020-02-01,Fireworks,Male,18-24,2
+White,2020-02-01,Fireworks,Male,25-34,2
+White,2020-02-01,Offensive weapons,Female,10-17,17
+White,2020-02-01,Offensive weapons,Female,18-24,14
+White,2020-02-01,Offensive weapons,Female,25-34,5
+White,2020-02-01,Offensive weapons,Female,over 34,14
+White,2020-02-01,Offensive weapons,Male,10-17,351
+White,2020-02-01,Offensive weapons,Male,18-24,242
+White,2020-02-01,Offensive weapons,Male,25-34,184
+White,2020-02-01,Offensive weapons,Male,over 34,149
+White,2020-02-01,Stolen goods,Female,10-17,27
+White,2020-02-01,Stolen goods,Female,18-24,49
+White,2020-02-01,Stolen goods,Female,25-34,47
+White,2020-02-01,Stolen goods,Female,over 34,60
+White,2020-02-01,Stolen goods,Male,10-17,306
+White,2020-02-01,Stolen goods,Male,18-24,273
+White,2020-02-01,Stolen goods,Male,25-34,281
+White,2020-02-01,Stolen goods,Male,over 34,313
+White,2020-02-01,Stolen goods,Male,under 10,1
+White,2020-02-01,Stolen goods,Other,25-34,1
+White,2020-02-01,Stolen goods,Other,over 34,1
+White,2020-03-01,Anything to threaten or harm anyone,Female,10-17,4
+White,2020-03-01,Anything to threaten or harm anyone,Female,18-24,5
+White,2020-03-01,Anything to threaten or harm anyone,Female,25-34,2
+White,2020-03-01,Anything to threaten or harm anyone,Female,over 34,1
+White,2020-03-01,Anything to threaten or harm anyone,Male,10-17,43
+White,2020-03-01,Anything to threaten or harm anyone,Male,18-24,55
+White,2020-03-01,Anything to threaten or harm anyone,Male,25-34,29
+White,2020-03-01,Anything to threaten or harm anyone,Male,over 34,15
+White,2020-03-01,Articles for use in criminal damage,Female,10-17,1
+White,2020-03-01,Articles for use in criminal damage,Female,18-24,1
+White,2020-03-01,Articles for use in criminal damage,Female,over 34,2
+White,2020-03-01,Articles for use in criminal damage,Male,10-17,16
+White,2020-03-01,Articles for use in criminal damage,Male,18-24,7
+White,2020-03-01,Articles for use in criminal damage,Male,25-34,5
+White,2020-03-01,Articles for use in criminal damage,Male,over 34,5
+White,2020-03-01,Controlled drugs,Female,10-17,77
+White,2020-03-01,Controlled drugs,Female,18-24,153
+White,2020-03-01,Controlled drugs,Female,25-34,104
+White,2020-03-01,Controlled drugs,Female,over 34,119
+White,2020-03-01,Controlled drugs,Male,10-17,602
+White,2020-03-01,Controlled drugs,Male,18-24,1464
+White,2020-03-01,Controlled drugs,Male,25-34,984
+White,2020-03-01,Controlled drugs,Male,over 34,766
+White,2020-03-01,Controlled drugs,Other,18-24,1
+White,2020-03-01,Evidence of offences under the Act,Female,10-17,4
+White,2020-03-01,Evidence of offences under the Act,Female,18-24,3
+White,2020-03-01,Evidence of offences under the Act,Female,25-34,8
+White,2020-03-01,Evidence of offences under the Act,Female,over 34,6
+White,2020-03-01,Evidence of offences under the Act,Male,10-17,115
+White,2020-03-01,Evidence of offences under the Act,Male,18-24,130
+White,2020-03-01,Evidence of offences under the Act,Male,25-34,135
+White,2020-03-01,Evidence of offences under the Act,Male,over 34,177
+White,2020-03-01,Evidence of offences under the Act,Other,over 34,1
+White,2020-03-01,Firearms,Female,10-17,1
+White,2020-03-01,Firearms,Female,over 34,1
+White,2020-03-01,Firearms,Male,10-17,1
+White,2020-03-01,Firearms,Male,18-24,3
+White,2020-03-01,Firearms,Male,25-34,11
+White,2020-03-01,Firearms,Male,over 34,7
+White,2020-03-01,Fireworks,Male,25-34,1
+White,2020-03-01,Offensive weapons,Female,10-17,17
+White,2020-03-01,Offensive weapons,Female,18-24,10
+White,2020-03-01,Offensive weapons,Female,25-34,5
+White,2020-03-01,Offensive weapons,Female,over 34,14
+White,2020-03-01,Offensive weapons,Male,10-17,284
+White,2020-03-01,Offensive weapons,Male,18-24,262
+White,2020-03-01,Offensive weapons,Male,25-34,215
+White,2020-03-01,Offensive weapons,Male,over 34,122
+White,2020-03-01,Stolen goods,Female,10-17,31
+White,2020-03-01,Stolen goods,Female,18-24,34
+White,2020-03-01,Stolen goods,Female,25-34,52
+White,2020-03-01,Stolen goods,Female,over 34,68
+White,2020-03-01,Stolen goods,Male,10-17,232
+White,2020-03-01,Stolen goods,Male,18-24,270
+White,2020-03-01,Stolen goods,Male,25-34,286
+White,2020-03-01,Stolen goods,Male,over 34,333
+White,2020-03-01,Stolen goods,Other,10-17,1
+White,2020-03-01,Stolen goods,Other,over 34,1
+White,2020-04-01,Anything to threaten or harm anyone,Female,18-24,2
+White,2020-04-01,Anything to threaten or harm anyone,Female,25-34,5
+White,2020-04-01,Anything to threaten or harm anyone,Male,10-17,14
+White,2020-04-01,Anything to threaten or harm anyone,Male,18-24,29
+White,2020-04-01,Anything to threaten or harm anyone,Male,25-34,17
+White,2020-04-01,Anything to threaten or harm anyone,Male,over 34,11
+White,2020-04-01,Articles for use in criminal damage,Female,10-17,2
+White,2020-04-01,Articles for use in criminal damage,Female,18-24,2
+White,2020-04-01,Articles for use in criminal damage,Female,25-34,1
+White,2020-04-01,Articles for use in criminal damage,Male,10-17,5
+White,2020-04-01,Articles for use in criminal damage,Male,18-24,7
+White,2020-04-01,Articles for use in criminal damage,Male,25-34,11
+White,2020-04-01,Articles for use in criminal damage,Male,over 34,13
+White,2020-04-01,Controlled drugs,Female,10-17,58
+White,2020-04-01,Controlled drugs,Female,18-24,213
+White,2020-04-01,Controlled drugs,Female,25-34,162
+White,2020-04-01,Controlled drugs,Female,over 34,195
+White,2020-04-01,Controlled drugs,Male,10-17,638
+White,2020-04-01,Controlled drugs,Male,18-24,2146
+White,2020-04-01,Controlled drugs,Male,25-34,1745
+White,2020-04-01,Controlled drugs,Male,over 34,1285
+White,2020-04-01,Controlled drugs,Other,18-24,1
+White,2020-04-01,Controlled drugs,Other,over 34,1
+White,2020-04-01,Evidence of offences under the Act,Female,10-17,9
+White,2020-04-01,Evidence of offences under the Act,Female,18-24,7
+White,2020-04-01,Evidence of offences under the Act,Female,25-34,14
+White,2020-04-01,Evidence of offences under the Act,Female,over 34,24
+White,2020-04-01,Evidence of offences under the Act,Male,10-17,94
+White,2020-04-01,Evidence of offences under the Act,Male,18-24,181
+White,2020-04-01,Evidence of offences under the Act,Male,25-34,239
+White,2020-04-01,Evidence of offences under the Act,Male,over 34,281
+White,2020-04-01,Firearms,Female,25-34,7
+White,2020-04-01,Firearms,Female,over 34,2
+White,2020-04-01,Firearms,Male,10-17,1
+White,2020-04-01,Firearms,Male,18-24,3
+White,2020-04-01,Firearms,Male,25-34,10
+White,2020-04-01,Firearms,Male,over 34,13
+White,2020-04-01,Fireworks,Female,over 34,1
+White,2020-04-01,Offensive weapons,Female,10-17,9
+White,2020-04-01,Offensive weapons,Female,18-24,14
+White,2020-04-01,Offensive weapons,Female,25-34,14
+White,2020-04-01,Offensive weapons,Female,over 34,10
+White,2020-04-01,Offensive weapons,Male,10-17,176
+White,2020-04-01,Offensive weapons,Male,18-24,317
+White,2020-04-01,Offensive weapons,Male,25-34,202
+White,2020-04-01,Offensive weapons,Male,over 34,167
+White,2020-04-01,Offensive weapons,Other,10-17,1
+White,2020-04-01,Stolen goods,Female,10-17,16
+White,2020-04-01,Stolen goods,Female,18-24,13
+White,2020-04-01,Stolen goods,Female,25-34,36
+White,2020-04-01,Stolen goods,Female,over 34,74
+White,2020-04-01,Stolen goods,Male,10-17,163
+White,2020-04-01,Stolen goods,Male,18-24,276
+White,2020-04-01,Stolen goods,Male,25-34,341
+White,2020-04-01,Stolen goods,Male,over 34,402
+White,2020-05-01,Anything to threaten or harm anyone,Female,10-17,4
+White,2020-05-01,Anything to threaten or harm anyone,Female,18-24,2
+White,2020-05-01,Anything to threaten or harm anyone,Female,25-34,1
+White,2020-05-01,Anything to threaten or harm anyone,Female,over 34,3
+White,2020-05-01,Anything to threaten or harm anyone,Male,10-17,50
+White,2020-05-01,Anything to threaten or harm anyone,Male,18-24,118
+White,2020-05-01,Anything to threaten or harm anyone,Male,25-34,65
+White,2020-05-01,Anything to threaten or harm anyone,Male,over 34,38
+White,2020-05-01,Articles for use in criminal damage,Female,10-17,1
+White,2020-05-01,Articles for use in criminal damage,Female,18-24,1
+White,2020-05-01,Articles for use in criminal damage,Male,10-17,16
+White,2020-05-01,Articles for use in criminal damage,Male,18-24,8
+White,2020-05-01,Articles for use in criminal damage,Male,25-34,7
+White,2020-05-01,Articles for use in criminal damage,Male,over 34,10
+White,2020-05-01,Controlled drugs,Female,10-17,128
+White,2020-05-01,Controlled drugs,Female,18-24,324
+White,2020-05-01,Controlled drugs,Female,25-34,290
+White,2020-05-01,Controlled drugs,Female,over 34,280
+White,2020-05-01,Controlled drugs,Male,10-17,957
+White,2020-05-01,Controlled drugs,Male,18-24,2971
+White,2020-05-01,Controlled drugs,Male,25-34,2233
+White,2020-05-01,Controlled drugs,Male,over 34,1762
+White,2020-05-01,Controlled drugs,Male,under 10,1
+White,2020-05-01,Evidence of offences under the Act,Female,10-17,8
+White,2020-05-01,Evidence of offences under the Act,Female,18-24,5
+White,2020-05-01,Evidence of offences under the Act,Female,25-34,8
+White,2020-05-01,Evidence of offences under the Act,Female,over 34,17
+White,2020-05-01,Evidence of offences under the Act,Male,10-17,113
+White,2020-05-01,Evidence of offences under the Act,Male,18-24,197
+White,2020-05-01,Evidence of offences under the Act,Male,25-34,258
+White,2020-05-01,Evidence of offences under the Act,Male,over 34,280
+White,2020-05-01,Evidence of offences under the Act,Other,18-24,1
+White,2020-05-01,Firearms,Female,18-24,3
+White,2020-05-01,Firearms,Female,25-34,1
+White,2020-05-01,Firearms,Female,over 34,2
+White,2020-05-01,Firearms,Male,10-17,4
+White,2020-05-01,Firearms,Male,18-24,11
+White,2020-05-01,Firearms,Male,25-34,10
+White,2020-05-01,Firearms,Male,over 34,12
+White,2020-05-01,Fireworks,Male,over 34,2
+White,2020-05-01,Offensive weapons,Female,10-17,11
+White,2020-05-01,Offensive weapons,Female,18-24,21
+White,2020-05-01,Offensive weapons,Female,25-34,19
+White,2020-05-01,Offensive weapons,Female,over 34,24
+White,2020-05-01,Offensive weapons,Male,10-17,319
+White,2020-05-01,Offensive weapons,Male,18-24,496
+White,2020-05-01,Offensive weapons,Male,25-34,279
+White,2020-05-01,Offensive weapons,Male,over 34,244
+White,2020-05-01,Offensive weapons,Other,over 34,1
+White,2020-05-01,Stolen goods,Female,10-17,18
+White,2020-05-01,Stolen goods,Female,18-24,24
+White,2020-05-01,Stolen goods,Female,25-34,44
+White,2020-05-01,Stolen goods,Female,over 34,51
+White,2020-05-01,Stolen goods,Male,10-17,211
+White,2020-05-01,Stolen goods,Male,18-24,299
+White,2020-05-01,Stolen goods,Male,25-34,377
+White,2020-05-01,Stolen goods,Male,over 34,443
+White,2020-06-01,Anything to threaten or harm anyone,Female,10-17,1
+White,2020-06-01,Anything to threaten or harm anyone,Female,18-24,6
+White,2020-06-01,Anything to threaten or harm anyone,Female,25-34,3
+White,2020-06-01,Anything to threaten or harm anyone,Female,over 34,2
+White,2020-06-01,Anything to threaten or harm anyone,Male,10-17,33
+White,2020-06-01,Anything to threaten or harm anyone,Male,18-24,68
+White,2020-06-01,Anything to threaten or harm anyone,Male,25-34,48
+White,2020-06-01,Anything to threaten or harm anyone,Male,over 34,33
+White,2020-06-01,Anything to threaten or harm anyone,Other,18-24,1
+White,2020-06-01,Articles for use in criminal damage,Female,10-17,2
+White,2020-06-01,Articles for use in criminal damage,Female,18-24,1
+White,2020-06-01,Articles for use in criminal damage,Female,25-34,2
+White,2020-06-01,Articles for use in criminal damage,Female,over 34,1
+White,2020-06-01,Articles for use in criminal damage,Male,10-17,19
+White,2020-06-01,Articles for use in criminal damage,Male,18-24,19
+White,2020-06-01,Articles for use in criminal damage,Male,25-34,13
+White,2020-06-01,Articles for use in criminal damage,Male,over 34,8
+White,2020-06-01,Controlled drugs,Female,10-17,112
+White,2020-06-01,Controlled drugs,Female,18-24,282
+White,2020-06-01,Controlled drugs,Female,25-34,193
+White,2020-06-01,Controlled drugs,Female,over 34,235
+White,2020-06-01,Controlled drugs,Male,10-17,803
+White,2020-06-01,Controlled drugs,Male,18-24,2059
+White,2020-06-01,Controlled drugs,Male,25-34,1503
+White,2020-06-01,Controlled drugs,Male,over 34,1250
+White,2020-06-01,Controlled drugs,Other,18-24,1
+White,2020-06-01,Controlled drugs,Other,25-34,2
+White,2020-06-01,Evidence of offences under the Act,Female,10-17,7
+White,2020-06-01,Evidence of offences under the Act,Female,18-24,7
+White,2020-06-01,Evidence of offences under the Act,Female,25-34,8
+White,2020-06-01,Evidence of offences under the Act,Female,over 34,13
+White,2020-06-01,Evidence of offences under the Act,Male,10-17,98
+White,2020-06-01,Evidence of offences under the Act,Male,18-24,136
+White,2020-06-01,Evidence of offences under the Act,Male,25-34,133
+White,2020-06-01,Evidence of offences under the Act,Male,over 34,220
+White,2020-06-01,Firearms,Female,18-24,2
+White,2020-06-01,Firearms,Female,25-34,2
+White,2020-06-01,Firearms,Male,10-17,4
+White,2020-06-01,Firearms,Male,18-24,8
+White,2020-06-01,Firearms,Male,25-34,11
+White,2020-06-01,Firearms,Male,over 34,6
+White,2020-06-01,Offensive weapons,Female,10-17,20
+White,2020-06-01,Offensive weapons,Female,18-24,21
+White,2020-06-01,Offensive weapons,Female,25-34,13
+White,2020-06-01,Offensive weapons,Female,over 34,19
+White,2020-06-01,Offensive weapons,Male,10-17,302
+White,2020-06-01,Offensive weapons,Male,18-24,329
+White,2020-06-01,Offensive weapons,Male,25-34,206
+White,2020-06-01,Offensive weapons,Male,over 34,192
+White,2020-06-01,Offensive weapons,Male,under 10,1
+White,2020-06-01,Offensive weapons,Other,25-34,1
+White,2020-06-01,Stolen goods,Female,10-17,16
+White,2020-06-01,Stolen goods,Female,18-24,23
+White,2020-06-01,Stolen goods,Female,25-34,44
+White,2020-06-01,Stolen goods,Female,over 34,47
+White,2020-06-01,Stolen goods,Female,under 10,1
+White,2020-06-01,Stolen goods,Male,10-17,187
+White,2020-06-01,Stolen goods,Male,18-24,244
+White,2020-06-01,Stolen goods,Male,25-34,269
+White,2020-06-01,Stolen goods,Male,over 34,358
+White,2020-07-01,Anything to threaten or harm anyone,Female,18-24,1
+White,2020-07-01,Anything to threaten or harm anyone,Female,25-34,2
+White,2020-07-01,Anything to threaten or harm anyone,Male,10-17,10
+White,2020-07-01,Anything to threaten or harm anyone,Male,18-24,41
+White,2020-07-01,Anything to threaten or harm anyone,Male,25-34,16
+White,2020-07-01,Anything to threaten or harm anyone,Male,over 34,12
+White,2020-07-01,Articles for use in criminal damage,Female,10-17,5
+White,2020-07-01,Articles for use in criminal damage,Female,18-24,1
+White,2020-07-01,Articles for use in criminal damage,Female,25-34,1
+White,2020-07-01,Articles for use in criminal damage,Female,over 34,3
+White,2020-07-01,Articles for use in criminal damage,Male,10-17,22
+White,2020-07-01,Articles for use in criminal damage,Male,18-24,11
+White,2020-07-01,Articles for use in criminal damage,Male,25-34,8
+White,2020-07-01,Articles for use in criminal damage,Male,over 34,12
+White,2020-07-01,Controlled drugs,Female,10-17,65
+White,2020-07-01,Controlled drugs,Female,18-24,215
+White,2020-07-01,Controlled drugs,Female,25-34,209
+White,2020-07-01,Controlled drugs,Female,over 34,239
+White,2020-07-01,Controlled drugs,Male,10-17,508
+White,2020-07-01,Controlled drugs,Male,18-24,1600
+White,2020-07-01,Controlled drugs,Male,25-34,1265
+White,2020-07-01,Controlled drugs,Male,over 34,1201
+White,2020-07-01,Controlled drugs,Male,under 10,1
+White,2020-07-01,Controlled drugs,Other,10-17,1
+White,2020-07-01,Controlled drugs,Other,over 34,2
+White,2020-07-01,Evidence of offences under the Act,Female,10-17,6
+White,2020-07-01,Evidence of offences under the Act,Female,18-24,9
+White,2020-07-01,Evidence of offences under the Act,Female,25-34,8
+White,2020-07-01,Evidence of offences under the Act,Female,over 34,13
+White,2020-07-01,Evidence of offences under the Act,Male,10-17,102
+White,2020-07-01,Evidence of offences under the Act,Male,18-24,115
+White,2020-07-01,Evidence of offences under the Act,Male,25-34,137
+White,2020-07-01,Evidence of offences under the Act,Male,over 34,189
+White,2020-07-01,Evidence of offences under the Act,Other,10-17,1
+White,2020-07-01,Firearms,Female,10-17,1
+White,2020-07-01,Firearms,Female,25-34,2
+White,2020-07-01,Firearms,Female,over 34,1
+White,2020-07-01,Firearms,Male,18-24,6
+White,2020-07-01,Firearms,Male,25-34,9
+White,2020-07-01,Firearms,Male,over 34,8
+White,2020-07-01,Fireworks,Male,10-17,9
+White,2020-07-01,Offensive weapons,Female,10-17,19
+White,2020-07-01,Offensive weapons,Female,18-24,24
+White,2020-07-01,Offensive weapons,Female,25-34,20
+White,2020-07-01,Offensive weapons,Female,over 34,17
+White,2020-07-01,Offensive weapons,Male,10-17,226
+White,2020-07-01,Offensive weapons,Male,18-24,250
+White,2020-07-01,Offensive weapons,Male,25-34,202
+White,2020-07-01,Offensive weapons,Male,over 34,181
+White,2020-07-01,Offensive weapons,Other,over 34,2
+White,2020-07-01,Stolen goods,Female,10-17,22
+White,2020-07-01,Stolen goods,Female,18-24,40
+White,2020-07-01,Stolen goods,Female,25-34,48
+White,2020-07-01,Stolen goods,Female,over 34,67
+White,2020-07-01,Stolen goods,Male,10-17,169
+White,2020-07-01,Stolen goods,Male,18-24,222
+White,2020-07-01,Stolen goods,Male,25-34,286
+White,2020-07-01,Stolen goods,Male,over 34,374
+White,2020-07-01,Stolen goods,Other,18-24,1
+White,2020-08-01,Anything to threaten or harm anyone,Female,25-34,2
+White,2020-08-01,Anything to threaten or harm anyone,Female,over 34,1
+White,2020-08-01,Anything to threaten or harm anyone,Male,10-17,10
+White,2020-08-01,Anything to threaten or harm anyone,Male,18-24,5
+White,2020-08-01,Anything to threaten or harm anyone,Male,25-34,10
+White,2020-08-01,Anything to threaten or harm anyone,Male,over 34,13
+White,2020-08-01,Articles for use in criminal damage,Female,25-34,2
+White,2020-08-01,Articles for use in criminal damage,Female,over 34,1
+White,2020-08-01,Articles for use in criminal damage,Male,10-17,21
+White,2020-08-01,Articles for use in criminal damage,Male,18-24,12
+White,2020-08-01,Articles for use in criminal damage,Male,25-34,6
+White,2020-08-01,Articles for use in criminal damage,Male,over 34,20
+White,2020-08-01,Controlled drugs,Female,10-17,46
+White,2020-08-01,Controlled drugs,Female,18-24,179
+White,2020-08-01,Controlled drugs,Female,25-34,150
+White,2020-08-01,Controlled drugs,Female,over 34,210
+White,2020-08-01,Controlled drugs,Male,10-17,407
+White,2020-08-01,Controlled drugs,Male,18-24,1122
+White,2020-08-01,Controlled drugs,Male,25-34,944
+White,2020-08-01,Controlled drugs,Male,over 34,919
+White,2020-08-01,Controlled drugs,Other,10-17,1
+White,2020-08-01,Controlled drugs,Other,18-24,1
+White,2020-08-01,Evidence of offences under the Act,Female,10-17,6
+White,2020-08-01,Evidence of offences under the Act,Female,18-24,2
+White,2020-08-01,Evidence of offences under the Act,Female,25-34,1
+White,2020-08-01,Evidence of offences under the Act,Female,over 34,6
+White,2020-08-01,Evidence of offences under the Act,Male,10-17,63
+White,2020-08-01,Evidence of offences under the Act,Male,18-24,84
+White,2020-08-01,Evidence of offences under the Act,Male,25-34,92
+White,2020-08-01,Evidence of offences under the Act,Male,over 34,125
+White,2020-08-01,Evidence of offences under the Act,Male,under 10,1
+White,2020-08-01,Firearms,Female,18-24,2
+White,2020-08-01,Firearms,Female,25-34,4
+White,2020-08-01,Firearms,Female,over 34,3
+White,2020-08-01,Firearms,Male,10-17,5
+White,2020-08-01,Firearms,Male,18-24,7
+White,2020-08-01,Firearms,Male,25-34,10
+White,2020-08-01,Firearms,Male,over 34,7
+White,2020-08-01,Fireworks,Male,25-34,1
+White,2020-08-01,Fireworks,Male,over 34,2
+White,2020-08-01,Offensive weapons,Female,10-17,9
+White,2020-08-01,Offensive weapons,Female,18-24,13
+White,2020-08-01,Offensive weapons,Female,25-34,9
+White,2020-08-01,Offensive weapons,Female,over 34,16
+White,2020-08-01,Offensive weapons,Male,10-17,178
+White,2020-08-01,Offensive weapons,Male,18-24,182
+White,2020-08-01,Offensive weapons,Male,25-34,165
+White,2020-08-01,Offensive weapons,Male,over 34,139
+White,2020-08-01,Offensive weapons,Male,under 10,1
+White,2020-08-01,Offensive weapons,Other,over 34,2
+White,2020-08-01,Stolen goods,Female,10-17,17
+White,2020-08-01,Stolen goods,Female,18-24,30
+White,2020-08-01,Stolen goods,Female,25-34,39
+White,2020-08-01,Stolen goods,Female,over 34,45
+White,2020-08-01,Stolen goods,Male,10-17,179
+White,2020-08-01,Stolen goods,Male,18-24,198
+White,2020-08-01,Stolen goods,Male,25-34,253
+White,2020-08-01,Stolen goods,Male,over 34,321
+White,2020-08-01,Stolen goods,Male,under 10,2
+White,2020-09-01,Anything to threaten or harm anyone,Male,10-17,3
+White,2020-09-01,Anything to threaten or harm anyone,Male,18-24,9
+White,2020-09-01,Anything to threaten or harm anyone,Male,25-34,2
+White,2020-09-01,Anything to threaten or harm anyone,Male,over 34,1
+White,2020-09-01,Articles for use in criminal damage,Female,10-17,7
+White,2020-09-01,Articles for use in criminal damage,Female,18-24,6
+White,2020-09-01,Articles for use in criminal damage,Female,over 34,3
+White,2020-09-01,Articles for use in criminal damage,Male,10-17,26
+White,2020-09-01,Articles for use in criminal damage,Male,18-24,17
+White,2020-09-01,Articles for use in criminal damage,Male,25-34,20
+White,2020-09-01,Articles for use in criminal damage,Male,over 34,15
+White,2020-09-01,Controlled drugs,Female,10-17,60
+White,2020-09-01,Controlled drugs,Female,18-24,167
+White,2020-09-01,Controlled drugs,Female,25-34,132
+White,2020-09-01,Controlled drugs,Female,over 34,212
+White,2020-09-01,Controlled drugs,Female,under 10,1
+White,2020-09-01,Controlled drugs,Male,10-17,382
+White,2020-09-01,Controlled drugs,Male,18-24,1220
+White,2020-09-01,Controlled drugs,Male,25-34,945
+White,2020-09-01,Controlled drugs,Male,over 34,856
+White,2020-09-01,Controlled drugs,Male,under 10,1
+White,2020-09-01,Evidence of offences under the Act,Female,10-17,2
+White,2020-09-01,Evidence of offences under the Act,Female,18-24,10
+White,2020-09-01,Evidence of offences under the Act,Female,25-34,10
+White,2020-09-01,Evidence of offences under the Act,Female,over 34,15
+White,2020-09-01,Evidence of offences under the Act,Male,10-17,80
+White,2020-09-01,Evidence of offences under the Act,Male,18-24,85
+White,2020-09-01,Evidence of offences under the Act,Male,25-34,86
+White,2020-09-01,Evidence of offences under the Act,Male,over 34,125
+White,2020-09-01,Firearms,Female,10-17,2
+White,2020-09-01,Firearms,Female,18-24,1
+White,2020-09-01,Firearms,Female,25-34,3
+White,2020-09-01,Firearms,Female,over 34,2
+White,2020-09-01,Firearms,Male,10-17,4
+White,2020-09-01,Firearms,Male,18-24,14
+White,2020-09-01,Firearms,Male,25-34,10
+White,2020-09-01,Firearms,Male,over 34,6
+White,2020-09-01,Fireworks,Male,10-17,1
+White,2020-09-01,Fireworks,Male,over 34,1
+White,2020-09-01,Offensive weapons,Female,10-17,8
+White,2020-09-01,Offensive weapons,Female,18-24,14
+White,2020-09-01,Offensive weapons,Female,25-34,11
+White,2020-09-01,Offensive weapons,Female,over 34,11
+White,2020-09-01,Offensive weapons,Male,10-17,199
+White,2020-09-01,Offensive weapons,Male,18-24,206
+White,2020-09-01,Offensive weapons,Male,25-34,137
+White,2020-09-01,Offensive weapons,Male,over 34,142
+White,2020-09-01,Offensive weapons,Male,under 10,1
+White,2020-09-01,Stolen goods,Female,10-17,19
+White,2020-09-01,Stolen goods,Female,18-24,24
+White,2020-09-01,Stolen goods,Female,25-34,37
+White,2020-09-01,Stolen goods,Female,over 34,63
+White,2020-09-01,Stolen goods,Male,10-17,206
+White,2020-09-01,Stolen goods,Male,18-24,214
+White,2020-09-01,Stolen goods,Male,25-34,230
+White,2020-09-01,Stolen goods,Male,over 34,281
+White,2020-09-01,Stolen goods,Other,over 34,1
+White,2020-10-01,Anything to threaten or harm anyone,Female,10-17,5
+White,2020-10-01,Anything to threaten or harm anyone,Female,25-34,1
+White,2020-10-01,Anything to threaten or harm anyone,Female,over 34,1
+White,2020-10-01,Anything to threaten or harm anyone,Male,10-17,16
+White,2020-10-01,Anything to threaten or harm anyone,Male,18-24,12
+White,2020-10-01,Anything to threaten or harm anyone,Male,25-34,7
+White,2020-10-01,Anything to threaten or harm anyone,Male,over 34,9
+White,2020-10-01,Articles for use in criminal damage,Female,10-17,3
+White,2020-10-01,Articles for use in criminal damage,Female,18-24,1
+White,2020-10-01,Articles for use in criminal damage,Male,10-17,40
+White,2020-10-01,Articles for use in criminal damage,Male,18-24,8
+White,2020-10-01,Articles for use in criminal damage,Male,25-34,6
+White,2020-10-01,Articles for use in criminal damage,Male,over 34,8
+White,2020-10-01,Controlled drugs,Female,10-17,111
+White,2020-10-01,Controlled drugs,Female,18-24,192
+White,2020-10-01,Controlled drugs,Female,25-34,153
+White,2020-10-01,Controlled drugs,Female,over 34,147
+White,2020-10-01,Controlled drugs,Male,10-17,582
+White,2020-10-01,Controlled drugs,Male,18-24,1465
+White,2020-10-01,Controlled drugs,Male,25-34,1184
+White,2020-10-01,Controlled drugs,Male,over 34,997
+White,2020-10-01,Controlled drugs,Other,25-34,1
+White,2020-10-01,Controlled drugs,Other,over 34,1
+White,2020-10-01,Evidence of offences under the Act,Female,10-17,9
+White,2020-10-01,Evidence of offences under the Act,Female,18-24,8
+White,2020-10-01,Evidence of offences under the Act,Female,25-34,13
+White,2020-10-01,Evidence of offences under the Act,Female,over 34,15
+White,2020-10-01,Evidence of offences under the Act,Male,10-17,121
+White,2020-10-01,Evidence of offences under the Act,Male,18-24,101
+White,2020-10-01,Evidence of offences under the Act,Male,25-34,145
+White,2020-10-01,Evidence of offences under the Act,Male,over 34,175
+White,2020-10-01,Firearms,Female,10-17,1
+White,2020-10-01,Firearms,Female,18-24,2
+White,2020-10-01,Firearms,Female,over 34,2
+White,2020-10-01,Firearms,Male,10-17,8
+White,2020-10-01,Firearms,Male,18-24,1
+White,2020-10-01,Firearms,Male,25-34,8
+White,2020-10-01,Firearms,Male,over 34,8
+White,2020-10-01,Fireworks,Female,10-17,13
+White,2020-10-01,Fireworks,Female,18-24,2
+White,2020-10-01,Fireworks,Male,10-17,137
+White,2020-10-01,Fireworks,Male,18-24,26
+White,2020-10-01,Fireworks,Male,25-34,10
+White,2020-10-01,Fireworks,Male,over 34,2
+White,2020-10-01,Offensive weapons,Female,10-17,28
+White,2020-10-01,Offensive weapons,Female,18-24,11
+White,2020-10-01,Offensive weapons,Female,25-34,21
+White,2020-10-01,Offensive weapons,Female,over 34,6
+White,2020-10-01,Offensive weapons,Male,10-17,288
+White,2020-10-01,Offensive weapons,Male,18-24,254
+White,2020-10-01,Offensive weapons,Male,25-34,168
+White,2020-10-01,Offensive weapons,Male,over 34,152
+White,2020-10-01,Stolen goods,Female,10-17,30
+White,2020-10-01,Stolen goods,Female,18-24,41
+White,2020-10-01,Stolen goods,Female,25-34,45
+White,2020-10-01,Stolen goods,Female,over 34,67
+White,2020-10-01,Stolen goods,Male,10-17,197
+White,2020-10-01,Stolen goods,Male,18-24,213
+White,2020-10-01,Stolen goods,Male,25-34,273
+White,2020-10-01,Stolen goods,Male,over 34,304
+White,2020-11-01,Anything to threaten or harm anyone,Female,10-17,1
+White,2020-11-01,Anything to threaten or harm anyone,Male,10-17,14
+White,2020-11-01,Anything to threaten or harm anyone,Male,18-24,28
+White,2020-11-01,Anything to threaten or harm anyone,Male,25-34,8
+White,2020-11-01,Anything to threaten or harm anyone,Male,over 34,4
+White,2020-11-01,Articles for use in criminal damage,Female,25-34,3
+White,2020-11-01,Articles for use in criminal damage,Female,over 34,3
+White,2020-11-01,Articles for use in criminal damage,Male,10-17,12
+White,2020-11-01,Articles for use in criminal damage,Male,18-24,8
+White,2020-11-01,Articles for use in criminal damage,Male,25-34,13
+White,2020-11-01,Articles for use in criminal damage,Male,over 34,10
+White,2020-11-01,Controlled drugs,Female,10-17,125
+White,2020-11-01,Controlled drugs,Female,18-24,256
+White,2020-11-01,Controlled drugs,Female,25-34,178
+White,2020-11-01,Controlled drugs,Female,over 34,215
+White,2020-11-01,Controlled drugs,Male,10-17,670
+White,2020-11-01,Controlled drugs,Male,18-24,1683
+White,2020-11-01,Controlled drugs,Male,25-34,1370
+White,2020-11-01,Controlled drugs,Male,over 34,1147
+White,2020-11-01,Controlled drugs,Male,under 10,1
+White,2020-11-01,Controlled drugs,Other,18-24,1
+White,2020-11-01,Controlled drugs,Other,25-34,2
+White,2020-11-01,Controlled drugs,Other,over 34,1
+White,2020-11-01,Evidence of offences under the Act,Female,10-17,7
+White,2020-11-01,Evidence of offences under the Act,Female,18-24,11
+White,2020-11-01,Evidence of offences under the Act,Female,25-34,5
+White,2020-11-01,Evidence of offences under the Act,Female,over 34,17
+White,2020-11-01,Evidence of offences under the Act,Male,10-17,80
+White,2020-11-01,Evidence of offences under the Act,Male,18-24,117
+White,2020-11-01,Evidence of offences under the Act,Male,25-34,183
+White,2020-11-01,Evidence of offences under the Act,Male,over 34,200
+White,2020-11-01,Evidence of offences under the Act,Other,over 34,1
+White,2020-11-01,Firearms,Female,18-24,2
+White,2020-11-01,Firearms,Female,25-34,1
+White,2020-11-01,Firearms,Male,10-17,2
+White,2020-11-01,Firearms,Male,18-24,8
+White,2020-11-01,Firearms,Male,25-34,6
+White,2020-11-01,Firearms,Male,over 34,6
+White,2020-11-01,Fireworks,Female,10-17,4
+White,2020-11-01,Fireworks,Female,18-24,3
+White,2020-11-01,Fireworks,Female,over 34,1
+White,2020-11-01,Fireworks,Male,10-17,41
+White,2020-11-01,Fireworks,Male,18-24,33
+White,2020-11-01,Fireworks,Male,25-34,4
+White,2020-11-01,Fireworks,Male,over 34,6
+White,2020-11-01,Offensive weapons,Female,10-17,17
+White,2020-11-01,Offensive weapons,Female,18-24,11
+White,2020-11-01,Offensive weapons,Female,25-34,8
+White,2020-11-01,Offensive weapons,Female,over 34,14
+White,2020-11-01,Offensive weapons,Male,10-17,264
+White,2020-11-01,Offensive weapons,Male,18-24,238
+White,2020-11-01,Offensive weapons,Male,25-34,170
+White,2020-11-01,Offensive weapons,Male,over 34,175
+White,2020-11-01,Offensive weapons,Other,18-24,1
+White,2020-11-01,Stolen goods,Female,10-17,14
+White,2020-11-01,Stolen goods,Female,18-24,36
+White,2020-11-01,Stolen goods,Female,25-34,54
+White,2020-11-01,Stolen goods,Female,over 34,53
+White,2020-11-01,Stolen goods,Male,10-17,257
+White,2020-11-01,Stolen goods,Male,18-24,257
+White,2020-11-01,Stolen goods,Male,25-34,285
+White,2020-11-01,Stolen goods,Male,over 34,304
+White,2020-11-01,Stolen goods,Other,25-34,1
+White,2020-11-01,Stolen goods,Other,over 34,1
+White,2020-12-01,Anything to threaten or harm anyone,Male,10-17,5
+White,2020-12-01,Anything to threaten or harm anyone,Male,18-24,6
+White,2020-12-01,Anything to threaten or harm anyone,Male,25-34,8
+White,2020-12-01,Anything to threaten or harm anyone,Male,over 34,6
+White,2020-12-01,Articles for use in criminal damage,Female,18-24,3
+White,2020-12-01,Articles for use in criminal damage,Male,10-17,18
+White,2020-12-01,Articles for use in criminal damage,Male,18-24,19
+White,2020-12-01,Articles for use in criminal damage,Male,25-34,9
+White,2020-12-01,Articles for use in criminal damage,Male,over 34,11
+White,2020-12-01,Controlled drugs,Female,10-17,85
+White,2020-12-01,Controlled drugs,Female,18-24,202
+White,2020-12-01,Controlled drugs,Female,25-34,132
+White,2020-12-01,Controlled drugs,Female,over 34,130
+White,2020-12-01,Controlled drugs,Male,10-17,568
+White,2020-12-01,Controlled drugs,Male,18-24,1442
+White,2020-12-01,Controlled drugs,Male,25-34,1109
+White,2020-12-01,Controlled drugs,Male,over 34,803
+White,2020-12-01,Controlled drugs,Male,under 10,2
+White,2020-12-01,Controlled drugs,Other,10-17,1
+White,2020-12-01,Controlled drugs,Other,18-24,1
+White,2020-12-01,Controlled drugs,Other,over 34,1
+White,2020-12-01,Evidence of offences under the Act,Female,10-17,2
+White,2020-12-01,Evidence of offences under the Act,Female,18-24,2
+White,2020-12-01,Evidence of offences under the Act,Female,25-34,8
+White,2020-12-01,Evidence of offences under the Act,Female,over 34,6
+White,2020-12-01,Evidence of offences under the Act,Male,10-17,68
+White,2020-12-01,Evidence of offences under the Act,Male,18-24,115
+White,2020-12-01,Evidence of offences under the Act,Male,25-34,112
+White,2020-12-01,Evidence of offences under the Act,Male,over 34,149
+White,2020-12-01,Evidence of offences under the Act,Other,10-17,1
+White,2020-12-01,Firearms,Female,25-34,7
+White,2020-12-01,Firearms,Male,10-17,2
+White,2020-12-01,Firearms,Male,18-24,5
+White,2020-12-01,Firearms,Male,25-34,3
+White,2020-12-01,Firearms,Male,over 34,8
+White,2020-12-01,Fireworks,Male,10-17,6
+White,2020-12-01,Fireworks,Male,18-24,4
+White,2020-12-01,Fireworks,Male,25-34,2
+White,2020-12-01,Fireworks,Male,over 34,2
+White,2020-12-01,Offensive weapons,Female,10-17,12
+White,2020-12-01,Offensive weapons,Female,18-24,14
+White,2020-12-01,Offensive weapons,Female,25-34,10
+White,2020-12-01,Offensive weapons,Female,over 34,17
+White,2020-12-01,Offensive weapons,Male,10-17,174
+White,2020-12-01,Offensive weapons,Male,18-24,181
+White,2020-12-01,Offensive weapons,Male,25-34,133
+White,2020-12-01,Offensive weapons,Male,over 34,119
+White,2020-12-01,Offensive weapons,Other,over 34,1
+White,2020-12-01,Stolen goods,Female,10-17,22
+White,2020-12-01,Stolen goods,Female,18-24,24
+White,2020-12-01,Stolen goods,Female,25-34,45
+White,2020-12-01,Stolen goods,Female,over 34,46
+White,2020-12-01,Stolen goods,Male,10-17,190
+White,2020-12-01,Stolen goods,Male,18-24,232
+White,2020-12-01,Stolen goods,Male,25-34,272
+White,2020-12-01,Stolen goods,Male,over 34,253
+White,2020-12-01,Stolen goods,Other,25-34,1

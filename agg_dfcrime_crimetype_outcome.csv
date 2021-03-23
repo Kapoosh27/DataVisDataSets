@@ -1,0 +1,937 @@
+Crime type,Month,Last outcome category,count
+Anti-social behaviour,2020-01,,17546
+Anti-social behaviour,2020-02,,16969
+Anti-social behaviour,2020-03,,23010
+Anti-social behaviour,2020-04,,62756
+Anti-social behaviour,2020-05,,58494
+Anti-social behaviour,2020-06,,39579
+Anti-social behaviour,2020-07,,35584
+Anti-social behaviour,2020-08,,35836
+Anti-social behaviour,2020-09,,30858
+Anti-social behaviour,2020-10,,31186
+Anti-social behaviour,2020-11,,33857
+Anti-social behaviour,2020-12,,29375
+Bicycle theft,2020-01,Awaiting court outcome,3
+Bicycle theft,2020-01,Court result unavailable,13
+Bicycle theft,2020-01,Investigation complete; no suspect identified,309
+Bicycle theft,2020-01,Local resolution,1
+Bicycle theft,2020-01,Offender given a caution,1
+Bicycle theft,2020-01,Status update unavailable,834
+Bicycle theft,2020-02,Awaiting court outcome,2
+Bicycle theft,2020-02,Court result unavailable,14
+Bicycle theft,2020-02,Investigation complete; no suspect identified,363
+Bicycle theft,2020-02,Local resolution,1
+Bicycle theft,2020-02,Offender given a caution,2
+Bicycle theft,2020-02,Status update unavailable,654
+Bicycle theft,2020-03,Awaiting court outcome,4
+Bicycle theft,2020-03,Court result unavailable,8
+Bicycle theft,2020-03,Investigation complete; no suspect identified,1042
+Bicycle theft,2020-03,Offender given a caution,1
+Bicycle theft,2020-03,Status update unavailable,7
+Bicycle theft,2020-04,Awaiting court outcome,5
+Bicycle theft,2020-04,Court result unavailable,17
+Bicycle theft,2020-04,Investigation complete; no suspect identified,1023
+Bicycle theft,2020-04,Offender given a caution,1
+Bicycle theft,2020-04,Status update unavailable,6
+Bicycle theft,2020-05,Awaiting court outcome,9
+Bicycle theft,2020-05,Court result unavailable,13
+Bicycle theft,2020-05,Investigation complete; no suspect identified,1705
+Bicycle theft,2020-05,Local resolution,7
+Bicycle theft,2020-05,Status update unavailable,26
+Bicycle theft,2020-06,Awaiting court outcome,23
+Bicycle theft,2020-06,Court result unavailable,10
+Bicycle theft,2020-06,Investigation complete; no suspect identified,2458
+Bicycle theft,2020-06,Local resolution,3
+Bicycle theft,2020-06,Offender given a caution,1
+Bicycle theft,2020-06,Status update unavailable,40
+Bicycle theft,2020-07,Awaiting court outcome,23
+Bicycle theft,2020-07,Investigation complete; no suspect identified,2730
+Bicycle theft,2020-07,Local resolution,1
+Bicycle theft,2020-07,Offender given a caution,3
+Bicycle theft,2020-07,Status update unavailable,48
+Bicycle theft,2020-08,Awaiting court outcome,23
+Bicycle theft,2020-08,Investigation complete; no suspect identified,2907
+Bicycle theft,2020-08,Local resolution,6
+Bicycle theft,2020-08,Offender given a caution,1
+Bicycle theft,2020-08,Status update unavailable,59
+Bicycle theft,2020-09,Awaiting court outcome,24
+Bicycle theft,2020-09,Investigation complete; no suspect identified,2966
+Bicycle theft,2020-09,Local resolution,5
+Bicycle theft,2020-09,Offender given a caution,2
+Bicycle theft,2020-09,Under investigation,55
+Bicycle theft,2020-10,Awaiting court outcome,18
+Bicycle theft,2020-10,Investigation complete; no suspect identified,2502
+Bicycle theft,2020-10,Local resolution,4
+Bicycle theft,2020-10,Offender given a caution,2
+Bicycle theft,2020-10,Under investigation,70
+Bicycle theft,2020-11,Awaiting court outcome,14
+Bicycle theft,2020-11,Investigation complete; no suspect identified,1882
+Bicycle theft,2020-11,Local resolution,4
+Bicycle theft,2020-11,Offender given a caution,3
+Bicycle theft,2020-11,Under investigation,76
+Bicycle theft,2020-12,Awaiting court outcome,4
+Bicycle theft,2020-12,Investigation complete; no suspect identified,1204
+Bicycle theft,2020-12,Local resolution,3
+Bicycle theft,2020-12,Under investigation,93
+Burglary,2020-01,Awaiting court outcome,51
+Burglary,2020-01,Court result unavailable,214
+Burglary,2020-01,Investigation complete; no suspect identified,2714
+Burglary,2020-01,Offender given a caution,7
+Burglary,2020-01,Status update unavailable,3889
+Burglary,2020-02,Awaiting court outcome,47
+Burglary,2020-02,Court result unavailable,187
+Burglary,2020-02,Investigation complete; no suspect identified,3252
+Burglary,2020-02,Local resolution,4
+Burglary,2020-02,Offender given a caution,3
+Burglary,2020-02,Status update unavailable,2711
+Burglary,2020-03,Awaiting court outcome,53
+Burglary,2020-03,Court result unavailable,193
+Burglary,2020-03,Formal action is not in the public interest,1
+Burglary,2020-03,Investigation complete; no suspect identified,4998
+Burglary,2020-03,Local resolution,2
+Burglary,2020-03,Offender given a caution,3
+Burglary,2020-03,Status update unavailable,92
+Burglary,2020-03,Suspect charged as part of another case,2
+Burglary,2020-04,Awaiting court outcome,58
+Burglary,2020-04,Court result unavailable,179
+Burglary,2020-04,Investigation complete; no suspect identified,3329
+Burglary,2020-04,Local resolution,4
+Burglary,2020-04,Offender given a caution,6
+Burglary,2020-04,Status update unavailable,67
+Burglary,2020-05,Awaiting court outcome,74
+Burglary,2020-05,Court result unavailable,142
+Burglary,2020-05,Investigation complete; no suspect identified,3575
+Burglary,2020-05,Local resolution,2
+Burglary,2020-05,Offender given a caution,6
+Burglary,2020-05,Offender given penalty notice,1
+Burglary,2020-05,Status update unavailable,76
+Burglary,2020-06,Awaiting court outcome,141
+Burglary,2020-06,Court result unavailable,80
+Burglary,2020-06,Investigation complete; no suspect identified,3949
+Burglary,2020-06,Local resolution,6
+Burglary,2020-06,Offender given a caution,2
+Burglary,2020-06,Status update unavailable,126
+Burglary,2020-07,Awaiting court outcome,226
+Burglary,2020-07,Investigation complete; no suspect identified,4497
+Burglary,2020-07,Local resolution,3
+Burglary,2020-07,Status update unavailable,182
+Burglary,2020-08,Awaiting court outcome,200
+Burglary,2020-08,Investigation complete; no suspect identified,4557
+Burglary,2020-08,Local resolution,2
+Burglary,2020-08,Offender given a caution,3
+Burglary,2020-08,Status update unavailable,219
+Burglary,2020-09,Awaiting court outcome,178
+Burglary,2020-09,Investigation complete; no suspect identified,4757
+Burglary,2020-09,Local resolution,6
+Burglary,2020-09,Offender given a caution,1
+Burglary,2020-09,Under investigation,233
+Burglary,2020-10,Awaiting court outcome,143
+Burglary,2020-10,Investigation complete; no suspect identified,5179
+Burglary,2020-10,Offender given a caution,4
+Burglary,2020-10,Under investigation,263
+Burglary,2020-11,Awaiting court outcome,131
+Burglary,2020-11,Investigation complete; no suspect identified,4605
+Burglary,2020-11,Local resolution,3
+Burglary,2020-11,Offender given a caution,6
+Burglary,2020-11,Under investigation,444
+Burglary,2020-12,Awaiting court outcome,99
+Burglary,2020-12,Investigation complete; no suspect identified,3958
+Burglary,2020-12,Local resolution,1
+Burglary,2020-12,Offender given a caution,2
+Burglary,2020-12,Offender given penalty notice,1
+Burglary,2020-12,Suspect charged as part of another case,1
+Burglary,2020-12,Under investigation,683
+Criminal damage and arson,2020-01,Awaiting court outcome,16
+Criminal damage and arson,2020-01,Court result unavailable,186
+Criminal damage and arson,2020-01,Investigation complete; no suspect identified,1650
+Criminal damage and arson,2020-01,Local resolution,60
+Criminal damage and arson,2020-01,Offender given a caution,49
+Criminal damage and arson,2020-01,Offender given penalty notice,2
+Criminal damage and arson,2020-01,Status update unavailable,2383
+Criminal damage and arson,2020-02,Awaiting court outcome,15
+Criminal damage and arson,2020-02,Court result unavailable,198
+Criminal damage and arson,2020-02,Investigation complete; no suspect identified,1991
+Criminal damage and arson,2020-02,Local resolution,67
+Criminal damage and arson,2020-02,Offender given a caution,52
+Criminal damage and arson,2020-02,Offender given penalty notice,5
+Criminal damage and arson,2020-02,Status update unavailable,1864
+Criminal damage and arson,2020-03,Awaiting court outcome,20
+Criminal damage and arson,2020-03,Court result unavailable,213
+Criminal damage and arson,2020-03,Investigation complete; no suspect identified,3722
+Criminal damage and arson,2020-03,Local resolution,54
+Criminal damage and arson,2020-03,Offender given a caution,56
+Criminal damage and arson,2020-03,Offender given penalty notice,9
+Criminal damage and arson,2020-03,Status update unavailable,270
+Criminal damage and arson,2020-04,Awaiting court outcome,37
+Criminal damage and arson,2020-04,Court result unavailable,208
+Criminal damage and arson,2020-04,Investigation complete; no suspect identified,2881
+Criminal damage and arson,2020-04,Local resolution,55
+Criminal damage and arson,2020-04,Offender given a caution,60
+Criminal damage and arson,2020-04,Offender given penalty notice,11
+Criminal damage and arson,2020-04,Status update unavailable,227
+Criminal damage and arson,2020-05,Awaiting court outcome,55
+Criminal damage and arson,2020-05,Court result unavailable,185
+Criminal damage and arson,2020-05,Investigation complete; no suspect identified,3314
+Criminal damage and arson,2020-05,Local resolution,69
+Criminal damage and arson,2020-05,Offender given a caution,48
+Criminal damage and arson,2020-05,Offender given penalty notice,3
+Criminal damage and arson,2020-05,Status update unavailable,216
+Criminal damage and arson,2020-06,Awaiting court outcome,105
+Criminal damage and arson,2020-06,Court result unavailable,119
+Criminal damage and arson,2020-06,Investigation complete; no suspect identified,3715
+Criminal damage and arson,2020-06,Local resolution,59
+Criminal damage and arson,2020-06,Offender given a caution,61
+Criminal damage and arson,2020-06,Offender given penalty notice,12
+Criminal damage and arson,2020-06,Status update unavailable,256
+Criminal damage and arson,2020-07,Awaiting court outcome,225
+Criminal damage and arson,2020-07,Investigation complete; no suspect identified,4023
+Criminal damage and arson,2020-07,Local resolution,69
+Criminal damage and arson,2020-07,Offender given a caution,54
+Criminal damage and arson,2020-07,Offender given penalty notice,6
+Criminal damage and arson,2020-07,Status update unavailable,287
+Criminal damage and arson,2020-08,Awaiting court outcome,225
+Criminal damage and arson,2020-08,Investigation complete; no suspect identified,3992
+Criminal damage and arson,2020-08,Local resolution,87
+Criminal damage and arson,2020-08,Offender given a caution,53
+Criminal damage and arson,2020-08,Offender given penalty notice,2
+Criminal damage and arson,2020-08,Status update unavailable,336
+Criminal damage and arson,2020-09,Awaiting court outcome,211
+Criminal damage and arson,2020-09,Investigation complete; no suspect identified,3576
+Criminal damage and arson,2020-09,Local resolution,57
+Criminal damage and arson,2020-09,Offender given a caution,50
+Criminal damage and arson,2020-09,Offender given penalty notice,7
+Criminal damage and arson,2020-09,Under investigation,351
+Criminal damage and arson,2020-10,Awaiting court outcome,184
+Criminal damage and arson,2020-10,Investigation complete; no suspect identified,3539
+Criminal damage and arson,2020-10,Local resolution,51
+Criminal damage and arson,2020-10,Offender given a caution,53
+Criminal damage and arson,2020-10,Offender given penalty notice,5
+Criminal damage and arson,2020-10,Under investigation,359
+Criminal damage and arson,2020-11,Awaiting court outcome,169
+Criminal damage and arson,2020-11,Investigation complete; no suspect identified,3445
+Criminal damage and arson,2020-11,Local resolution,45
+Criminal damage and arson,2020-11,Offender given a caution,39
+Criminal damage and arson,2020-11,Offender given penalty notice,6
+Criminal damage and arson,2020-11,Under investigation,483
+Criminal damage and arson,2020-12,Awaiting court outcome,166
+Criminal damage and arson,2020-12,Investigation complete; no suspect identified,3106
+Criminal damage and arson,2020-12,Local resolution,46
+Criminal damage and arson,2020-12,Offender given a caution,39
+Criminal damage and arson,2020-12,Offender given penalty notice,3
+Criminal damage and arson,2020-12,Under investigation,705
+Drugs,2020-01,Awaiting court outcome,59
+Drugs,2020-01,Court result unavailable,787
+Drugs,2020-01,Investigation complete; no suspect identified,294
+Drugs,2020-01,Local resolution,2157
+Drugs,2020-01,Offender given a caution,199
+Drugs,2020-01,Offender given a drugs possession warning,27
+Drugs,2020-01,Offender given penalty notice,458
+Drugs,2020-01,Status update unavailable,266
+Drugs,2020-02,Awaiting court outcome,47
+Drugs,2020-02,Court result unavailable,726
+Drugs,2020-02,Formal action is not in the public interest,1
+Drugs,2020-02,Investigation complete; no suspect identified,281
+Drugs,2020-02,Local resolution,1868
+Drugs,2020-02,Offender given a caution,164
+Drugs,2020-02,Offender given a drugs possession warning,33
+Drugs,2020-02,Offender given penalty notice,420
+Drugs,2020-02,Status update unavailable,239
+Drugs,2020-03,Awaiting court outcome,81
+Drugs,2020-03,Court result unavailable,674
+Drugs,2020-03,Investigation complete; no suspect identified,315
+Drugs,2020-03,Local resolution,1700
+Drugs,2020-03,Offender given a caution,139
+Drugs,2020-03,Offender given a drugs possession warning,43
+Drugs,2020-03,Offender given penalty notice,463
+Drugs,2020-03,Status update unavailable,213
+Drugs,2020-04,Awaiting court outcome,145
+Drugs,2020-04,Court result unavailable,900
+Drugs,2020-04,Investigation complete; no suspect identified,304
+Drugs,2020-04,Local resolution,2370
+Drugs,2020-04,Offender given a caution,195
+Drugs,2020-04,Offender given a drugs possession warning,41
+Drugs,2020-04,Offender given penalty notice,638
+Drugs,2020-04,Status update unavailable,336
+Drugs,2020-05,Awaiting court outcome,236
+Drugs,2020-05,Court result unavailable,1064
+Drugs,2020-05,Investigation complete; no suspect identified,401
+Drugs,2020-05,Local resolution,3005
+Drugs,2020-05,Offender given a caution,259
+Drugs,2020-05,Offender given a drugs possession warning,50
+Drugs,2020-05,Offender given penalty notice,882
+Drugs,2020-05,Status update unavailable,477
+Drugs,2020-06,Awaiting court outcome,302
+Drugs,2020-06,Court result unavailable,520
+Drugs,2020-06,Investigation complete; no suspect identified,313
+Drugs,2020-06,Local resolution,2344
+Drugs,2020-06,Offender given a caution,174
+Drugs,2020-06,Offender given a drugs possession warning,25
+Drugs,2020-06,Offender given penalty notice,616
+Drugs,2020-06,Status update unavailable,320
+Drugs,2020-07,Awaiting court outcome,945
+Drugs,2020-07,Investigation complete; no suspect identified,321
+Drugs,2020-07,Local resolution,2075
+Drugs,2020-07,Offender given a caution,161
+Drugs,2020-07,Offender given a drugs possession warning,14
+Drugs,2020-07,Offender given penalty notice,585
+Drugs,2020-07,Status update unavailable,419
+Drugs,2020-08,Awaiting court outcome,642
+Drugs,2020-08,Investigation complete; no suspect identified,255
+Drugs,2020-08,Local resolution,1662
+Drugs,2020-08,Offender given a caution,125
+Drugs,2020-08,Offender given a drugs possession warning,14
+Drugs,2020-08,Offender given penalty notice,460
+Drugs,2020-08,Status update unavailable,343
+Drugs,2020-09,Awaiting court outcome,683
+Drugs,2020-09,Investigation complete; no suspect identified,254
+Drugs,2020-09,Local resolution,1587
+Drugs,2020-09,Offender given a caution,135
+Drugs,2020-09,Offender given a drugs possession warning,13
+Drugs,2020-09,Offender given penalty notice,404
+Drugs,2020-09,Under investigation,427
+Drugs,2020-10,Awaiting court outcome,706
+Drugs,2020-10,Investigation complete; no suspect identified,288
+Drugs,2020-10,Local resolution,1928
+Drugs,2020-10,Offender given a caution,163
+Drugs,2020-10,Offender given a drugs possession warning,36
+Drugs,2020-10,Offender given penalty notice,474
+Drugs,2020-10,Under investigation,496
+Drugs,2020-11,Awaiting court outcome,705
+Drugs,2020-11,Investigation complete; no suspect identified,269
+Drugs,2020-11,Local resolution,2071
+Drugs,2020-11,Offender given a caution,167
+Drugs,2020-11,Offender given a drugs possession warning,21
+Drugs,2020-11,Offender given penalty notice,543
+Drugs,2020-11,Under investigation,597
+Drugs,2020-12,Awaiting court outcome,515
+Drugs,2020-12,Investigation complete; no suspect identified,190
+Drugs,2020-12,Local resolution,1644
+Drugs,2020-12,Offender given a caution,105
+Drugs,2020-12,Offender given a drugs possession warning,21
+Drugs,2020-12,Offender given penalty notice,435
+Drugs,2020-12,Under investigation,680
+Other crime,2020-01,Awaiting court outcome,15
+Other crime,2020-01,Court result unavailable,101
+Other crime,2020-01,Investigation complete; no suspect identified,427
+Other crime,2020-01,Local resolution,47
+Other crime,2020-01,Offender given a caution,15
+Other crime,2020-01,Status update unavailable,223
+Other crime,2020-02,Awaiting court outcome,13
+Other crime,2020-02,Court result unavailable,80
+Other crime,2020-02,Investigation complete; no suspect identified,415
+Other crime,2020-02,Local resolution,37
+Other crime,2020-02,Offender given a caution,11
+Other crime,2020-02,Status update unavailable,197
+Other crime,2020-03,Awaiting court outcome,22
+Other crime,2020-03,Court result unavailable,112
+Other crime,2020-03,Investigation complete; no suspect identified,500
+Other crime,2020-03,Local resolution,46
+Other crime,2020-03,Offender given a caution,13
+Other crime,2020-03,Status update unavailable,115
+Other crime,2020-04,Awaiting court outcome,16
+Other crime,2020-04,Court result unavailable,109
+Other crime,2020-04,Investigation complete; no suspect identified,459
+Other crime,2020-04,Local resolution,8
+Other crime,2020-04,Offender given a caution,7
+Other crime,2020-04,Status update unavailable,148
+Other crime,2020-05,Awaiting court outcome,17
+Other crime,2020-05,Court result unavailable,103
+Other crime,2020-05,Investigation complete; no suspect identified,518
+Other crime,2020-05,Local resolution,11
+Other crime,2020-05,Offender given a caution,3
+Other crime,2020-05,Status update unavailable,167
+Other crime,2020-06,Awaiting court outcome,44
+Other crime,2020-06,Court result unavailable,79
+Other crime,2020-06,Investigation complete; no suspect identified,542
+Other crime,2020-06,Local resolution,13
+Other crime,2020-06,Offender given a caution,11
+Other crime,2020-06,Status update unavailable,184
+Other crime,2020-07,Awaiting court outcome,115
+Other crime,2020-07,Investigation complete; no suspect identified,558
+Other crime,2020-07,Local resolution,18
+Other crime,2020-07,Offender given a caution,8
+Other crime,2020-07,Status update unavailable,188
+Other crime,2020-08,Awaiting court outcome,86
+Other crime,2020-08,Investigation complete; no suspect identified,491
+Other crime,2020-08,Local resolution,17
+Other crime,2020-08,Offender given a caution,8
+Other crime,2020-08,Status update unavailable,177
+Other crime,2020-09,Awaiting court outcome,69
+Other crime,2020-09,Investigation complete; no suspect identified,582
+Other crime,2020-09,Local resolution,22
+Other crime,2020-09,Offender given a caution,11
+Other crime,2020-09,Under investigation,277
+Other crime,2020-10,Awaiting court outcome,80
+Other crime,2020-10,Investigation complete; no suspect identified,462
+Other crime,2020-10,Local resolution,16
+Other crime,2020-10,Offender given a caution,12
+Other crime,2020-10,Offender given penalty notice,1
+Other crime,2020-10,Suspect charged as part of another case,1
+Other crime,2020-10,Under investigation,237
+Other crime,2020-11,Awaiting court outcome,84
+Other crime,2020-11,Investigation complete; no suspect identified,472
+Other crime,2020-11,Local resolution,18
+Other crime,2020-11,Offender given a caution,5
+Other crime,2020-11,Under investigation,399
+Other crime,2020-12,Awaiting court outcome,64
+Other crime,2020-12,Investigation complete; no suspect identified,317
+Other crime,2020-12,Local resolution,19
+Other crime,2020-12,Offender given a caution,9
+Other crime,2020-12,Under investigation,366
+Other theft,2020-01,Awaiting court outcome,24
+Other theft,2020-01,Court result unavailable,82
+Other theft,2020-01,Investigation complete; no suspect identified,4150
+Other theft,2020-01,Local resolution,35
+Other theft,2020-01,Offender given a caution,15
+Other theft,2020-01,Status update unavailable,5086
+Other theft,2020-02,Awaiting court outcome,24
+Other theft,2020-02,Court result unavailable,67
+Other theft,2020-02,Investigation complete; no suspect identified,5133
+Other theft,2020-02,Local resolution,19
+Other theft,2020-02,Offender given a caution,13
+Other theft,2020-02,Status update unavailable,4390
+Other theft,2020-03,Awaiting court outcome,13
+Other theft,2020-03,Court result unavailable,64
+Other theft,2020-03,Investigation complete; no suspect identified,7175
+Other theft,2020-03,Local resolution,23
+Other theft,2020-03,Offender given a caution,10
+Other theft,2020-03,Status update unavailable,127
+Other theft,2020-04,Awaiting court outcome,16
+Other theft,2020-04,Court result unavailable,54
+Other theft,2020-04,Investigation complete; no suspect identified,3717
+Other theft,2020-04,Local resolution,10
+Other theft,2020-04,Offender given a caution,6
+Other theft,2020-04,Status update unavailable,65
+Other theft,2020-05,Awaiting court outcome,13
+Other theft,2020-05,Court result unavailable,24
+Other theft,2020-05,Investigation complete; no suspect identified,4264
+Other theft,2020-05,Local resolution,25
+Other theft,2020-05,Offender given a caution,7
+Other theft,2020-05,Status update unavailable,87
+Other theft,2020-06,Awaiting court outcome,35
+Other theft,2020-06,Court result unavailable,16
+Other theft,2020-06,Investigation complete; no suspect identified,5150
+Other theft,2020-06,Local resolution,16
+Other theft,2020-06,Offender given a caution,5
+Other theft,2020-06,Status update unavailable,123
+Other theft,2020-07,Awaiting court outcome,45
+Other theft,2020-07,Investigation complete; no suspect identified,6689
+Other theft,2020-07,Local resolution,19
+Other theft,2020-07,Offender given a caution,13
+Other theft,2020-07,Status update unavailable,160
+Other theft,2020-08,Awaiting court outcome,44
+Other theft,2020-08,Investigation complete; no suspect identified,7312
+Other theft,2020-08,Local resolution,16
+Other theft,2020-08,Offender given a caution,11
+Other theft,2020-08,Status update unavailable,199
+Other theft,2020-08,Suspect charged as part of another case,1
+Other theft,2020-09,Awaiting court outcome,35
+Other theft,2020-09,Investigation complete; no suspect identified,7155
+Other theft,2020-09,Local resolution,27
+Other theft,2020-09,Offender given a caution,10
+Other theft,2020-09,Under investigation,215
+Other theft,2020-10,Awaiting court outcome,41
+Other theft,2020-10,Investigation complete; no suspect identified,6799
+Other theft,2020-10,Local resolution,25
+Other theft,2020-10,Offender given a caution,12
+Other theft,2020-10,Under investigation,309
+Other theft,2020-11,Awaiting court outcome,33
+Other theft,2020-11,Investigation complete; no suspect identified,5228
+Other theft,2020-11,Local resolution,5
+Other theft,2020-11,Offender given a caution,13
+Other theft,2020-11,Under investigation,408
+Other theft,2020-12,Awaiting court outcome,25
+Other theft,2020-12,Investigation complete; no suspect identified,5436
+Other theft,2020-12,Local resolution,14
+Other theft,2020-12,Offender given a caution,11
+Other theft,2020-12,Under investigation,800
+Possession of weapons,2020-01,Awaiting court outcome,12
+Possession of weapons,2020-01,Court result unavailable,251
+Possession of weapons,2020-01,Investigation complete; no suspect identified,159
+Possession of weapons,2020-01,Local resolution,13
+Possession of weapons,2020-01,Offender given a caution,33
+Possession of weapons,2020-01,Status update unavailable,90
+Possession of weapons,2020-02,Awaiting court outcome,13
+Possession of weapons,2020-02,Court result unavailable,202
+Possession of weapons,2020-02,Investigation complete; no suspect identified,128
+Possession of weapons,2020-02,Local resolution,7
+Possession of weapons,2020-02,Offender given a caution,29
+Possession of weapons,2020-02,Status update unavailable,71
+Possession of weapons,2020-03,Awaiting court outcome,13
+Possession of weapons,2020-03,Court result unavailable,201
+Possession of weapons,2020-03,Investigation complete; no suspect identified,167
+Possession of weapons,2020-03,Local resolution,6
+Possession of weapons,2020-03,Offender given a caution,30
+Possession of weapons,2020-03,Status update unavailable,59
+Possession of weapons,2020-04,Awaiting court outcome,29
+Possession of weapons,2020-04,Court result unavailable,210
+Possession of weapons,2020-04,Investigation complete; no suspect identified,122
+Possession of weapons,2020-04,Local resolution,3
+Possession of weapons,2020-04,Offender given a caution,20
+Possession of weapons,2020-04,Status update unavailable,73
+Possession of weapons,2020-05,Awaiting court outcome,32
+Possession of weapons,2020-05,Court result unavailable,220
+Possession of weapons,2020-05,Investigation complete; no suspect identified,164
+Possession of weapons,2020-05,Local resolution,9
+Possession of weapons,2020-05,Offender given a caution,25
+Possession of weapons,2020-05,Offender given penalty notice,1
+Possession of weapons,2020-05,Status update unavailable,74
+Possession of weapons,2020-06,Awaiting court outcome,62
+Possession of weapons,2020-06,Court result unavailable,129
+Possession of weapons,2020-06,Investigation complete; no suspect identified,151
+Possession of weapons,2020-06,Local resolution,6
+Possession of weapons,2020-06,Offender given a caution,18
+Possession of weapons,2020-06,Status update unavailable,92
+Possession of weapons,2020-07,Awaiting court outcome,203
+Possession of weapons,2020-07,Investigation complete; no suspect identified,148
+Possession of weapons,2020-07,Local resolution,2
+Possession of weapons,2020-07,Offender given a caution,15
+Possession of weapons,2020-07,Offender given penalty notice,1
+Possession of weapons,2020-07,Status update unavailable,83
+Possession of weapons,2020-08,Awaiting court outcome,189
+Possession of weapons,2020-08,Investigation complete; no suspect identified,155
+Possession of weapons,2020-08,Local resolution,4
+Possession of weapons,2020-08,Offender given a caution,16
+Possession of weapons,2020-08,Status update unavailable,85
+Possession of weapons,2020-09,Awaiting court outcome,208
+Possession of weapons,2020-09,Investigation complete; no suspect identified,163
+Possession of weapons,2020-09,Local resolution,6
+Possession of weapons,2020-09,Offender given a caution,21
+Possession of weapons,2020-09,Under investigation,104
+Possession of weapons,2020-10,Awaiting court outcome,185
+Possession of weapons,2020-10,Investigation complete; no suspect identified,140
+Possession of weapons,2020-10,Local resolution,8
+Possession of weapons,2020-10,Offender given a caution,31
+Possession of weapons,2020-10,Under investigation,131
+Possession of weapons,2020-11,Awaiting court outcome,191
+Possession of weapons,2020-11,Investigation complete; no suspect identified,133
+Possession of weapons,2020-11,Local resolution,3
+Possession of weapons,2020-11,Offender given a caution,35
+Possession of weapons,2020-11,Under investigation,146
+Possession of weapons,2020-12,Awaiting court outcome,162
+Possession of weapons,2020-12,Investigation complete; no suspect identified,107
+Possession of weapons,2020-12,Local resolution,2
+Possession of weapons,2020-12,Offender given a caution,12
+Possession of weapons,2020-12,Under investigation,104
+Public order,2020-01,Awaiting court outcome,21
+Public order,2020-01,Court result unavailable,277
+Public order,2020-01,Investigation complete; no suspect identified,2073
+Public order,2020-01,Local resolution,33
+Public order,2020-01,Offender given a caution,27
+Public order,2020-01,Offender given penalty notice,24
+Public order,2020-01,Status update unavailable,1529
+Public order,2020-02,Awaiting court outcome,34
+Public order,2020-02,Court result unavailable,199
+Public order,2020-02,Investigation complete; no suspect identified,2294
+Public order,2020-02,Local resolution,39
+Public order,2020-02,Offender given a caution,19
+Public order,2020-02,Offender given penalty notice,17
+Public order,2020-02,Status update unavailable,1207
+Public order,2020-03,Awaiting court outcome,38
+Public order,2020-03,Court result unavailable,200
+Public order,2020-03,Investigation complete; no suspect identified,3150
+Public order,2020-03,Local resolution,25
+Public order,2020-03,Offender given a caution,26
+Public order,2020-03,Offender given penalty notice,20
+Public order,2020-03,Status update unavailable,460
+Public order,2020-04,Awaiting court outcome,52
+Public order,2020-04,Court result unavailable,224
+Public order,2020-04,Investigation complete; no suspect identified,2723
+Public order,2020-04,Local resolution,25
+Public order,2020-04,Offender given a caution,16
+Public order,2020-04,Offender given penalty notice,21
+Public order,2020-04,Status update unavailable,381
+Public order,2020-05,Awaiting court outcome,104
+Public order,2020-05,Court result unavailable,206
+Public order,2020-05,Investigation complete; no suspect identified,3251
+Public order,2020-05,Local resolution,47
+Public order,2020-05,Offender given a caution,18
+Public order,2020-05,Offender given penalty notice,42
+Public order,2020-05,Status update unavailable,549
+Public order,2020-06,Awaiting court outcome,210
+Public order,2020-06,Court result unavailable,164
+Public order,2020-06,Investigation complete; no suspect identified,3773
+Public order,2020-06,Local resolution,37
+Public order,2020-06,Offender given a caution,28
+Public order,2020-06,Offender given penalty notice,26
+Public order,2020-06,Status update unavailable,691
+Public order,2020-07,Awaiting court outcome,351
+Public order,2020-07,Investigation complete; no suspect identified,4262
+Public order,2020-07,Local resolution,45
+Public order,2020-07,Offender given a caution,24
+Public order,2020-07,Offender given penalty notice,33
+Public order,2020-07,Status update unavailable,825
+Public order,2020-08,Awaiting court outcome,310
+Public order,2020-08,Investigation complete; no suspect identified,4179
+Public order,2020-08,Local resolution,34
+Public order,2020-08,Offender given a caution,29
+Public order,2020-08,Offender given penalty notice,33
+Public order,2020-08,Status update unavailable,858
+Public order,2020-09,Awaiting court outcome,252
+Public order,2020-09,Investigation complete; no suspect identified,3941
+Public order,2020-09,Local resolution,43
+Public order,2020-09,Offender given a caution,19
+Public order,2020-09,Offender given penalty notice,21
+Public order,2020-09,Under investigation,840
+Public order,2020-10,Awaiting court outcome,243
+Public order,2020-10,Investigation complete; no suspect identified,3453
+Public order,2020-10,Local resolution,34
+Public order,2020-10,Offender given a caution,17
+Public order,2020-10,Offender given penalty notice,18
+Public order,2020-10,Under investigation,780
+Public order,2020-11,Awaiting court outcome,250
+Public order,2020-11,Investigation complete; no suspect identified,3000
+Public order,2020-11,Local resolution,26
+Public order,2020-11,Offender given a caution,25
+Public order,2020-11,Offender given penalty notice,26
+Public order,2020-11,Under investigation,884
+Public order,2020-12,Awaiting court outcome,174
+Public order,2020-12,Investigation complete; no suspect identified,2527
+Public order,2020-12,Local resolution,21
+Public order,2020-12,Offender given a caution,16
+Public order,2020-12,Offender given penalty notice,19
+Public order,2020-12,Under investigation,1102
+Robbery,2020-01,Awaiting court outcome,26
+Robbery,2020-01,Court result unavailable,186
+Robbery,2020-01,Investigation complete; no suspect identified,1903
+Robbery,2020-01,Local resolution,2
+Robbery,2020-01,Offender given a caution,5
+Robbery,2020-01,Status update unavailable,1110
+Robbery,2020-02,Awaiting court outcome,44
+Robbery,2020-02,Court result unavailable,108
+Robbery,2020-02,Investigation complete; no suspect identified,2063
+Robbery,2020-02,Local resolution,5
+Robbery,2020-02,Offender given a caution,3
+Robbery,2020-02,Status update unavailable,899
+Robbery,2020-03,Awaiting court outcome,45
+Robbery,2020-03,Court result unavailable,83
+Robbery,2020-03,Investigation complete; no suspect identified,2330
+Robbery,2020-03,Local resolution,4
+Robbery,2020-03,Offender given a caution,6
+Robbery,2020-03,Status update unavailable,218
+Robbery,2020-04,Awaiting court outcome,28
+Robbery,2020-04,Court result unavailable,63
+Robbery,2020-04,Investigation complete; no suspect identified,917
+Robbery,2020-04,Offender given a caution,2
+Robbery,2020-04,Status update unavailable,82
+Robbery,2020-05,Awaiting court outcome,42
+Robbery,2020-05,Court result unavailable,71
+Robbery,2020-05,Investigation complete; no suspect identified,983
+Robbery,2020-05,Local resolution,1
+Robbery,2020-05,Offender given a caution,2
+Robbery,2020-05,Status update unavailable,181
+Robbery,2020-06,Awaiting court outcome,74
+Robbery,2020-06,Court result unavailable,55
+Robbery,2020-06,Investigation complete; no suspect identified,1356
+Robbery,2020-06,Local resolution,2
+Robbery,2020-06,Offender given a caution,1
+Robbery,2020-06,Status update unavailable,200
+Robbery,2020-07,Awaiting court outcome,125
+Robbery,2020-07,Investigation complete; no suspect identified,1733
+Robbery,2020-07,Local resolution,5
+Robbery,2020-07,Offender given a caution,3
+Robbery,2020-07,Status update unavailable,277
+Robbery,2020-08,Awaiting court outcome,118
+Robbery,2020-08,Investigation complete; no suspect identified,2015
+Robbery,2020-08,Local resolution,2
+Robbery,2020-08,Offender given a caution,2
+Robbery,2020-08,Status update unavailable,353
+Robbery,2020-09,Awaiting court outcome,117
+Robbery,2020-09,Investigation complete; no suspect identified,2049
+Robbery,2020-09,Local resolution,2
+Robbery,2020-09,Offender given a caution,1
+Robbery,2020-09,Under investigation,397
+Robbery,2020-10,Awaiting court outcome,104
+Robbery,2020-10,Investigation complete; no suspect identified,1885
+Robbery,2020-10,Local resolution,2
+Robbery,2020-10,Offender given a caution,5
+Robbery,2020-10,Suspect charged as part of another case,1
+Robbery,2020-10,Under investigation,417
+Robbery,2020-11,Awaiting court outcome,66
+Robbery,2020-11,Investigation complete; no suspect identified,1656
+Robbery,2020-11,Local resolution,4
+Robbery,2020-11,Offender given a caution,2
+Robbery,2020-11,Under investigation,543
+Robbery,2020-12,Awaiting court outcome,51
+Robbery,2020-12,Investigation complete; no suspect identified,1235
+Robbery,2020-12,Under investigation,720
+Shoplifting,2020-01,Awaiting court outcome,13
+Shoplifting,2020-01,Court result unavailable,311
+Shoplifting,2020-01,Investigation complete; no suspect identified,1825
+Shoplifting,2020-01,Local resolution,156
+Shoplifting,2020-01,Offender given a caution,39
+Shoplifting,2020-01,Offender given penalty notice,12
+Shoplifting,2020-01,Status update unavailable,1477
+Shoplifting,2020-02,Awaiting court outcome,9
+Shoplifting,2020-02,Court result unavailable,302
+Shoplifting,2020-02,Investigation complete; no suspect identified,2000
+Shoplifting,2020-02,Local resolution,166
+Shoplifting,2020-02,Offender given a caution,30
+Shoplifting,2020-02,Offender given penalty notice,9
+Shoplifting,2020-02,Status update unavailable,1321
+Shoplifting,2020-03,Awaiting court outcome,10
+Shoplifting,2020-03,Court result unavailable,200
+Shoplifting,2020-03,Investigation complete; no suspect identified,2511
+Shoplifting,2020-03,Local resolution,127
+Shoplifting,2020-03,Offender given a caution,16
+Shoplifting,2020-03,Offender given penalty notice,13
+Shoplifting,2020-03,Status update unavailable,102
+Shoplifting,2020-04,Awaiting court outcome,13
+Shoplifting,2020-04,Court result unavailable,140
+Shoplifting,2020-04,Investigation complete; no suspect identified,1263
+Shoplifting,2020-04,Local resolution,96
+Shoplifting,2020-04,Offender given a caution,4
+Shoplifting,2020-04,Offender given penalty notice,11
+Shoplifting,2020-04,Status update unavailable,158
+Shoplifting,2020-05,Awaiting court outcome,31
+Shoplifting,2020-05,Court result unavailable,152
+Shoplifting,2020-05,Investigation complete; no suspect identified,1522
+Shoplifting,2020-05,Local resolution,125
+Shoplifting,2020-05,Offender given a caution,7
+Shoplifting,2020-05,Offender given penalty notice,22
+Shoplifting,2020-05,Status update unavailable,91
+Shoplifting,2020-06,Awaiting court outcome,111
+Shoplifting,2020-06,Court result unavailable,95
+Shoplifting,2020-06,Investigation complete; no suspect identified,2006
+Shoplifting,2020-06,Local resolution,103
+Shoplifting,2020-06,Offender given a caution,14
+Shoplifting,2020-06,Offender given penalty notice,22
+Shoplifting,2020-06,Status update unavailable,44
+Shoplifting,2020-07,Awaiting court outcome,241
+Shoplifting,2020-07,Investigation complete; no suspect identified,2532
+Shoplifting,2020-07,Local resolution,100
+Shoplifting,2020-07,Offender given a caution,23
+Shoplifting,2020-07,Offender given a drugs possession warning,1
+Shoplifting,2020-07,Offender given penalty notice,26
+Shoplifting,2020-07,Status update unavailable,168
+Shoplifting,2020-08,Awaiting court outcome,218
+Shoplifting,2020-08,Investigation complete; no suspect identified,2469
+Shoplifting,2020-08,Local resolution,110
+Shoplifting,2020-08,Offender given a caution,19
+Shoplifting,2020-08,Offender given penalty notice,17
+Shoplifting,2020-08,Status update unavailable,164
+Shoplifting,2020-09,Awaiting court outcome,211
+Shoplifting,2020-09,Investigation complete; no suspect identified,2524
+Shoplifting,2020-09,Local resolution,92
+Shoplifting,2020-09,Offender given a caution,22
+Shoplifting,2020-09,Offender given penalty notice,19
+Shoplifting,2020-09,Under investigation,181
+Shoplifting,2020-10,Awaiting court outcome,236
+Shoplifting,2020-10,Investigation complete; no suspect identified,2618
+Shoplifting,2020-10,Local resolution,116
+Shoplifting,2020-10,Offender given a caution,20
+Shoplifting,2020-10,Offender given penalty notice,12
+Shoplifting,2020-10,Under investigation,213
+Shoplifting,2020-11,Awaiting court outcome,160
+Shoplifting,2020-11,Investigation complete; no suspect identified,2258
+Shoplifting,2020-11,Local resolution,79
+Shoplifting,2020-11,Offender given a caution,15
+Shoplifting,2020-11,Offender given penalty notice,11
+Shoplifting,2020-11,Under investigation,240
+Shoplifting,2020-12,Awaiting court outcome,122
+Shoplifting,2020-12,Investigation complete; no suspect identified,2007
+Shoplifting,2020-12,Local resolution,105
+Shoplifting,2020-12,Offender given a caution,17
+Shoplifting,2020-12,Offender given penalty notice,18
+Shoplifting,2020-12,Under investigation,414
+Theft from the person,2020-01,Awaiting court outcome,13
+Theft from the person,2020-01,Court result unavailable,18
+Theft from the person,2020-01,Investigation complete; no suspect identified,1254
+Theft from the person,2020-01,Local resolution,1
+Theft from the person,2020-01,Offender given a caution,6
+Theft from the person,2020-01,Status update unavailable,2912
+Theft from the person,2020-02,Awaiting court outcome,9
+Theft from the person,2020-02,Court result unavailable,21
+Theft from the person,2020-02,Investigation complete; no suspect identified,1796
+Theft from the person,2020-02,Local resolution,7
+Theft from the person,2020-02,Offender given a caution,3
+Theft from the person,2020-02,Status update unavailable,2650
+Theft from the person,2020-03,Awaiting court outcome,6
+Theft from the person,2020-03,Court result unavailable,10
+Theft from the person,2020-03,Investigation complete; no suspect identified,3287
+Theft from the person,2020-03,Local resolution,1
+Theft from the person,2020-03,Offender given a caution,3
+Theft from the person,2020-03,Status update unavailable,27
+Theft from the person,2020-04,Court result unavailable,14
+Theft from the person,2020-04,Investigation complete; no suspect identified,648
+Theft from the person,2020-04,Offender given a caution,1
+Theft from the person,2020-04,Status update unavailable,7
+Theft from the person,2020-05,Awaiting court outcome,1
+Theft from the person,2020-05,Court result unavailable,11
+Theft from the person,2020-05,Investigation complete; no suspect identified,767
+Theft from the person,2020-05,Local resolution,1
+Theft from the person,2020-05,Offender given a caution,1
+Theft from the person,2020-05,Status update unavailable,7
+Theft from the person,2020-06,Awaiting court outcome,6
+Theft from the person,2020-06,Court result unavailable,4
+Theft from the person,2020-06,Investigation complete; no suspect identified,1148
+Theft from the person,2020-06,Local resolution,1
+Theft from the person,2020-06,Offender given a caution,2
+Theft from the person,2020-06,Status update unavailable,17
+Theft from the person,2020-07,Awaiting court outcome,18
+Theft from the person,2020-07,Investigation complete; no suspect identified,1976
+Theft from the person,2020-07,Local resolution,6
+Theft from the person,2020-07,Offender given a caution,1
+Theft from the person,2020-07,Status update unavailable,39
+Theft from the person,2020-08,Awaiting court outcome,15
+Theft from the person,2020-08,Investigation complete; no suspect identified,2449
+Theft from the person,2020-08,Local resolution,4
+Theft from the person,2020-08,Offender given a caution,3
+Theft from the person,2020-08,Status update unavailable,34
+Theft from the person,2020-09,Awaiting court outcome,31
+Theft from the person,2020-09,Investigation complete; no suspect identified,2560
+Theft from the person,2020-09,Offender given a caution,2
+Theft from the person,2020-09,Under investigation,65
+Theft from the person,2020-10,Awaiting court outcome,16
+Theft from the person,2020-10,Investigation complete; no suspect identified,3075
+Theft from the person,2020-10,Local resolution,1
+Theft from the person,2020-10,Offender given a caution,1
+Theft from the person,2020-10,Under investigation,83
+Theft from the person,2020-11,Awaiting court outcome,21
+Theft from the person,2020-11,Investigation complete; no suspect identified,2403
+Theft from the person,2020-11,Local resolution,5
+Theft from the person,2020-11,Offender given a caution,1
+Theft from the person,2020-11,Under investigation,104
+Theft from the person,2020-12,Awaiting court outcome,8
+Theft from the person,2020-12,Investigation complete; no suspect identified,2736
+Theft from the person,2020-12,Offender given a caution,1
+Theft from the person,2020-12,Under investigation,293
+Vehicle crime,2020-01,Awaiting court outcome,15
+Vehicle crime,2020-01,Court result unavailable,100
+Vehicle crime,2020-01,Investigation complete; no suspect identified,2945
+Vehicle crime,2020-01,Local resolution,3
+Vehicle crime,2020-01,Offender given a caution,2
+Vehicle crime,2020-01,Status update unavailable,8837
+Vehicle crime,2020-02,Awaiting court outcome,18
+Vehicle crime,2020-02,Court result unavailable,92
+Vehicle crime,2020-02,Investigation complete; no suspect identified,3570
+Vehicle crime,2020-02,Local resolution,4
+Vehicle crime,2020-02,Offender given a caution,1
+Vehicle crime,2020-02,Status update unavailable,6613
+Vehicle crime,2020-03,Awaiting court outcome,21
+Vehicle crime,2020-03,Court result unavailable,124
+Vehicle crime,2020-03,Investigation complete; no suspect identified,9186
+Vehicle crime,2020-03,Local resolution,5
+Vehicle crime,2020-03,Offender given a caution,3
+Vehicle crime,2020-03,Status update unavailable,92
+Vehicle crime,2020-04,Awaiting court outcome,31
+Vehicle crime,2020-04,Court result unavailable,112
+Vehicle crime,2020-04,Investigation complete; no suspect identified,6072
+Vehicle crime,2020-04,Local resolution,5
+Vehicle crime,2020-04,Offender given a caution,5
+Vehicle crime,2020-04,Status update unavailable,77
+Vehicle crime,2020-05,Awaiting court outcome,35
+Vehicle crime,2020-05,Court result unavailable,81
+Vehicle crime,2020-05,Investigation complete; no suspect identified,6999
+Vehicle crime,2020-05,Local resolution,2
+Vehicle crime,2020-05,Offender given a caution,3
+Vehicle crime,2020-05,Offender given penalty notice,1
+Vehicle crime,2020-05,Status update unavailable,98
+Vehicle crime,2020-06,Awaiting court outcome,53
+Vehicle crime,2020-06,Court result unavailable,58
+Vehicle crime,2020-06,Investigation complete; no suspect identified,7833
+Vehicle crime,2020-06,Local resolution,5
+Vehicle crime,2020-06,Offender given a caution,3
+Vehicle crime,2020-06,Status update unavailable,102
+Vehicle crime,2020-07,Awaiting court outcome,106
+Vehicle crime,2020-07,Investigation complete; no suspect identified,8498
+Vehicle crime,2020-07,Local resolution,4
+Vehicle crime,2020-07,Offender given a caution,3
+Vehicle crime,2020-07,Status update unavailable,136
+Vehicle crime,2020-08,Awaiting court outcome,85
+Vehicle crime,2020-08,Investigation complete; no suspect identified,8668
+Vehicle crime,2020-08,Local resolution,4
+Vehicle crime,2020-08,Offender given a caution,5
+Vehicle crime,2020-08,Status update unavailable,115
+Vehicle crime,2020-09,Awaiting court outcome,89
+Vehicle crime,2020-09,Investigation complete; no suspect identified,9429
+Vehicle crime,2020-09,Local resolution,3
+Vehicle crime,2020-09,Offender given a caution,2
+Vehicle crime,2020-09,Under investigation,208
+Vehicle crime,2020-10,Awaiting court outcome,101
+Vehicle crime,2020-10,Investigation complete; no suspect identified,9742
+Vehicle crime,2020-10,Local resolution,2
+Vehicle crime,2020-10,Offender given a caution,2
+Vehicle crime,2020-10,Under investigation,211
+Vehicle crime,2020-11,Awaiting court outcome,69
+Vehicle crime,2020-11,Investigation complete; no suspect identified,8739
+Vehicle crime,2020-11,Local resolution,5
+Vehicle crime,2020-11,Under investigation,295
+Vehicle crime,2020-12,Awaiting court outcome,53
+Vehicle crime,2020-12,Investigation complete; no suspect identified,7125
+Vehicle crime,2020-12,Local resolution,4
+Vehicle crime,2020-12,Under investigation,523
+Violence and sexual offences,2020-01,Awaiting court outcome,141
+Violence and sexual offences,2020-01,Court result unavailable,935
+Violence and sexual offences,2020-01,Investigation complete; no suspect identified,10895
+Violence and sexual offences,2020-01,Local resolution,138
+Violence and sexual offences,2020-01,Offender given a caution,173
+Violence and sexual offences,2020-01,Offender given penalty notice,1
+Violence and sexual offences,2020-01,Status update unavailable,6044
+Violence and sexual offences,2020-02,Awaiting court outcome,137
+Violence and sexual offences,2020-02,Court result unavailable,798
+Violence and sexual offences,2020-02,Investigation complete; no suspect identified,11663
+Violence and sexual offences,2020-02,Local resolution,152
+Violence and sexual offences,2020-02,Offender given a caution,162
+Violence and sexual offences,2020-02,Offender given penalty notice,2
+Violence and sexual offences,2020-02,Status update unavailable,4918
+Violence and sexual offences,2020-03,Awaiting court outcome,223
+Violence and sexual offences,2020-03,Court result unavailable,819
+Violence and sexual offences,2020-03,Investigation complete; no suspect identified,14491
+Violence and sexual offences,2020-03,Local resolution,122
+Violence and sexual offences,2020-03,Offender given a caution,164
+Violence and sexual offences,2020-03,Offender given penalty notice,2
+Violence and sexual offences,2020-03,Status update unavailable,2404
+Violence and sexual offences,2020-04,Awaiting court outcome,229
+Violence and sexual offences,2020-04,Court result unavailable,828
+Violence and sexual offences,2020-04,Investigation complete; no suspect identified,12190
+Violence and sexual offences,2020-04,Local resolution,138
+Violence and sexual offences,2020-04,Offender given a caution,160
+Violence and sexual offences,2020-04,Offender given penalty notice,2
+Violence and sexual offences,2020-04,Status update unavailable,2028
+Violence and sexual offences,2020-05,Awaiting court outcome,401
+Violence and sexual offences,2020-05,Court result unavailable,714
+Violence and sexual offences,2020-05,Investigation complete; no suspect identified,13931
+Violence and sexual offences,2020-05,Local resolution,161
+Violence and sexual offences,2020-05,Offender given a caution,187
+Violence and sexual offences,2020-05,Status update unavailable,2660
+Violence and sexual offences,2020-06,Awaiting court outcome,597
+Violence and sexual offences,2020-06,Court result unavailable,426
+Violence and sexual offences,2020-06,Investigation complete; no suspect identified,14877
+Violence and sexual offences,2020-06,Local resolution,129
+Violence and sexual offences,2020-06,Offender given a caution,177
+Violence and sexual offences,2020-06,Status update unavailable,3304
+Violence and sexual offences,2020-07,Awaiting court outcome,1080
+Violence and sexual offences,2020-07,Investigation complete; no suspect identified,16001
+Violence and sexual offences,2020-07,Local resolution,159
+Violence and sexual offences,2020-07,Offender given a caution,182
+Violence and sexual offences,2020-07,Offender given penalty notice,1
+Violence and sexual offences,2020-07,Status update unavailable,3451
+Violence and sexual offences,2020-08,Awaiting court outcome,1027
+Violence and sexual offences,2020-08,Investigation complete; no suspect identified,15937
+Violence and sexual offences,2020-08,Local resolution,142
+Violence and sexual offences,2020-08,Offender given a caution,191
+Violence and sexual offences,2020-08,Offender given penalty notice,1
+Violence and sexual offences,2020-08,Status update unavailable,3907
+Violence and sexual offences,2020-09,Awaiting court outcome,853
+Violence and sexual offences,2020-09,Investigation complete; no suspect identified,14841
+Violence and sexual offences,2020-09,Local resolution,149
+Violence and sexual offences,2020-09,Offender given a caution,158
+Violence and sexual offences,2020-09,Offender given penalty notice,1
+Violence and sexual offences,2020-09,Under investigation,4224
+Violence and sexual offences,2020-10,Awaiting court outcome,766
+Violence and sexual offences,2020-10,Investigation complete; no suspect identified,13828
+Violence and sexual offences,2020-10,Local resolution,123
+Violence and sexual offences,2020-10,Offender given a caution,150
+Violence and sexual offences,2020-10,Under investigation,4556
+Violence and sexual offences,2020-11,Awaiting court outcome,662
+Violence and sexual offences,2020-11,Formal action is not in the public interest,1
+Violence and sexual offences,2020-11,Investigation complete; no suspect identified,12603
+Violence and sexual offences,2020-11,Local resolution,146
+Violence and sexual offences,2020-11,Offender given a caution,161
+Violence and sexual offences,2020-11,Under investigation,5289
+Violence and sexual offences,2020-12,Awaiting court outcome,514
+Violence and sexual offences,2020-12,Investigation complete; no suspect identified,10383
+Violence and sexual offences,2020-12,Local resolution,97
+Violence and sexual offences,2020-12,Offender given a caution,132
+Violence and sexual offences,2020-12,Under investigation,6602
